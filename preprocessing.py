@@ -1,8 +1,6 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import re
-from tqdm import tqdm
 
 df_notes = pd.read_csv("notes.csv")
 df_notes = df_notes.sort_values(by=['SUBJECT_ID', 'HADM_ID', 'CHARTDATE'])
@@ -15,16 +13,6 @@ icd9_with_cad = df_icd9.loc[df_icd9['ICD9_CODE'].str.startswith(tuple(cad_codes)
 df_notes['HAS_CAD'] = df_notes['SUBJECT_ID'].isin(icd9_with_cad)
 
 # Preprocess text - adapted from https://github.com/kexinhuang12345/clinicalBERT/blob/master/preprocess.py 
-def preprocess1(x):
-    y = re.sub('\\[(.*?)\\]', '', x)  # remove de-identified brackets
-    y = re.sub('[0-9]+\.', '', y)  # remove 1.2. since the segmenter segments based on this
-    y = re.sub('dr\.', 'doctor', y)
-    y = re.sub('m\.d\.', 'md', y)
-    y = re.sub('admission date:', '', y)
-    y = re.sub('discharge date:', '', y)
-    y = re.sub('--|__|==', '', y)
-    return y
-
 import re
 from tqdm import tqdm
 
@@ -47,7 +35,7 @@ def preprocessing(df_notes):
 
     df_notes['TEXT'] = df_notes['TEXT'].apply(lambda x: preprocess1(x))
 
-    # to get 318 words chunks for readmission tasks
+    # to get 318 words chunks 
     rows = []
     for i in tqdm(range(len(df_notes))):
         x = df_notes.TEXT.iloc[i].split()
