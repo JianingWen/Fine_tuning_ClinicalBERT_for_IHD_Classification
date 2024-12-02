@@ -2,10 +2,10 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-df_notes = pd.read_csv("notes.csv")
+df_notes = pd.read_csv("Dataset/notes.csv")
 df_notes = df_notes.sort_values(by=['SUBJECT_ID', 'HADM_ID', 'CHARTDATE'])
 
-df_icd9 = pd.read_csv('icd9.csv')
+df_icd9 = pd.read_csv('Dataset/icd9.csv')
 
 # Create HAS_CAD Label (has coronary artery disease)
 cad_codes = ['410', '411', '412', '413', '414']
@@ -57,3 +57,5 @@ def preprocessing(df_notes):
     return want
 
 df_notes = preprocessing(df_notes)
+df_notes['Label'] = df_notes['Label'].astype(int)
+# df_notes.to_csv("processed_notes.csv", index=False)

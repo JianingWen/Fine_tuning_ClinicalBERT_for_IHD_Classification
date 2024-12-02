@@ -1,0 +1,4710 @@
+ROW_ID,SUBJECT_ID,HADM_ID,CHARTDATE,CHARTTIME,STORETIME,CATEGORY,DESCRIPTION,CGID,ISERROR,TEXT
+712715,72931,139565,2123-12-24,2123-12-24T14:56:00,2123-12-24T15:17:30,Physician ,LP,19777,,"TITLE:
+   LP Note
+   Patient draped and prepped in standard fashion.  Time-out performed.
+   Consent per ICU consent.  Pre-treatment with 2 bags of FFP.  Resident
+   [**Doctor Last Name 10471**] unable to obtain CSF after three attempts followed by
+   Attending [**Doctor Last Name **] obtaining tap on first attempt.  3 tubes filled and
+   sent per ID request.  Patient tolerated procedure without incident.
+   ------ Protected Section ------
+   Agree with above.  Only 3 tubes filled because of slow flow of fluid.
+   Fluid amber colored.  Opening pressure of 8 cmH20.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 1776**] [**Name8 (MD) **], MD
+   on:[**2123-12-24**] 15:17 ------
+"
+555092,74201,169757,2160-02-20,2160-02-20T10:39:00,2160-02-20T18:21:38,Physician ,CVI,15626,,"TITLE:
+   CVICU
+   HPI:
+   HD7
+   [**2-20**] POD 5
+   82F s/p CABGx4(LIMA-LAD, SVG-OM-Y-Diag, SVG-PLB)[**2-15**]
+   EF:50% Cr:1.0 Wt: 75.4K HgA1c: 5.7
+   PMH:Gout, spinal stenosis,gastric reflux, [**Last Name (un) 1220**]. joint disease
+   [**Last Name (un) 508**]:Allopurinol 300/D,Zestril 10/D,methylprednisolone4mg QID,Prilosec
+   20/D,Ultram 50 QID,oxycodone 2.5 QID,Atenolo 50/D, colace
+   Current medications:
+   Acetaminophen, Amiodarone, Aspirin EC, Bisacodyl, Ciprofloxacin HCl,
+   Docusate Sodium, Furosemide, Heparin, Metoprolol Tartrate,
+   Pantoprazole, Simvastatin, TraMADOL (Ultram
+   24 Hour Events:
+   Mental status continued to improve
+   Episode of Afib continues on betablockers and Amiodarone
+ PICC LINE - START [**2160-2-19**] 03:37 PM
+ CORDIS/INTRODUCER - STOP [**2160-2-19**] 07:00 PM
+   Post operative day:
+   POD#5 - CABG x 4
+   Allergies:
+   Penicillins
+   Anaphylaxis;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**2160-2-20**] 09:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**63**] a.m.
+   Tmax: 37.7
+C (99.8
+   T current: 36.7
+C (98.1
+   HR: 80 (74 - 116) bpm
+   BP: 131/54(73) {87/39(42) - 131/86(90)} mmHg
+   RR: 19 (16 - 32) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 83 kg (admission): 75.4 kg
+   Height: 61 Inch
+             Total In:
+                                                                  1,277 mL
+                                                                    191 mL
+   PO:
+                                                                    800 mL
+             Tube feeding:
+   IV Fluid:
+                                                                    477 mL
+                                                                    191 mL
+   Blood products:
+   Total out:
+                                                                  4,770 mL
+                                                                  1,930 mL
+   Urine:
+                                                                  4,770 mL
+                                                                  1,930 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -3,493 mL
+                                                                 -1,740 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 98%
+   ABG: ///34/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: @bases), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact), Large echymosis Thigh and calf
+   @endovascular harvest sites areas soft no erythema
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   162 K/uL
+   8.8 g/dL
+   87 mg/dL
+   1.3 mg/dL
+   34 mEq/L
+   3.7 mEq/L
+   659
+   95 mEq/L
+   137 mEq/L
+   25.1 %
+   6.0 K/uL
+                             [**2160-2-16**]  10:15 PM
+                             [**2160-2-17**]  03:14 AM
+                             [**2160-2-17**]  01:40 PM
+                             [**2160-2-18**]  02:27 AM
+                             [**2160-2-19**]  03:58 AM
+                             [**2160-2-19**]  04:12 AM
+                             [**2160-2-19**]  12:00 PM
+                             [**2160-2-19**]  02:47 PM
+                             [**2160-2-20**]  02:04 AM
+                             [**2160-2-20**]  02:29 AM
+   WBC
+   12.9
+   9.7
+   6.8
+   6.2
+   6.0
+   Hct
+   27.6
+   27.6
+   25.2
+   24.9
+   25.2
+   25.1
+   Plt
+   78
+   92
+   137
+   133
+   162
+   Creatinine
+   1.1
+   1.0
+   1.0
+   1.3
+   TCO2
+   24
+   Glucose
+   132
+   129
+   115
+   93
+   131
+   87
+   Other labs: PT / PTT / INR:16.6/39.8/1.5, ALT / AST:17/19, Alk-Phos / T
+   bili:45/0.4, Lactic Acid:2.0 mmol/L, Albumin:3.8 g/dL, LDH:188 IU/L,
+   Ca:8.5 mg/dL, Mg:2.4 mg/dL, PO4:4.4 mg/dL
+   Assessment and Plan
+   AIRWAY, INABILITY TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG, AIRWAY
+   CLEARANCE, COUGH), ATRIAL FIBRILLATION (AFIB), CORONARY ARTERY BYPASS
+   GRAFT (CABG), ACUTE CORONARY SYNDROME (ACS, UNSTABLE ANGINA, CORONARY
+   ISCHEMIA), .H/O HYPERTENSION, BENIGN
+   Assessment and Plan:
+   Neurologic: Neuro checks Q4 hr, Alert, Awake, Pain Controlled-Tylenol
+   and ultram prn
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Hemodynamically stable,
+   Currently in Sinus on Amio, increase Beta blocker today
+   Pulmonary: IS, CXR- B/l Pleural Effusions, Continue Lasix, Adequate
+   Oxygenation on Nasal Cannula,OOB
+   Gastrointestinal / Abdomen: Bowel Regimen
+   Nutrition: Regular diet, Advance diet as tolerated
+   Renal: Foley, Adequate UO, Decrease Lasix given increasing Creatinine
+   and monitor fluid balance
+   Hematology: stable
+   Endocrine: RISS goal BG < 150
+   Infectious Disease: On cipro for UTI, afebrile, Wbc count stable
+   recheck urine after Cipro complete
+   Lines / Tubes / Drains: Foley, Left PICC
+   Wounds: Dry dressings
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**2160-2-19**] 03:37 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: [**Hospital 663**] Transfer to floor
+"
+666644,51079,175571,2116-05-01,2116-05-01T14:04:00,2116-05-01T18:50:29,Physician ,CVI,15626,,"TITLE:
+   CVICU
+   HPI:
+   [**4-30**]  POD 8
+   64M s/p RVAD-IABP
+   EF: 50%  WT:132kg  Cr:0.7   HgA1C: 6.0
+   PMH Htn, Hyperchol, s/p R TKR, R knee and L knee meniscetomy,
+   Appendectomy
+   [**Last Name (un) **] Diovan 80, Simvastatin 20, Vicodin PRN
+   24 hour weaned down drips, quitin changed to right IJ, CPAP on vent,
+   still nonresponsive except grimacing with painful stimuli
+   Current medications:
+   Acetaminophen, Artificial Tears, Aspirin, Bisacodyl, Ciprofloxacin,
+   Epinephrine,  Heparin, Insulin, Milrinone, Norepinephrine,
+   Pantoprazole, Piperacillin-Tazobactam Na, Vancomycin
+   24 Hour Events:
+   Remains intubated on RVAD, CVVHD, pressors
+   Quintin changed to right IJ and groin line removed
+   Remains off fentanyl and versed gtt but has received boluses of
+   fentanyl
+ BLOOD CULTURED - At [**2116-4-30**] 09:00 AM
+   bls culteres from right rad aline, and left subclavian swan
+ URINE CULTURE - At [**2116-4-30**] 09:00 AM
+ BAL FLUID CULTURE - At [**2116-4-30**] 09:15 AM
+ ULTRASOUND - At [**2116-4-30**] 09:56 AM
+   right upper quad, and left arm
+ DIALYSIS CATHETER - START [**2116-4-30**] 12:10 PM
+ DIALYSIS CATHETER - STOP [**2116-4-30**] 04:31 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2116-4-29**] 08:54 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2116-5-1**] 04:15 AM
+   Ciprofloxacin - [**2116-5-1**] 08:05 AM
+   Infusions:
+   Norepinephrine - 0.06 mcg/Kg/min
+   Heparin Sodium - 1,100 units/hour
+   Epinephrine - 0.02 mcg/Kg/min
+   Milrinone - 0.25 mcg/Kg/min
+   Calcium Gluconate (CRRT) - 1.6 grams/hour
+   KCl (CRRT) - 3 mEq./hour
+   Other ICU medications:
+   Metoprolol - [**2116-4-30**] 06:28 PM
+   Fentanyl - [**2116-5-1**] 08:40 AM
+   Other medications:
+   Flowsheet Data as of  [**2116-5-1**] 09:19 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**19**] a.m.
+   HR: 127 (76 - 152) bpm
+   BP: 84/48(60) {70/47(57) - 111/61(76)} mmHg
+   RR: 20 (14 - 34) insp/min
+   SPO2: 91%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 165.2 kg (admission): 131.8 kg
+   Height: 71 Inch
+   CVP: 21 (16 - 25) mmHg
+   PAP: (39 mmHg) / (27 mmHg)
+   CO/CI (Fick): (16.9 L/min) / (6.8 L/min/m2)
+   CO/CI (CCO): (6.8 L/min) / (2.5 L/min/m2)
+   SvO2: 78%
+   Mixed Venous O2% sat: 68 - 68
+   Total In:
+                                                                  4,669 mL
+                                                                  1,968 mL
+   PO:
+   Tube feeding:
+                                                                    401 mL
+                                                                    181 mL
+   IV Fluid:
+                                                                  4,131 mL
+                                                                  1,650 mL
+   Blood products:
+                                                                    138 mL
+                                                                    138 mL
+   Total out:
+                                                                  4,304 mL
+                                                                  1,523 mL
+   Urine:
+                                                                    175 mL
+                                                                     75 mL
+   NG:
+   Stool:
+   Drains:
+                                                                    560 mL
+                                                                     65 mL
+   Balance:
+                                                                    365 mL
+                                                                    445 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 650 (650 - 650) mL
+   Vt (Spontaneous): 866 (547 - 866) mL
+   PS : 14 cmH2O
+   RR (Set): 0
+   RR (Spontaneous): 19
+   PEEP: 12 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 27 cmH2O
+   SPO2: 91%
+   ABG: 7.44/31/78.[**Numeric Identifier 7**]/22/-1
+   Ve: 14.9 L/min
+   PaO2 / FiO2: 158
+   Physical Examination
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular), (Distant heart sounds: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: )
+   Abdominal: Soft, Distended, Obese
+   Left Extremities: (Edema: 3+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 3+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Responds to: Unresponsive), Grimaces. Shrugs shoulders
+   Labs / Radiology
+   32 K/uL
+   10.5 g/dL
+   107 mg/dL
+   3.0 mg/dL
+   22 mEq/L
+   4.0 mEq/L
+   45 mg/dL
+   98 mEq/L
+   131 mEq/L
+   29.4 %
+   12.4 K/uL
+                             [**2116-4-30**]  01:15 PM
+                             [**2116-4-30**]  04:57 PM
+                             [**2116-4-30**]  05:11 PM
+                             [**2116-4-30**]  06:39 PM
+                             [**2116-4-30**]  09:00 PM
+                             [**2116-4-30**]  10:23 PM
+                             [**2116-5-1**]  12:26 AM
+                             [**2116-5-1**]  02:04 AM
+                             [**2116-5-1**]  04:23 AM
+                             [**2116-5-1**]  04:37 AM
+   WBC
+   13.9
+   12.4
+   Hct
+   28.8
+   30.1
+   29.4
+   Plt
+   31
+   32
+   Creatinine
+   3.3
+   3.0
+   TCO2
+   20
+   25
+   24
+   23
+   22
+   22
+   Glucose
+   97
+   104
+   133
+   105
+   107
+   Other labs: PT / PTT / INR:18.2/42.5/1.7, CK / CK-MB / Troponin
+   T:4839/376/24.20, ALT / AST:214/90, Alk-Phos / T bili:55/23.5, Amylase
+   / Lipase:57/165, Differential-Neuts:85.1 %, Lymph:9.8 %, Mono:4.8 %,
+   Eos:0.2 %, Fibrinogen:194 mg/dL, Lactic Acid:1.4 mmol/L, Albumin:2.6
+   g/dL, LDH:407 IU/L, Ca:9.3 mg/dL, Mg:2.5 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+   RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF), IMPAIRED SKIN
+   INTEGRITY, MYOCARDIAL INFARCTION, ACUTE (AMI, STEMI, NSTEMI), SHOCK,
+   CARDIOGENIC, ATRIAL FIBRILLATION (AFIB)
+   Assessment and Plan: Continues in cardiogenic shock with multisystem
+   organ failure. RVAD with multiple pressors
+   Neurologic: Neuro checks Q:  hr
+   Cardiovascular: Aspirin, Milrinone added. Plan is to wean RVAD under
+   TEE guidance. Wean levo for MAP > 60
+   Pulmonary: Cont ETT, (Ventilator mode: CPAP + PS), Continue PSV
+   Gastrointestinal / Abdomen: Bilirubin stable at 23. RUQ U/S did not
+   demonstrate clear reason. Likely intrahepatic cholestasis.
+   Nutrition: Tube feeding, TF to goal.
+   Renal: Continue CVVHD. Maintain even to negative balance
+   Hematology: Serial Hct, ACT goal 180. Will bolus heparin while weaning
+   RVAD.
+   Endocrine: RISS, Well controlled
+   Infectious Disease: Check cultures, No growth on cultures. No
+   infiltrate on CXR. Will D/C Zosyn and Cipro
+   Lines / Tubes / Drains: Foley, OGT, ETT, Chest tube - mediastinal
+   Wounds: Dry dressings
+   Imaging: TEE today
+   Consults: Nephrology, pt
+   ICU [**Name (NI) 151**]
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2116-4-27**] 11:00 AM
+   CCO PAC - [**2116-4-28**] 12:00 PM
+   Cordis/Introducer - [**2116-4-28**] 12:22 PM
+   Dialysis Catheter - [**2116-4-30**] 12:10 PM
+   Prophylaxis:
+   DVT: Boots (Systemic anticoagulation: Heparin drip)
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+"
+905478,21853,,2182-03-25,2182-03-25T00:00:00,,Radiology,RVG,,,"RVG                                                             Clip # [**Clip Number (Radiology) 66721**]
+ Reason: METS BREAST CA
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ HISTORY: 58 year old female with metastatic breast cancer.
+
+ INTERPRETATION:  Following the intravenous injection of autologous red blood
+ cells labeled with  Tc-[**Age over 90 26**]m, equilibrium images were obtained.
+
+ Gated equilibrium images show normal wall motion.
+ Left and right ventricular sizes are normal.
+ Left ventricular ejection fraction is 67%. (Normal value >= to 50%).
+ Right ventricular ejection fraction is 59%.
+ The stroke-volume ratio is 1.3.
+ Left ventricular end diastolic volume is approximately 63 cc.
+ The blood pressure was 125/80.
+ The heart rate was 78.
+
+ When compared to the previous study of [**2181-12-31**], the present study shows no
+ significant interval change.
+
+ IMPRESSION: Normal LV systolic function with LV EF of 67%.
+
+
+         [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3234**], M.D.
+         [**Initials (NamePattern4) 61**] [**Last Name (NamePattern4) 62**] [**Last Name (NamePattern1) 63**], M.D.         Approved: TUE [**2182-3-26**] 7:40 AM
+                                                   West [**Medical Record Number 66720**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 31**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 32**].
+"
+686238,86544,108080,2148-05-22,2148-05-22T19:52:00,2148-05-22T19:52:46,Physician ,event,15626,,"TITLE:  Neuro change, right side
+   Called to see post extubation, found to not be moving right side and no
+   response to painful stimuli,
+   SBP 90 map > 60
+   Nitro stopped to allow b/p to increase
+   Dr [**First Name (STitle) **] notified, spoke with Daughter [**Name (NI) 1968**] and update
+   Neurology consulted
+   Plan for CT scan
+   Now moving right side with b/p 110-120
+"
+244139,10502,,2165-03-15,,,ECG,Report,,,"Sinus rhythm.  Left bundle-branch block.  Compared to the previous tracing
+of [**2165-3-13**] the findings are similar.
+TRACING #1
+
+"
+273634,14822,105653,2130-08-21,,,ECG,Report,,,"Sinus tachycardia, rate    115
+Atrial premature complex
+Vertical axis, unusual for age
+Diffuse ST-T abnormalities
+Consider ischemia
+Since last ECG, no significant change
+Abnormal ECG
+
+"
+210344,1728,,2175-10-04,,,ECG,Report,,,"Sinus bradycardia.
+Inferior infarct, age indeterminate - possible acute/recent/in evolution -
+clinical correlation is suggested
+No previous tracing for comparison
+
+"
+298170,60680,197939,2157-05-13,,,ECG,Report,,,"Sinus rhythm.  Prolonged Q-T interval.  One ventricular premature beat and
+minor intraventricular conduction delay.  Q-T interval prolonged compared to
+earlier tracing of [**2157-4-28**].
+
+"
+179301,46620,134031,2135-08-15,,,ECG,Report,,,"Normal sinus rhythm.  Left axis deviation consistent with left anterior
+hemiblock.  Intraventricular conduction delay.  ST-T wave abnormalities most
+marked in the inferoapical leads.  Cannot rule out ischemia or evolving
+myocardial infarction.  Compared to tracing #1 the inferior T wave inversions
+are more marked.  Suggest clinical correlation and repeat tracing.
+TRACING #2
+
+"
+30633,24052,135667,2149-03-24,,,Discharge summary,Report,,,"Admission Date:  [**2149-3-16**]              Discharge Date:   [**2149-3-24**]
+
+Date of Birth:  [**2067-4-21**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Tetracycline / Penicillins / Tape
+
+Attending:[**First Name3 (LF) 1283**]
+Chief Complaint:
+mild shortness of breath, known AS for cath prior to hip surgery
+
+Major Surgical or Invasive Procedure:
+CABG/AVR [**3-18**]
+
+
+History of Present Illness:
+81yo woman w/known AS admitted for elective cath prior to
+planned hip replacement. Cath revealed 2VD and she was
+transferred to [**Hospital1 18**] for AVR/CABG prior to hip repir
+
+Past Medical History:
+Afib
+SSS s/p PPM
+TIA's
+^chol
+HTN
+s/p bilat TKR
+s/p Hyst
+s/p Bladder susp
+Osteoarthritis
+
+Social History:
+Retired
+no tobbaco, no ETOH
+
+Family History:
+non contributory
+
+Physical Exam:
+Admission
+VS
+Gen A+Ox3, NAD
+Pulm CTAB
+CV RRR 2/3 SEM
+Abd soft, NT/ND
+Ext no edema palpable pulses
+
+Discharge
+VS T99  HR82  BP131/77  RR18 O2sat 95%RA
+Neuro A&Ox3, nonfocal exam
+Pulm CTA bilat
+CV irreg/irreg no murmur. Sternum stable, incision with steris
+clean and dry
+Abdm soft, NT/ND/+BS
+Ext warm, no edema, left leg incision with steris CDI. left
+groin w/steris CDI
+
+Pertinent Results:
+[**2149-3-16**] 05:08PM   GLUCOSE-128* UREA N-14 CREAT-0.5 SODIUM-139
+POTASSIUM-4.5 CHLORIDE-101 TOTAL CO2-29 ANION GAP-14
+[**2149-3-16**] 05:08PM   WBC-6.6 RBC-4.12* HGB-11.8* HCT-34.0* MCV-83
+MCH-28.5 MCHC-34.6 RDW-14.8
+[**2149-3-16**] 05:08PM   PLT COUNT-149*
+[**2149-3-16**] 05:08PM   PT-13.9* PTT-45.9* INR(PT)-1.2*
+[**2149-3-23**] 06:25AM BLOOD WBC-8.1 RBC-3.72* Hgb-11.4* Hct-33.7*
+MCV-91 MCH-30.6 MCHC-33.8 RDW-16.0* Plt Ct-229
+[**2149-3-23**] 06:25AM BLOOD Plt Ct-229
+[**2149-3-23**] 06:25AM BLOOD PT-16.5* PTT-24.1 INR(PT)-1.5*
+[**2149-3-23**] 06:25AM BLOOD Glucose-87 UreaN-15 Creat-0.5 Na-136
+K-4.2 Cl-98 HCO3-31 AnGap-11
+
+CHEST (PORTABLE AP)  [**2149-3-20**] 1:36 PM
+Reason: r/o ptx
+
+[**Hospital 93**] MEDICAL CONDITION:
+81 year old woman with CAD/AS s/p CABG/AVR. and ct removal
+REASON FOR THIS EXAMINATION:
+r/o ptx
+CHEST, AP PORTABLE SINGLE VIEW
+INDICATION: Elderly woman with coronary artery disease and
+aortic stenosis, status post bypass surgery and aortic valve
+replacement. Now chest tube removal, evaluate for pneumothorax.
+FINDINGS: AP single view of the chest obtained with patient in
+sitting semi- upright position is analyzed in direct comparison
+with a preceding similar portable chest examination of [**2149-3-18**]. During the interval, the patient has been extubated,
+Swan-Ganz catheter and mediastinal and left-sided chest tubes
+have been removed. There is no evidence of pneumothorax. In
+comparison with the next previous portable chest examination of
+[**3-18**], the postoperative mediastinal widening and
+perivascular haze in the pulmonary circulation have now
+normalized, and the findings are very similar to those noted on
+the preoperative examination of [**3-16**]. The latter includes
+also mild blunting of the lateral pleural sinuses. Three tiny
+ring-shaped metallic structures apparently components of the
+aortic valve prosthesis remain in position. As before, rather
+extensive mitral ring calcifications are seen. Permanent pacer
+in left anterior axillary position with dual electrode system
+unchanged.
+IMPRESSION: Normalization of postoperative changes, no evidence
+of pneumothorax, pulmonary congestion, or significant
+infiltrates.
+DR. [**First Name (STitle) **] [**Initials (NamePattern5) 3250**] [**Last Name (NamePattern5) 3251**]
+
+Cardiology Report ECHO Study Date of [**2149-3-18**]
+PATIENT/TEST INFORMATION:
+Indication: Intraop CABG, AVR, ?MVR
+Height: (in) 63
+Weight (lb): 128
+BSA (m2): 1.60 m2
+BP (mm Hg): 140/82
+HR (bpm): 100
+Status: Inpatient
+Date/Time: [**2149-3-18**] at 13:37
+Test: TEE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Tape Number: 2007AW1-:
+Test Location: Anesthesia West OR cardiac
+Technical Quality: Adequate
+REFERRING DOCTOR: DR. [**First Name (STitle) 412**] [**Last Name (Prefixes) 413**]
+MEASUREMENTS:
+Left Atrium - Long Axis Dimension: *4.3 cm (nl <= 4.0 cm)
+Left Atrium - Four Chamber Length: *5.8 cm (nl <= 5.2 cm)
+Right Atrium - Four Chamber Length: *6.2 cm (nl <= 5.0 cm)
+Left Ventricle - Inferolateral Thickness: *1.3 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 4.1 cm (nl <= 5.6 cm)
+Left Ventricle - Systolic Dimension: 3.2 cm
+Left Ventricle - Fractional Shortening: *0.22 (nl >= 0.29)
+Left Ventricle - Ejection Fraction: 50% to 60% (nl >=55%)
+Left Ventricle - Peak Resting LVOT gradient: 1 mm Hg (nl <= 10
+mm Hg)
+Aorta - Valve Level: 2.7 cm (nl <= 3.6 cm)
+Aorta - Ascending: 3.0 cm (nl <= 3.4 cm)
+Aorta - Arch: 2.2 cm (nl <= 3.0 cm)
+Aorta - Descending Thoracic: *2.6 cm (nl <= 2.5 cm)
+Aortic Valve - Peak Velocity: *2.3 m/sec (nl <= 2.0 m/sec)
+Aortic Valve - Peak Gradient: 43 mm Hg
+Aortic Valve - Mean Gradient: 36 mm Hg
+Aortic Valve - Valve Area: *0.6 cm2 (nl >= 3.0 cm2)
+Mitral Valve - Peak Velocity: 1.0 m/sec
+Mitral Valve - Mean Gradient: 2 mm Hg
+Mitral Valve - Pressure Half Time: 92 ms
+Mitral Valve - MVA (P [**11-26**] T): 2.4 cm2
+Mitral Valve - E Wave: 1.0 m/sec
+INTERPRETATION:
+Findings:
+LEFT ATRIUM: Mild LA enlargement. Elongated LA.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA. No ASD
+or PFO by 2D, color Doppler or saline contrast with maneuvers.
+LEFT VENTRICLE: Low normal LVEF.
+RIGHT VENTRICLE: Mildly dilated RV cavity.
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta
+diameter. No atheroma in ascending aorta. Normal aortic arch
+diameter. Complex (>4mm) atheroma in the aortic arch. Mildly
+dilated descending aorta. Simple atheroma in descending aorta.
+AORTIC VALVE: Three aortic valve leaflets. Severe AS (AoVA
+<0.8cm2). No AR.
+MITRAL VALVE: Moderately thickened mitral valve leaflets. Severe
+mitral
+annular calcification. No MS. Moderate (2+) MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+No PR.
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+Conclusions:
+Pre Bypass: The left atrium is mildly dilated. The left atrium
+is elongated. The right atrium is moderately dilated. No atrial
+septal defect or patent foramen ovale is seen by 2D, color
+Doppler or saline contrast with maneuvers. Overall left
+ventricular systolic function is low normal (LVEF 50-55%). The
+right ventricular cavity is mildly dilated. There are complex
+(>4mm) atheroma in the aortic arch. The descending thoracic
+aorta is mildly dilated. There are simple atheroma in the
+descending thoracic aorta. There are three aortic valve
+leaflets. There is severe aortic valve stenosis (area <0.8cm2).
+No aortic regurgitation is seen. The mitral valve leaflets are
+moderately thickened. There is heavy mitral annular
+calcification. The posterior leaflet is partially calcified.
+Moderate (2+) mitral regurgitation is seen.
+Post Bypass: Preserved biventriular function. LVEF 55%. There is
+a
+bioprosthetic valve in the aortic position. No perivalvular
+leaks or AI. Peak gradient 10 mm Hg. Aortic contours are intact.
+Mitral regurgitation is unchanged. Remaining exam is unchanged.
+All findings discussed with surgeons at the time of the exam.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD on [**2149-3-18**] 19:27
+
+
+
+
+Brief Hospital Course:
+Patient admitted preoperatively to bridge from Coumadin and be
+covered with Heparin. On [**3-18**] she was brought to the operating
+room where she had AVR/CABG, please see the OR report for
+details. In summary she had AVR(#23 [**Company 1543**]
+tissue)CABGx2(LIMA-LAD,SVG-PLV), her bypass time was 85 min with
+crossclamp time of 68 min. She tolerated the surgery well and
+was transferred to the CT ICU in stable condition.
+She did well in the immediate post-op period but did require
+Nipride for BP control. On POD1 she started on Bblockers and ACE
+and weaned from Nipride. On POD2 her chest tubes and temporary
+pacer wirews were removed, her internal pacer was interegated
+and she was transferred from the ICU to the step down floor. She
+did well over the next several days and on POD6 it was decided
+she was stable and ready to be discharged to rehabilitation
+
+Medications on Admission:
+Cartia XT 120'
+Toprol XL 12.5'
+Klonopin 0.5@HS
+Lexapro 15 @HS
+Fosamax 35 Qwk
+Coumadin
+Fish Oil 200'
+Vit C 1500'
+Biotin 1200BUID
+Coenzyme Q 100'''
+magnesium 200""
+
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day for
+2 weeks.
+2. Potassium Chloride 10 mEq Tablet Sustained Release Sig: Two
+(2) Tablet Sustained Release PO once a day for 2 weeks.
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+5. Warfarin 1 mg Tablet Sig: as directed Tablet PO DAILY
+(Daily): target INR 1.5-2.
+6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 4-6 hours as needed for pain.
+7. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+8. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+DAILY (Daily) as needed for constipation.
+9. Escitalopram 10 mg Tablet Sig: 1.5 Tablets PO QHS (once a day
+(at bedtime)).
+10. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO
+BID (2 times a day).
+11. Warfarin 3 mg Tablet Sig: One (1) Tablet PO once: dose for
+[**3-24**].
+12. FOSAMAX 35 mg Tablet Sig: One (1) Tablet PO once a week.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1107**] [**Hospital **] [**Hospital 1108**] Rehab Unit at
+[**Hospital6 1109**] - [**Location (un) 1110**]
+
+Discharge Diagnosis:
+AS/CAD s/p AVR(#23 [**Company 1543**] Mosaic)CABGx2(LIMA-LAD,SVG-PLV)[**3-18**]
+
+PMH: Afib, SSS s/p PPM, TIA's, ^chol, HTN, s/p bilat TKR, s/p
+bladder susp, s/p Hyst, Osteoarthritis
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+keep wounds clean nad dry. OK to shower, no bathing or swimming.
+Take all medication as prescribed.
+Call for any fever, redness or drainage from wounds.
+
+Followup Instructions:
+Dr [**First Name (STitle) **] 3-4 weeks after discharge from rehab
+Dr [**Last Name (STitle) **] in 4 weeks. pt to call for appt [**Telephone/Fax (1) 1504**]
+
+
+
+Completed by:[**2149-3-24**]"
+118153,7299,,2170-06-22,,,ECG,Report,,,"Sinus rhythm. Since the previous tracing of [**2168-3-4**] no significant change.
+TRACING #1
+
+"
+219755,27003,179032,2108-12-15,,,ECG,Report,,,"Sinus tachycardia.  ST segment elevation which is widespread along
+with PR segment elevation in lead aVR - probable pericarditis.  Since
+tracing of [**2108-12-13**] the rate is faster.
+TRACING #1
+
+
+"
+172269,8608,,2133-01-06,,,ECG,Report,,,"Normal sinus rhythm. Non-diagnostic Q waves in leads III and aVF. Non-specific
+ST-T wave abnormalities. Compared to the previous tracing of [**2132-10-24**] no
+diagnostic interval change.
+
+"
+299364,10637,148308,2197-07-08,,,ECG,Report,,,"Ventricular paced rhythm
+
+"
+148016,13494,,2145-03-21,,,ECG,Report,,,"Sinus tachycardia. The tracing is marred by baseline artifact. Compared to the
+previous tracing of [**2143-7-4**] no apparent diagnostic interim change.
+
+"
+47323,16992,136218,2114-10-07,,,Discharge summary,Report,,,"Admission Date:  [**2114-9-20**]              Discharge Date:   [**2114-10-7**]
+
+Date of Birth:  [**2038-10-25**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Amiodarone
+
+Attending:[**First Name3 (LF) 2962**]
+Chief Complaint:
+VT
+
+Major Surgical or Invasive Procedure:
+ICD revision (implantation of subcutaneous coil and generator
+change)
+
+
+History of Present Illness:
+78 year old male with CAD and end stage cardiomyopathy with EF
+of 10%. He has a BIV ICD and presented to [**Hospital3 7362**] today
+after having a syncope episode this morning, witnessed by his
+wife. She believes he was shocked several times as she saw him
+get jolted. En route to the hospital he had some transient vtach
+noted by EMS but  no further VT at [**Hospital3 7362**]. Enzymes so
+far negative.
+.
+On arrival at [**Hospital1 **], he states that he feels back to baseline. No
+fever, chills, N/V/Cough/SoB, diarrhea, constipation, muscle
+aches or pains.  His wife thinks he was unconscious for
+approximately 30 seconds.  He does not remember the episode but
+remembers feeling lightheaded prior to syncopizing.  He awoke on
+the floor of his bedroom.
+.
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, joint pains,
+cough, hemoptysis, black stools or red stools. He denies recent
+fevers, chills or rigors. He denies exertional buttock or calf
+pain. All of the other review of systems were negative.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema.
+
+Past Medical History:
+-CAD s/p 2 MIs ([**2094**]; [**2101**] w/ VF arrest, coma, and neurological
+sequelae) and AICD/pacemaker placement. Cath [**10-9**] w/ LCX
+occlusion distal to OM1, which was widely patent.
+-s/p ICD/pacemaker placement: 4.5 yr old [**Company 1543**] InSync model
+7272 BiVentricular ICD.(ICD is an abdominal implant, LA and LV
+leads are epicardial; RV lead is a Transvene and there is a
+stand-alone SCV coil; abandoned RV/RA leads located in right
+pectroal region) implanted in [**2110**], first ICD in [**2101**]
+- Ischemic cardiomyopathy:  echo [**2113-6-19**] w/ global LV
+hypokinesis (LVEF [**10-27**] percent) w/ akinesis of the inferior,
+posterior, and lateral walls; 3+ MR; 2+ TR; moderate PA systolic
+hypertension.
+- Hypertension
+- Hyperlipidemia
+- Valvular heart disease:  moderate MR [**First Name (Titles) **] [**Last Name (Titles) **]
+- chronic kidney dz:  baseline creat 1.3-1.4 since [**2112**]
+- anemia:  baseline HCT 37-38
+- h/o SVC thrombosis (dx [**2-/2105**]); on warfarin since early 90s
+- h/o nephrolithiasis
+- s/p tonsillectomy
+- s/p appendectomy
+- s/p bilateral inguinal hernia repairs x 2
+- GI bleed in [**2-14**] from [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]-[**Doctor Last Name **] tear
+
+
+Social History:
+The patient lives in [**Location (un) 100183**] with his wife.  They are both
+retired (he is a retired banker).  He goes to cardiac rehab 2
+times per week. He walks with a walker at home. They are
+independent and have no in-home health services. He denies ever
+smoking or using illicit drugs.  He drank in the past but not
+for many years.
+
+Family History:
+- CAD:  sister
+- prostate CA:  father
+
+
+Physical Exam:
+VS - 121/75, 74, 18, 100% on RA
+Gen: Cachectic elderly male in NAD. Oriented x3. Mood, affect
+appropriate
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+Eccymosis under tongue.
+Neck: Supple with JVP of 5 cm (by EJ)
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+Chest:+ kyphosis. Resp were unlabored, no accessory muscle use.
+Scattered crackles bilaterally.
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+palpation. No abdominial bruits.  Left abdominal ICD pocket
+benign.
+Ext: No c/c/e. No femoral bruits. Decubitous ulcers on bilateral
+hips w/ duoderm in place.
+.
+Pulses:
+Right: Carotid 2+ DP 2+ PT 2+
+Left: Carotid 2+ DP 2+ PT 2+
+
+Pertinent Results:
+[**2114-9-20**] 06:35PM BLOOD WBC-7.2 RBC-3.73* Hgb-12.0* Hct-36.2*
+MCV-97 MCH-32.3* MCHC-33.2 RDW-13.6 Plt Ct-188#
+[**2114-9-20**] 06:35PM BLOOD PT-26.4* PTT-34.3 INR(PT)-2.7*
+[**2114-9-20**] 06:35PM BLOOD Glucose-91 UreaN-18 Creat-1.1 Na-140
+K-4.4 Cl-102 HCO3-30 AnGap-12
+[**2114-9-20**] 06:35PM BLOOD CK(CPK)-213*
+[**2114-9-20**] 06:35PM BLOOD CK-MB-7 cTropnT-0.04*
+[**2114-9-20**] 06:35PM BLOOD Albumin-4.0 Calcium-9.0 Phos-2.6* Mg-2.5
+Iron-44*
+[**2114-9-20**] 06:35PM BLOOD calTIBC-246* VitB12-650 Folate-GREATER TH
+Ferritn-142 TRF-189*
+[**2114-9-20**] 06:35PM BLOOD TSH-0.80
+.
+[**9-20**] CXR
+Lungs are mildly hyperinflated and clear. There is no pulmonary
+edema or vascular engorgement. Heart size is normal. No pleural
+effusion is present or indication of pneumothorax.
+
+Two left subclavian [**Month/Year (2) **] defibrillator leads arising below the
+field of view end in the right atrium and right ventricle, as
+before. Two additional remnant pacemaker leads rising in the
+right axilla end in the right atrium and right ventricle as
+before. Three epicardial leads projecting over the left heart
+border are unchanged in their respective positions.
+.
+[**9-21**] PMIBI:
+INTERPRETATION:
+
+The image quality is adequate. The patient's arms are down.
+
+Left ventricular cavity size is markedly enlarged. EDV is 300
+mL.
+
+Rest and stress perfusion images reveal a large severe fixed
+perfusion defect
+involving the apical inferior to basal inferior segments.
+
+Gated images reveal global hypokinesis.
+
+The calculated left ventricular ejection fraction is 14%.
+
+IMPRESSION: 1) Severe fixed perfusion defect involving the
+apical inferior to
+basal inferior segments. 2) Marked ventricular enlargement. 3)
+Ejection
+fraction is 14%.
+.
+[**9-21**] Stress: HR 52%
+INTERPRETATION: 75 yo man (h/o CAD and ischemic cardiomyopathy
+with
+LVEF ~10%; BIV/ICD placement [**2101**]) was referred for evaluation
+following
+an episode of VT. The patient was administered 0.142 mg/kg/min
+of
+persantine over 4 minutes. No chest, back, neck or arm
+discomforts were
+reported by the patient during the procedure. The ECG is
+uninterpretable
+in the presence of ventricular pacing. The rhythm was AV paced
+with
+frequent isolated multiformed VPDs and rare ventricular
+couplets. Rare
+isolated APDs were noted. The hemodynamic response to the
+persantine
+infusion was appropriate. Three min post-MIBI, the patient was
+administered 125 mg aminophylline IV.
+
+IMPRESSION: No anginal symptoms with an uninterpretable ECG.
+Nuclear
+report sent separately.
+
+
+Brief Hospital Course:
+.
+VT: Thought to be from ischemic cardiomyopathy, ICD
+interrogation  showed that he was in VT-->VF-->resulting in 3
+shocks with the first two shocks at 35 J being unsuccessful and
+the third shock at 35 J successful.  On admission, his
+mexiletine was discontinued and he was started on dofetilide 500
+[**Hospital1 **].  On [**9-28**], in order to improve his shock vector, he
+underwent a subcutaneous shocking coil placement and upgraded to
+[**Company 1543**] Concerto. The SCV coil was capped and replaced by the
+SQ coil . See separte OP and EP notes for technical details. The
+ICD generator was upgraded to a newer model to have the ability
+to remoive the ICD can from the shock vector noninvasively if
+need be. On [**9-29**], he was noted to have multiple episodes of fast
+VT, polymorphic VT, and VF requiring shock (first one
+successful).  He was transferred to the CCU at this time (Dr.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2232**]) and his dofetilide was stopped.  Lidocaine drip was
+started with improvement in ventricular ectopy.  He was then
+restarted on mexilitene 150 TID.  However, on the mexilitene he
+was noted to have increasing ventricular ectopy and his dose was
+increased to 200 TID.  He was however unable to tolerate this
+dose of mexilitene and due to nausea, vomitting, his dose was
+decreased once again to 150 TID.  He tolerated this dose, but
+did continue to have episodes of VT.  He was advised to refrain
+from driving for 6 months.
+.
+CHF:  He has known cardiomyopathy with EF 10%.  He remained
+relatively euvolemic throughout his hospital course.  He was
+continued on his home regimen of lasix, digoxin, carvedilol and
+lisinopril.
+.
+Anemia: He was noted to have a Hct drop from 30-->26 on [**10-3**].
+He was found to be guaiac negative.  He was however noted to
+have a left sided flank hematoma on [**10-3**] which is presumed to be
+from heparin during bridge to coumadin.  Heparin was
+discontinued at this time and he was continued on coumadin.  His
+hematoma remained stable.  His hematoma remained stable to
+improved during his hospital course.
+.
+Atrial fibrillation:  He was started on a bridge with heparin to
+coumadin.  However on [**10-3**], due to a new hematoma (see above),
+his heparin was discontinued.  His coumadin dose was increased
+to 7.5.  His INR was 2 on discharge.
+.
+Diarrhea:  He was noted to have diarrhea, which was thought to
+be a side effect of mexiletine.  His c. diff toxin was negative
+x 3.
+
+
+Medications on Admission:
+Simvastatin 80 mg daily
+Mexiletine 150 mg Capsule [**Month/Year (2) **]: One (1) Capsule PO Q12H (every
+12 hours).
+Digoxin 125 mcg Tablet [**Month/Year (2) **]: [**1-9**] Tablet PO EVERY OTHER DAY
+(Mon, Wed, [**Last Name (LF) **], [**First Name3 (LF) **]).
+Digoxin 125 mcg Tablet [**First Name3 (LF) **]: One (1) Tablet PO EVERY OTHER DAY
+(Tues, Thurs, Sat).
+Lisinopril 5 mg Tablet [**First Name3 (LF) **]: [**1-9**] Tablet PO DAILY (Daily).
+Omeprazole 20 [**Hospital1 **]
+Furosemide 5 mg Tablet daily
+Aspirin EC 81 mg Tablet daily
+Magnesium Oxide 400 mg Tablet [**Hospital1 **]: One (1) Tablet PO twice a
+day.
+Carvedilol 3.125 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a
+day)
+Warfarin
+Mag oxide 400 mg po bid
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable [**Hospital1 **]: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Digoxin 125 mcg Tablet [**Hospital1 **]: half Tablet PO 4X/WEEK
+([**Doctor First Name **],MO,WE,FR).
+3. Digoxin 125 mcg Tablet [**Doctor First Name **]: One (1) Tablet PO 3X/WEEK
+(TU,TH,SA).
+4. Furosemide 20 mg Tablet [**Doctor First Name **]: 0.5 Tablet PO EVERY OTHER DAY
+(Every Other Day).
+5. Mexiletine 150 mg Capsule [**Doctor First Name **]: One (1) Capsule PO Q8H (every
+8 hours).
+6. Zolpidem 5 mg Tablet [**Doctor First Name **]: One (1) Tablet PO HS (at bedtime)
+as needed.
+7. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+8. Oxycodone-Acetaminophen 5-325 mg Tablet [**Last Name (STitle) **]: One (1) Tablet
+PO Q4-6H () as needed for pain.
+9. Lisinopril 2.5 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO once a day.
+10. Carvedilol 3.125 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO BID (2
+times a day).
+11. Coumadin 7.5 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO at bedtime.
+12. Simvastatin 80 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO once a day.
+
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital **] Medical Center - [**Hospital1 3597**]
+
+Discharge Diagnosis:
+Cardiac arrest
+Ventricular tachycardia
+Systolic congestive heart failure
+Hypertension
+Anemia
+
+
+Discharge Condition:
+Hemodynamically stable. Ambulatory with a walker.
+
+
+Discharge Instructions:
+You were admitted after having ventricular tachycardia, which as
+an abnormal heart rhythm, and were shocked by your intra-cardiac
+defribrillator. You had your ICD revised and tested.  You were
+also continued on your antiarrhythmic medication.  As discussed,
+you are not to drive for 6 months.  Based on the RMV laws of
+Massachusettes, you cannot drive for 6 months time because you
+passed out as a result of your abnormal heart rhythm.  After the
+6 months, your doctor [**First Name (Titles) 4801**] [**Last Name (Titles) 4656**] you to decide if you can
+drive at that point.
+
+Please seek medical attention immediately if you faint, or
+develop fever, chills, chest pain, shortness of breath or any
+other concerning symptoms.
+
+You should take all of your medications as directed.  Of note,
+your mexiletine dose was increased to 150 three times per day.
+In addition, your coumadin dose was increased to 7.5 mg daily.
+You should have your INR (coumadin level) checked in [**2-10**] days.
+
+
+Followup Instructions:
+You have a cardiology appointment with Dr. [**First Name (STitle) 437**]:
+[**2114-11-12**] at 11AM.  His office can be reached at [**Telephone/Fax (1) 1144**].
+.
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1143**], MD Phone:[**Telephone/Fax (1) 1144**]
+Date/Time:[**2114-10-31**] 9:45
+Provider: [**First Name8 (NamePattern2) 1903**] [**Last Name (NamePattern1) 1904**], [**MD Number(3) 1240**]:[**Telephone/Fax (1) 3512**]
+Date/Time:[**2114-11-14**] 11:30
+Provider:  [**Name10 (NameIs) 676**] CLINIC Phone:[**Telephone/Fax (1) 59**] Date/Time:[**2114-10-5**]
+1:00
+.
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2964**] MD, [**MD Number(3) 2965**]
+
+Completed by:[**2114-10-7**]"
+81258,15436,188560,2176-01-27,,,Echo,Report,,,"PATIENT/TEST INFORMATION:
+Indication: Acute pulmonary edema in patient with CAD, prior CABG.
+Evaluate for regional dysfunction.
+Height: (in) 61
+Weight (lb): 148
+BSA (m2): 1.66 m2
+BP (mm Hg): 180/100
+HR (bpm): 100
+Status: Inpatient
+Date/Time: [**2176-1-27**] at 22:36
+Test: Portable TTE (Focused views)
+Doppler: Limited Doppler and color Doppler
+Contrast: None
+Technical Quality: Suboptimal
+
+
+INTERPRETATION:
+
+Findings:
+
+This study was compared to the prior study of [**2175-6-29**].
+
+
+LEFT VENTRICLE: Moderate-severe regional left ventricular systolic
+dysfunction.
+
+RIGHT VENTRICLE: RV not well seen. RV function depressed.
+
+AORTA: Focal calcifications in aortic root.
+
+AORTIC VALVE: Mild (1+) AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets. Moderate mitral
+annular calcification. Moderate thickening of mitral valve chordae. Mild (1+)
+MR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Emergency study performed by the cardiology fellow on call.
+
+Conclusions:
+There is moderate to severe regional left ventricular systolic dysfunction
+with akinesis of the interventricular septum and hypokinesis of the inferior
+and inferolateral walls. The anterior wall is not well visualized. Overall EF
+is probably less than 30%. Right ventricle is not adequately visualized but
+function appears depressed. Mild (1+) aortic regurgitation is seen. The mitral
+valve leaflets are moderately thickened. There is moderate thickening of the
+mitral valve chordae. At least mild mitral regurgitation is present. There is
+no pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2175-6-29**], the visualized
+walls appear similarly hypokinetic to akinetic. The anterior wall is not
+visualized on the current study. Right ventricular dysfunction is still
+present. Mitral regurgitation appears mild (but may be underestimated due to
+technically limited study). Recommend full echocardiogram to better assess
+regional wall motion abnormalities and severity of valvular disease.
+
+
+"
+256685,87800,174043,2115-01-11,,,ECG,Report,,,"Atrial flutter with rapid ventricular response. Non-specific ST-T wave changes.
+Compared to the previous tracing of [**2115-1-9**] no significant change except for a
+faster rate.
+
+"
+124550,86279,198537,2160-02-26,,,ECG,Report,,,"Baseline artifact.  Sinus rhythm with borderline sinus tachycardia.  Left
+atrial abnormality.  Non-specific intraventricular conduction delay.  Prominent
+QRS voltage suggests left ventricular hypertrophy.  ST-T wave abnormalities are
+non-specific and could be due to left ventricular hypertrophy.  Clinical
+correlation is suggested.  Since the previous tracing of [**2159-12-4**] sinus
+bradycardia is absent, the QTc interval appears shorter and ST-T wave
+abnormalities have decreased.
+TRACING #1
+
+"
+85267,27110,139995,2164-05-23,,,Echo,Report,,,"PATIENT/TEST INFORMATION:
+Indication: Chest pain. PE , R/o MI .
+Height: (in) 70
+Weight (lb): 210
+BSA (m2): 2.13 m2
+BP (mm Hg): 134/77
+HR (bpm): 82
+Status: Inpatient
+Date/Time: [**2164-5-23**] at 10:08
+Test: TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: Normal LA size.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal interatrial septum. No
+ASD by 2D or color Doppler. The IVC was not visualized. The RA pressure could
+not be estimated.
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size and regional/global
+systolic function (LVEF >55%). No resting LVOT gradient. No VSD.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal ascending aorta
+diameter. No 2D or Doppler evidence of distal arch coarctation.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. No AR.
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR. Borderline
+PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet. No PS.
+Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+Conclusions:
+The left atrium is normal in size. No atrial septal defect is seen by 2D or
+color Doppler. Left ventricular wall thickness, cavity size and
+regional/global systolic function are normal (LVEF >55%) There is no
+ventricular septal defect. Right ventricular chamber size and free wall motion
+are normal. The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen. The mitral valve
+appears structurally normal with trivial mitral regurgitation. There is
+borderline pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+
+
+"
+11532,17183,188364,2175-12-07,,,Discharge summary,Report,,,"Admission Date:  [**2175-12-3**]     Discharge Date:  [**2175-12-7**]
+
+Date of Birth:   [**2120-6-2**]     Sex:  M
+
+Service:  ACOVE
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known lastname 9700**] is a 55-year-old male who
+denies any past medical history, who was found down status post
+assault and intoxicated in the [**Location (un) 14927**]on the day of
+admission.  Patient was transferred via EMS to the [**Hospital3 **]
+[**Hospital **] [**First Name (Titles) **] [**Last Name (Titles) **] Emergency Department. Per records,
+patient smelled of ethanol, and was very combative in the
+Emergency Department.  The patient had a questionable episode of
+hypotension with systolic blood pressure in the 80s, and in
+addition was combative on arrival in the Emergency Department.
+The patient was then sedated/paralyzed/intubated in the Emergency
+Department.
+
+Of note, patient's serum/urine toxicology screen was significant
+for an ethanol level of 297.  In addition, in the Emergency
+Department, the patient became hypotensive plus questionable
+bradycardia in the setting intubation, morphine, versed,
+succinylcholine.  The patient was given a fluid challenge,
+intravenous atropine with a subsequent return to normal pressure
+and normal heart rate.
+
+The patient was then admitted to the Intensive Care Unit for
+observation given the patient's intubation and ethanol level.
+
+On the second day of hospital admission, the patient was
+extubated without any problems and he was transferred to the
+floor.  Trauma series of radiographs was negative as was CT
+abdomen/pelvis/head, C spine, CT thorax.
+
+After the patient was extubated on hospital day number two,
+he was hemodynamically stable.  He showed no signs and symptoms
+of withdrawal, and was transferred to the floor for observation
+for ethanol withdrawal, as well as left lower extremity edema
+after assault.  When the patient was awake, he was better able to
+describe his assault.  Patient states he was in [**Location (un) 5069**],
+and ""someone"" assaulted him with a baseball bat to his left lower
+extremity.
+
+PAST MEDICAL HISTORY:  The patient denies any past medical
+problems.
+
+SOCIAL HISTORY:  Smokes one half to one pack of cigarettes
+per day.  Drinks ""one half pint"" of Vodka every few days.
+Patient specifically denies daily ethanol use.  Denies
+cocaine, heroin, or any other intravenous drug use.  Patient
+has a girlfriend, lives with his mother, has several
+children.  He works at [**Hospital6 256**]
+in ""animal research"" laboratory.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON ADMISSION:  None.
+
+PHYSICAL EXAMINATION:  Vital signs on transfer to the floor:
+Temperature 99.7.  Blood pressure 166/80.  Pulse 82.
+Respiratory rate 20.  Oxygen saturation 98% on room air.
+Physical examination:  In general, this is a middle-aged
+African American male, laying in bed, no distress.  Head,
+eyes, ears, nose and throat:  Oropharynx pink.  Mucous
+membranes slightly dry.  Upper and lower teeth intact.
+Cardiovascular:  Regular rate and rhythm, no murmurs.  Chest:
+Good inspiratory effort, coarse breath sounds bilaterally,
+right-sided rhonchi/crackles.  No wheezing.  Abdomen:  Soft,
+nontender, nondistended, bowel sounds present.  No guarding.
+Extremities:  Warm, no obvious fracture, right calf diameter
+32 cm, left calf diameter 38 cm, left calf is tense, firm,
+but not tender to palpation.  Genitourinary:  Foley is
+intact.  Neurological:  Awake, alert, oriented, to person,
+place, time and situation.  Cranial nerves are intact.
+Extraocular movements are intact.
+
+LABORATORY DATA ON TRANSFER TO THE FLOOR:  White blood cell
+count 6.6, hematocrit 37.9, platelet count 257,000.  Sodium
+140, potassium 4.3, chloride 108, bicarbonate 27, BUN 8,
+creatinine 0.9, glucose 96, calcium 8.1, phosphorus 3.3,
+magnesium 1.7.  Ethanol level 59.  CK 3690 (this is increased
+from the previous value of 3349).  CK-MB 115, troponin I less
+than 0.3.
+
+IMPRESSION:  This is a 55-year-old male status post
+intubation/extubation after being found down after ethanol
+intoxication and assault on his left lower extremity.  He is
+currently doing well, with no signs or symptoms of delirium
+tremens on second day of hospital admission.
+
+HOSPITAL COURSE:
+
+1.  Ethanol abuse:  Patient was placed on DT precautions on a
+CIWA protocol.  During the [**Hospital 228**] hospital admission, the
+patient did not have a temperature greater than 100.  He was not
+tachycardic.  Systolic blood pressure was not greater than 160,
+and he showed no signs of agitation or confusion, and no
+hallucinations.  Patient did not experience any signs or symptoms
+of withdrawal during this period.  In addition, the patient
+refused counseling for ethanol use/abuse.
+
+2.  Pulmonary:  Patient had coarse rhonchi after extubation,
+however, within two days, he had cleared his secretions.  The
+patient had an incentive spirometry at bedside for treatment of
+his atelectasis.
+
+3.  Nutrition:  The patient tolerated a regular diet well.
+
+4.  Musculoskeletal:  The patient had a left lower extremity
+swelling, but was not tender to palpation.  Distal pulses were
+palpable.  X-rays of his left tibia/fibula were obtained which
+showed well mineralized bones, no bone lesion, no radiopaque
+foreign bodies.  There were also no apparent fractures.  Because
+of the swelling, left lower extremity noninvasive vascular were
+obtained (Doppler), which showed normal color and wave forms.
+There was no thrombus seen and there was normal compressibility,
+which implied that there was no deep vein thrombosis.  The left
+common femoral, superficial femoral, and popliteal veins were
+normal and no intraluminal thrombus was seen.
+
+When patient attempted to ambulate, the patient had severe pain
+with ambulation.  An Orthopedic Consult was obtained to evaluate
+for compartment syndrome.  Orthopedic Consult: Positive left calf
+swelling, but with an intact neurological examination to left
+calf/foot, as well as light touch.  His left calf had a negative
+[**Last Name (un) 5813**] sign.  Vascular exam revealed palpable dorsalis pedis and
+posterior tibial pulses.  X-rays showed no fractures, no
+dislocations.
+
+IMPRESSION:  This is a 55-year-old male, status post trauma
+to his left calf, but with no signs of compartment syndrome.
+Recommendations included decreased weight bearing in his left
+lower extremity secondary to pain, and providing the patient
+with crutches if necessary for assistance with gait.  Also of
+note, the patient's CK continued to rise during patient's
+admission, and there was concern over rhabdomyolysis.  The
+patient's CKs trended upwards and the patient was aggressively
+hydrated.
+
+On hospital day number three, the patient, after aggressive
+hydration, the patient's CK began to trend downwards, and on
+hospital day number four, the trend continued downwards as well.
+The maximum CK during his admission was 3690, on hospital day
+three, it had decreased to 2630, and on the day of discharge, had
+decreased to 1884.  The patient's renal function remained within
+normal limits, and his BUN and creatinine were at 7 and 0.7
+respectively on the day before discharge.  The patient was
+instructed to drink copious amounts of nonalcoholic fluids after
+discharge.
+
+DISCHARGE DISPOSITION:  Discharged to home.
+
+DISCHARGE CONDITION:  On the day of discharge, patient's CK
+continued to decrease.  Patient was ambulating without
+assistance, and patient's left lower extremity swelling had
+decreased slightly.  Patient was afebrile and his blood pressure
+was within normal range, 130/72, and was able to ambulate without
+difficulty.  Patient stated that he did not need crutches, and
+was walking ""fine.""  Patient denied any pain/tenderness with
+ambulation.  Observation of his gait revealed a grossly normal
+gait, and patient was able to stand on his left foot without
+support, bearing the weight of his full body without any pain.
+Since the patient declined crutches, he was given the phone
+number to the Orthopedics/[**Hospital 36721**] Clinic to follow-up if
+his signs or symptoms worsened or pain occurred.
+
+DISCHARGE DIAGNOSES:
+1.  Rhabdomyolysis, status post trauma to left lower extremity.
+2.  Ethanol abuse.
+3.  Hypertension ? episodic; may be secondary to pain, status
+post trauma.  Should be followed as an outpatient.
+
+DISCHARGE MEDICATIONS:  Patient was not discharged with any
+medications.  Patient was instructed to drink greater than three
+liters of water or juice everyday.
+
+DISCHARGE FOLLOW-UP:  Discharge follow-up was scheduled with
+the [**Hospital6 733**] Clinic, with his new primary care
+physician, [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **].  Patient was to follow-up with
+his new primary care physician for [**Name Initial (PRE) **] recheck of CK, BUN,
+creatinine, as well as evaluation for left lower extremity
+swelling, and questionable hypertension.
+
+
+
+                          [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number(1) 4446**]
+
+Dictated By:[**Last Name (NamePattern1) 14484**]
+
+MEDQUIST36
+
+D:  [**2176-3-20**]  04:31
+T:  [**2176-3-23**]  13:17
+JOB#:[**Job Number 36722**]
+"
+19538,18942,130772,2131-01-15,,,Discharge summary,Report,,,"Admission Date:  [**2131-1-8**]       Discharge Date:  [**2131-1-15**]
+
+Date of Birth:   [**2074-8-21**]       Sex:  M
+
+Service:  CARDIOTHOARCIC
+
+CHIEF COMPLAINT:  Increased dissiness with exertion.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 54-year-old
+gentleman who had a back injury in [**2130-8-7**] at which
+time he went to the Emergency Room.  CAT scan done in the
+Emergency Room revealed an abdominal aortic aneurysm.  He saw
+our vascular surgeon and was recommended to have a cardiac
+work-up prior to repair.
+
+An stress echocardiogram at that time was positive where he
+was found to have severe left main and two-vessel disease.
+He was then referred to [**Hospital6 256**]
+for carotid stenting and coronary artery bypass grafting.
+
+He underwent carotid stenting on [**12-22**] by [**First Name8 (NamePattern2) 487**]
+[**Last Name (NamePattern1) **], M.D., and was discharged to home following stent
+placement.  He returned on [**1-8**] for coronary artery
+bypass grafting as an outpatient admission, postoperative
+admit.
+
+PAST MEDICAL HISTORY:  Severe peripheral vascular disease.
+Bilateral carotid disease.  Obesity.  Hypertension.
+Hypercholesterolemia.  Chronic low back pain.  Prior
+intravenous drug use.  Cardiac catheterization done on
+[**2130-11-28**], showed left main at 60-70%, left anterior
+descending 60%, circumflex 100%, right coronary artery 30%,
+ejection fraction of 70%.
+
+Echocardiogram on [**11-18**] showed an ejection fraction of
+50-55%, left atrial enlargement, left ventricular
+hypertrophy, inferior hypokinesis.
+
+MEDICATIONS ON ADMISSION:  Lipitor 20 mg q.d., Metoprolol 25
+mg b.i.d., enteric coated Aspirin 81 mg q.d., Vitamin B,
+Folate, B6.
+
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+
+SOCIAL HISTORY:  He is a construction worker.  He smokes a
+half to one pack per day times 40 years.  He denied alcohol
+use.  He has been sober times 11 years.  No recent
+intravenous drug use.
+
+PHYSICAL EXAMINATION:  Vital signs:  On preadmission testing,
+his heart rate was 56 and regular, blood pressure 148/90,
+respirations 20, height 5 ft 6 in, weight 212 lbs.  General:
+He was obese but somewhat fit.  Skin:  No obvious lesions.
+He had multiple park scarring on both arms.  HEENT:  Pupils
+equal, round and reactive to light.  Extraocular movements
+intact.  Pupil mucosa was normal.  Neck:  Supple.  No jugular
+venous distention.  He had bilateral bruits, right greater
+than left.  Chest:  Clear to auscultation bilaterally.
+Heart:  Irregular.  S1 and S2.  No murmur appreciated.
+Abdomen:  Soft, nontender, nondistended.  Extremities:  Warm
+and well perfused with no clubbing, cyanosis, or edema.  No
+varicosities.  Neurological:  Cranial nerves II-XII grossly
+intact.  Nonfocal exam.  Strength equal in all four
+extremities.  Pulses:  Femoral 1+ bilaterally.  Dorsalis
+pedis 2+ on the right and left.  Posterior tibial 1+
+bilaterally.  Radials 1+ bilaterally.
+
+LABORATORY DATA:  None at the time of preadmission testing.
+
+Chest x-ray pending.  Electrocardiogram showed sinus at a
+rate of 55, with occasional premature ventricular
+contractions, T-wave inversions in lead III and AVF, normal
+intervals.
+
+HOSPITAL COURSE:  The patient was admitted on [**1-8**] for
+coronary artery bypass grafting directly to the Operating
+Room.  Please see the operative report for full details.
+
+In summary, the patient had coronary artery bypass grafting
+times two with LIMA to the left anterior descending and
+saphenous vein graft to the obtuse marginal.  His bypass time
+was 122 min with a cross-clamp time of 100 min.  He tolerated
+the operation well and was transferred from the Operating
+Room to the Cardiothoracic Intensive Care Unit.
+
+At the time of transfer, the patient was in sinus rhythm with
+a mean arterial pressure of 80, PA of 25/15.  He had
+Neo-Synephrine at 0.5 mcg/kg/min.
+
+He did well in the immediate postoperative period.  His
+anesthesia was reversed, and he was successfully extubated.
+On postoperative day #1, the patient remained hemodynamically
+stable, and he was transferred to ................ for
+continuing postoperative care and cardiac rehabilitation.
+
+His chest tubes remained in place on postoperative day #1, as
+he had a significant amount of drainage.  On postoperative
+day #2, the patient was noted to have rapid atrial
+fibrillation with a ventricular response of 140-160 and a
+blood pressure ranging from 90-110, not associated with any
+dizziness, shortness of breath, or chest pain.
+
+At that time, the patient was started on Amiodarone, and by
+on postoperative day #3, the patient had converted to normal
+sinus rhythm.
+
+Over the next several days, the patient had an uneventful
+postoperative course.  He did however, have an additional
+episode of atrial fibrillation on postoperative day #4, and
+at that time, he was started on Heparin infusion, and
+Coumadin was begun.
+
+The patient again converted to normal sinus rhythm and has
+been in normal sinus rhythm since that time.
+
+With the assistance of the nursing staff and Physical
+Therapy, the patient's activity level was gradually
+increased, and now on postoperative day #7, the patient is
+stable and ready to be discharged to home.
+
+DISCHARGE PHYSICAL EXAMINATION:  Vital signs:  Temperature
+99??????, heart rate 68 in sinus rhythm, blood pressure 116/50,
+respirations 20, oxygen saturation 96% on room air.  Weight
+preoperatively 220 lbs, on discharge 100 kg.  Neurological:
+The patient was alert and oriented times three.  He moves all
+extremities.  He follows commands.  Chest:  Clear to
+auscultation bilaterally.  Sternum is stable.  Incision with
+Steri-Strips, open to air, clean and dry.  Cardiovascular:
+Regular, rate and rhythm.  S1 and S2.  No murmurs.  Abdomen:
+Soft, nontender, nondistended.  Positive bowel sounds.
+Extremities:  Warm and well perfused.  He had 1+ edema
+bilaterally.  Right leg saphenous vein graft site with
+Steri-Strips, open to air, clean and dry.
+
+DISCHARGE LABORATORY DATA:  Sodium 140, potassium 4.1,
+chloride 106, CO2 29, BUN 12, creatinine 0.9, glucose 102;
+white count 8.1, hematocrit 23.5, platelet count 197; PT
+13.7, PTT 68, on 1400 U Heparin, INR 1.3.
+
+DISCHARGE MEDICATIONS:  Aspirin 81 mg q.d., Atorvastatin 20
+mg q.d., Plavix 75 mg q.d., Metoprolol 50 mg b.i.d.,
+Amiodarone 400 mg b.i.d. x 1 week, then 400 mg q.d. x 1 week,
+then 200 mg q.d., Coumadin the patient is to take as
+directed, he is to receive 5 mg on the day of discharge, 3 mg
+the day after discharge, and then have his INR checked with
+Dr. [**Last Name (STitle) 1159**] on [**1-17**], at which time she will instruct him
+on how much Coumadin to take from that point forward.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE DIAGNOSIS:
+1.  Bilateral carotid disease status post carotid stenting.
+2.  Coronary artery disease status post coronary artery
+bypass grafting times two with LIMA to the left anterior
+descending and saphenous vein graft to the obtuse marginal.
+3.  Abdominal aortic aneurysm reported as 3.5 cm.
+4.  Hypertension.
+5.  Hypercholesterolemia.
+6.  Prior intravenous drug use.
+7.  Chronic low back pain.
+
+DISCHARGE STATUS:  The patient is to be discharged home.
+
+FO[**Last Name (STitle) **]P:  He is to have follow-up in the [**Hospital 409**] Clinic in
+two weeks.  He is to follow-up with Dr. [**Last Name (STitle) 1159**] in [**2-8**] weeks.
+Follow-up with Dr. [**Last Name (Prefixes) **] in four weeks.  Additionally,
+the patient is to have his INR checked on [**1-17**] in Dr.[**Name (NI) 53002**] office.  He is to call Dr. [**Last Name (STitle) 1159**] for an appointment
+prior to Wednesday morning to schedule a time for his INR
+check.
+
+
+
+
+                            [**Doctor Last Name 412**] [**Last Name (Prefixes) 413**], M.D.  [**MD Number(1) 414**]
+
+Dictated By:[**Name8 (MD) 415**]
+MEDQUIST36
+
+D:  [**2131-1-15**]  13:31
+T:  [**2131-1-15**]  13:36
+JOB#:  [**Job Number 53003**]
+"
+169642,5199,100793,2196-04-22,,,ECG,Report,,,"Sinus tachycardia
+Possible anterior infarct - age undetermined
+Inferior/lateral ST-T changes may be due to myocardial ischemia
+Since previous tracing, R wave progression is more abnormal
+
+"
+277566,30376,166341,2171-01-09,,,ECG,Report,,,"Sinus rhythm. Left ventricular hypertrophy with ST-T wave change. Compared to
+the previous tracing of [**2171-1-9**] there is no diagnostic interim change.
+
+"
+187630,11623,140615,2150-07-22,,,ECG,Report,,,"Atrial fibrillation with rapid ventricular response
+Rightward axis - is nonspecific
+Modest diffuse nonspecific ST-T wave changes
+Borderline low voltage
+Since previous tracing of [**2150-7-21**], ventricular rate slower
+
+"
+311922,17989,,2193-08-06,,,ECG,Report,,,"Sinus rhythm with increase in rate as compared to the previous tracing
+of [**2193-8-6**]. There is less prominent T wave inversion in association with recent
+or ongoing anteroseptal and lateral myocardial infarction. These changes may
+represent pseudonormalization. Followup and clinical correlation are suggested.
+TRACING #2
+
+"
+66574,690,135389,2188-02-22,,,Echo,Report,,,"PATIENT/TEST INFORMATION:
+Indication: Evaluation for Endocarditis.
+Height: (in) 74
+Weight (lb): 190
+BSA (m2): 2.13 m2
+BP (mm Hg): 112/60
+HR (bpm): 115
+Status: Inpatient
+Date/Time: [**2188-2-22**] at 15:52
+Test: TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. The IVC is normal in
+diameter with >50% decrease collapse during respiration (estimated RAP [**6-5**]
+mmHg).
+
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size. Low normal
+LVEF.
+
+RIGHT VENTRICLE: Normal RV wall thickness. Mildly dilated RV cavity. Mild
+global RV free wall hypokinesis.
+
+AORTA: Normal aortic diameter at the sinus level. Focal calcifications in
+aortic root. Mildly dilated ascending aorta. Focal calcifications in ascending
+aorta. Mildly dilated aortic arch. Focal calcifications in aortic arch.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. No masses or
+vegetations on aortic valve. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. No mass or
+vegetation on mitral valve. Mild mitral annular calcification. Mild thickening
+of mitral valve chordae. Calcified tips of papillary muscles. No MS. Normal LV
+inflow pattern for age.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. No mass or vegetation on
+tricuspid valve. Normal tricuspid valve supporting structures. Mild [1+] TR.
+Borderline PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets with
+physiologic PR. No vegetation/mass on pulmonic valve. Normal main PA. No
+Doppler evidence for PDA
+
+PERICARDIUM: No pericardial effusion.
+
+Conclusions:
+The left atrium is mildly dilated. The estimated right atrial pressure is [**6-5**]
+mmHg. Left ventricular wall thicknesses are normal. The left ventricular
+cavity size is normal. Overall left ventricular systolic function is low
+normal (LVEF 50%). The right ventricular cavity is mildly dilated. There is
+mild global right ventricular free wall hypokinesis. The ascending aorta is
+mildly dilated. The aortic arch is mildly dilated. There are focal
+calcifications in the aortic arch. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. No masses or vegetations are
+seen on the aortic valve. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is no mitral valve prolapse. No mass or
+vegetation is seen on the mitral valve. There is borderline pulmonary artery
+systolic hypertension. No vegetation/mass is seen on the pulmonic valve. There
+is no pericardial effusion.
+
+Compared with the findings of the prior report (images unavailable for review)
+of [**2184-7-23**], mild right ventricular hypokinesis is now present.
+
+If clinically suggested, the absence of a vegetation by 2D echocardiography
+does not exclude endocarditis.
+
+
+"
+42729,43561,111010,2160-07-15,,,Discharge summary,Report,,,"Admission Date:  [**2160-7-10**]              Discharge Date:   [**2160-7-15**]
+
+Date of Birth:  [**2079-4-20**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+[**2160-7-10**]: Aortic valve replacement with 19 mm tissue and
+Coronary Artery bypass graft x 1 (RSVG->RCA)
+
+
+History of Present Illness:
+80 year old female with known aortic valve disease which has
+been followed by serial echocardiograms. Her most recent
+echocardiogram showed severe aortic stenosis, moderate aortic
+insufficiency and mild mitral regurgitation. She
+is quite symptomatic with severe dyspnea on exertion. She has
+also had an two admissions for heart failure in the past few
+months and for the past two months she has been at rehab. Given
+the severity of her disease, she has been referred for tissue
+AVR/CABG.
+
+
+Past Medical History:
+Coronary artery disease
+Aortic stenosis
+Diastolic heart failure
+Myocardial infarction
+Mitral regurgitation
+CVA [**60**] yrs ago
+Anxiety/Depression
+Hyperlipidemia
+Hypertension
+Gout
+History of blood clot in left leg/? iliac
+chronic neck/back pain
+osteoarthritis chronic
+sacral ulcer colitis
+tobacco abuse recently stopped
+anemia recent fall left thigh hematoma
+decubitus of coccyx
+
+
+Social History:
+Race:Caucasian
+Last Dental Exam: 1-2 weeks ago
+Lives with: Currently at rehab but was living with son in his
+home. Has
+in-law-apartment in son's home, [**Location (un) **] VNA nurse 3 x per wk
+dressing changes
+Contact:[**Name (NI) **] (son) Phone #[**Telephone/Fax (1) 92341**]
+Occupation:retired
+Cigarettes: Smoked no [] yes [x] quit few weeks ago
+Hx:30-50 PY Hx
+Other Tobacco use:denies
+ETOH: [x]  [**2-26**] drinks/week
+Illicit drug use:denies
+
+
+Family History:
+Family History:Premature coronary artery disease- father with MI
+age 62
+
+
+Physical Exam:
+Physical Exam: [**2160-7-3**]
+Pulse:72 Resp:18  O2 sat:95/RA
+B/P  Right:119/74    Left:120/74
+Height:5'3""     Weight:130 lbs
+General: NAD, AAOx3
+Skin: Dry [] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [x] SEM grade III/VI
+Abdomen: Soft [x] non-distended [x] non-tender [x]
+Extremities: Warm [x], well-perfused [x]  Edema []
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: palp  Left: palp
+DP              Right: palp  Left: palp
+PT              [**Name (NI) 167**]: palp  Left: dop
+Radial         Right: palp  Left: palp
+
+Carotid Bruit        Right: none  Left: none
+
+
+Pertinent Results:
+Echocardiogram [**2160-7-10**]
+Conclusions
+PRE BYPASS The left atrium is dilated. No spontaneous echo
+contrast or thrombus is seen in the body of the left atrium/left
+atrial appendage or the body of the right atrium/right atrial
+appendage. The left atrial appendage emptying velocity is
+depressed (<0.2m/s). No atrial septal defect is seen by 2D or
+color Doppler. There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal.
+Regional left ventricular wall motion is normal. Overall left
+ventricular systolic function is low normal (LVEF 50-55%). The
+right ventricle displays normal free wall contractility. There
+are complex (>4mm) atheroma in the aortic arch. There are
+complex (>4mm) atheroma in the descending thoracic aorta. There
+are three aortic valve leaflets. The aortic valve leaflets are
+severely thickened/deformed. There is critical aortic valve
+stenosis (valve area 0.6cm2). Mild to moderate ([**1-21**]+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. The posterior leaflet is calcified and immobilized.
+Mild to moderate ([**1-21**]+) mitral regurgitation is seen. Moderate
+[2+] tricuspid regurgitation is seen. There is a
+trivial/physiologic pericardial effusion. Dr. [**Last Name (STitle) **] was
+notified in person of the results in the operating room at the
+time of the study.
+
+POST BYPASS The patient is AV paced. There is normal
+biventricular systolic function. There is a bioprosthesis in the
+aortic position. It appears well seated. The ;leaflets can not
+be definitively seen. There is trace valvualr and trace
+paravalvular aortic regurgitation seen. At a cardiac output of
+4.5 liters/minute, the maximum gradient through the valve was 35
+mmHg with a mean of 17 mmHg at an effective area of 1.4 cm2. The
+mitral regurgitation is improved and is now mild. The tricuspid
+regurgitation is also improved, now mild. The thoracic aorta is
+intact after decannulation.
+  .
+
+[**2160-7-15**] 04:51AM BLOOD WBC-10.9 RBC-3.11* Hgb-9.2*# Hct-28.3*
+MCV-91 MCH-29.6 MCHC-32.5 RDW-16.5* Plt Ct-172
+[**2160-7-14**] 04:28AM BLOOD WBC-9.8 RBC-2.51* Hgb-7.3* Hct-23.3*
+MCV-93 MCH-29.0 MCHC-31.2 RDW-17.4* Plt Ct-127*
+[**2160-7-15**] 04:51AM BLOOD Glucose-85 UreaN-54* Creat-1.7* Na-141
+K-3.9 Cl-97 HCO3-34* AnGap-14
+[**2160-7-14**] 04:28AM BLOOD Glucose-80 UreaN-46* Creat-1.7* Na-138
+K-3.7 Cl-100 HCO3-32 AnGap-10
+
+Brief Hospital Course:
+The patient was brought to the operating room on [**2160-7-10**] where
+the patient underwent Aortic valve replacement ([**First Name8 (NamePattern2) 17167**] [**Male First Name (un) 923**])
+and coronary artery bypass graft (SVG-distal RCA).   Overall the
+patient tolerated the procedure well and post-operatively was
+transferred to the CVICU in stable condition for recovery and
+invasive monitoring.  She extubated POD1. The patient was
+neurologically intact and hemodynamically stable, weaned from
+inotropic and vasopressor support.  The patient was transferred
+to the telemetry floor for further recovery. Chest tubes and
+pacing wires were discontinued without complication.
+
+Respiratory: Aggressive pulmonary toilet, nebs and ambulation
+her oxygenation improved. Inhalers were continued.
+
+Cardiac: hemodynamically stable in sinus rhythm.  SBP 130-140's
+low-dose Lisinopril was started.  Statin restarted.
+
+GI: history of constipation. Her previous laxatives were
+resumed.
+
+Renal; gently diuresed toward her preop weight- contiues to
+require diuresis.  Baseline CRE 1.7-2.0.  Electrolytes were
+repleted as needed.
+
+Endocrine: Insulin sliding scale to maintain BS < 150.
+Colchicine was restarted for her history of gout.
+
+Skin: She was followed by the wound care service for a
+longstanding stage 4 pressure ulcer following pilonidal cyst
+measuring 2 x1 cm with minimal depth. Some undermining. Peri
+wound tissue is macerated with copious serous drainage.  They
+recommended pressure ulcer guidelines and dressing changes.
+
+Neuro: Antidepressant was restarted.  Valium held secondary to
+lethargy. once mental status returned to baseline her Oxycodone
+for standing back pain was resumed and toelrated well.  Nicotine
+patch applied.
+
+Disposition: She was followed by physical therapy.  She was
+returned to [**Hospital 392**] Rehabilitation & Nursing Center [**Telephone/Fax (1) 92342**]
+on POD# 5.
+
+
+Medications on Admission:
+CITALOPRAM 10 mg Daily
+COLCHICINE 0.6 mg Daily
+DIAZEPAM 10 mg HS
+ADVAIR DISKUS 500 mcg-50 mcg/Dose Disk with Device - one puff
+inhaled [**Hospital1 **]
+FUROSEMIDE 20 mg  daily.
+HYDROCORTISONE ACETATE 25 mg Suppository - PRN
+METOPROLOL TARTRATE 12.5 mg [**Hospital1 **]
+OXYCODONE 15 mg - 1-2 Tablets  every six hours
+POLYETHYLENE GLYCOL 3350 17 gram/dose Powder - one capful Daily
+SIMVASTATIN 10 mg Daily
+ASPIRIN  81 mg Daily
+DULCOLAX as directed PRN
+DOCUSATE SODIUM 100 mg Daily
+MULTIVITAMIN Dosage 1 tablet daily
+SENOKOT 8.6 mg Daily
+Nicotine patch
+
+
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q4H:PRN fever, pain
+2. Aspirin EC 81 mg PO DAILY
+3. Bisacodyl 10 mg PR DAILY:PRN constipation
+4. Citalopram 10 mg PO DAILY
+5. Colchicine 0.6 mg PO EVERY OTHER DAY
+6. Docusate Sodium 100 mg PO BID
+7. Fluticasone-Salmeterol Diskus (500/50)  1 INH IH [**Hospital1 **]
+8. Metoprolol Tartrate 50 mg PO TID
+Hold for HR < 55 or SBP < 90 and call medical provider.
+9. Milk of Magnesia 30 ml PO HS:PRN constipation
+10. Nicotine Patch 7 mg TD DAILY
+11. Polyethylene Glycol 17 g PO DAILY
+12. Potassium Chloride 20 mEq PO Q12H
+Hold for K+ > 4.5
+13. Ranitidine 150 mg PO DAILY
+14. Simvastatin 10 mg PO DAILY
+15. OxycoDONE (Immediate Release)  5-10 mg PO Q4H:PRN pain
+RX *oxycodone 5 mg [**1-22**] Tablet(s) by mouth every four (4) hours
+Disp #*90 Tablet Refills:*0
+16. Amlodipine 5 mg PO DAILY
+17. Furosemide 40 mg PO BID
+18. Senna 1 TAB PO BID
+19. Multivitamins 1 TAB PO DAILY
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 **] Transitional Care and Rehab - [**Hospital1 392**]
+
+Discharge Diagnosis:
+Coronary artery disease
+Aortic stenosis
+Diastolic heart failure
+Myocardial infarction
+Mitral regurgitation
+CVA [**60**] yrs ago
+Anxiety/Depression
+Hyperlipidemia
+Hypertension
+Gout
+History of blood clot in left leg/? iliac
+chronic neck/back pain
+osteoarthritis chronic
+sacral ulcer colitis
+tobacco abuse recently stopped
+anemia recent fall left thigh hematoma
+decubitus of coccyx
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+Edema 1+, ecchymotic RLE from thigh to knee (ace wrap right
+thigh daily)
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 170**]
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call
+person during off hours**
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+
+
+Followup Instructions:
+You are scheduled for the following appointments:
+Surgeon Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 170**] [**8-6**] at 2pm in the [**Hospital **]
+medical office building, [**Doctor First Name **], [**Hospital Unit Name **]
+
+Please call to schedule the following:
+Primary Care Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 39662**] in [**4-24**] weeks
+Cardiologist Dr. [**Last Name (STitle) **] upon discharge from rehab
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call
+person during off hours**
+
+
+Completed by:[**2160-7-21**]"
+74782,17822,158984,2168-03-21,,,Echo,Report,,,"PATIENT/TEST INFORMATION:
+Indication: Congestive heart failure. Left ventricular function. Valvular heart disease.
+BP (mm Hg): 102/40
+Status: Inpatient
+Date/Time: [**2168-3-21**] at 09:31
+Test: TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: None
+Technical Quality: Adequate
+
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: The left atrium is moderately dilated.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is seen in the
+right atrium and/or right ventricle. The inferior vena cava is dilated (>2.5
+cm), with minimal respiratory variation consistent with a right atrial
+pressure >20 mmHg.
+
+LEFT VENTRICLE: Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is top normal/borderline dilated. There is severe
+global left ventricular hypokinesis.
+
+RIGHT VENTRICLE: The right ventricular cavity is mildly dilated. There is
+severe global right ventricular free wall hypokinesis.
+
+AORTA: The aortic root is normal in diameter.
+
+AORTIC VALVE: The aortic valve leaflets are mildly thickened. Mild to moderate
+([**12-3**]+) aortic regurgitation is seen.
+
+MITRAL VALVE: The mitral valve leaflets are mildly thickened. There is mild
+thickening of the mitral valve chordae. Moderate (2+) mitral regurgitation is
+seen.
+
+TRICUSPID VALVE: The tricuspid valve leaflets are normal. Moderate [2+]
+tricuspid regurgitation is seen. There is moderate pulmonary artery systolic
+hypertension.
+
+PERICARDIUM: There is no pericardial effusion.
+
+GENERAL COMMENTS: Based on [**2161**] AHA endocarditis prophylaxis recommendations,
+the echo findings indicate a moderate risk (prophylaxis recommended). Clinical
+decisions regarding the need for prophylaxis should be based on clinical and
+echocardiographic data. The echocardiographic results were reviewed by
+telephone with the houseofficer caring for the patient.
+
+Conclusions:
+The left atrium is moderately dilated. Left ventricular wall thicknesses are
+normal. The left ventricular cavity size is top normal/borderline dilated.
+There is severe global left ventricular hypokinesis. The right ventricular
+cavity is mildly dilated with severe global free wall hypokinesis. The aortic
+valve leaflets are mildly thickened but not stenotic. Mild to moderate ([**12-3**]+)
+aortic regurgitation is seen. The mitral valve leaflets are mildly thickened.
+Moderate (2+) mitral regurgitation is seen. Moderate [2+] tricuspid
+regurgitation is seen. There is moderate pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+IMPRESSION: Severe biventricular hypokinesis c/w diffuse process (toxin,
+metabolic, multivessel CAD, etc.) Pulmonary artery systolic hypertension.
+Mild-moderate aortic regurgitation. Moderate mitral regurgitation.
+
+Based on [**2161**] AHA endocarditis prophylaxis recommendations, the echo findings
+indicate a moderate risk (prophylaxis recommended). Clinical decisions
+regarding the need for prophylaxis should be based on clinical and
+echocardiographic data.
+
+
+"
+260825,94853,,2152-01-17,,,ECG,Report,,,"ECG interpreted by ordering physician.
+[**Name10 (NameIs) 2**] see corresponding office note for interpretation.
+
+"
+188520,13015,181587,2108-07-13,,,ECG,Report,,,"Sinus rhythm
+Normal ECG
+Since previous tracing of [**2108-7-12**], no significant change
+
+"
+200214,6189,145240,2169-08-30,,,ECG,Report,,,"Sinus rhythm. Low voltage. Left atrial abnormality. Poor R wave progression in
+leads VI-V3. Miniature follwwed by S waves in lead V4. Flat T waves in
+leads I, aVL, III, aVF and V5-V6 which are non-specific. Micro R waves in
+lead V4 followed by S waves raise possibility of infarction. Voltage raises
+possibility of infiltrative disease. Left atrial abnormality is present..
+TRACING #1
+
+"
+222007,49340,167200,2129-03-30,,,ECG,Report,,,"Artifact is present.  Sinus bradycardia.  The P-R interval is prolonged.
+The Q-T interval is prolonged.  Compared to the previous tracing late
+transition is no longer present.
+
+"
+125102,27643,,2151-02-24,,,ECG,Report,,,"Sinus rhythm. Tracing is without diagnostic abnormality.
+TRACING #1
+
+"
+271181,14914,,2161-03-06,,,ECG,Report,,,"Sinus rhythm. Prolonged P-R interval. Compared to the previous tracing the
+P-R interval has increased.
+TRACING #2
+
+"
+240598,86585,123444,2137-12-17,,,ECG,Report,,,"Atrial fibrillation with PVCs or aberrant ventricular conduction
+Left axis deviation
+RBBB with left anterior fascicular block
+*** CONSIDER INFERIOR INFARCT - POSSIBLY ACUTE ***
+ST-T changes
+Since previous tracing of [**2137-12-15**], heart rate is faster
+
+"
+80890,24658,134436,2109-01-29,,,Echo,Report,,,"PATIENT/TEST INFORMATION:
+Indication: Syncope. Right heart strain.
+Height: (in) 65
+Weight (lb): 182
+BSA (m2): 1.90 m2
+BP (mm Hg): 115/61
+HR (bpm): 100
+Status: Inpatient
+Date/Time: [**2109-1-29**] at 14:36
+Test: TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: Normal LA size.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size.
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and systolic function
+(LVEF>55%). Normal regional LV systolic function. No resting LVOT gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal ascending aorta
+diameter. Normal aortic arch diameter.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR. No MVP.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR.
+Indeterminate PA systolic pressure.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor apical views.
+
+Conclusions:
+The left atrium is normal in size. Left ventricular wall thickness, cavity
+size, and systolic function are normal (LVEF>55%). Regional left ventricular
+wall motion is normal. Right ventricular chamber size and free wall motion are
+normal. The aortic valve leaflets (3) appear structurally normal with good
+leaflet excursion and no aortic regurgitation. The mitral valve appears
+structurally normal with trivial mitral regurgitation. There is no mitral
+valve prolapse. The pulmonary artery systolic pressure could not be
+determined. There is no pericardial effusion.
+
+IMPRESSION: Normal study. Preserved global and regional biventricular systolic
+function. No structural cardiac cause of syncope identified.
+
+CLINICAL IMPLICATIONS:
+Based on [**2098**] AHA endocarditis prophylaxis recommendations, the echo findings
+indicate a low risk (prophylaxis not recommended). Clinical decisions
+regarding the need for prophylaxis should be based on clinical and
+echocardiographic data.
+
+
+"
+175744,15418,145494,2103-05-26,,,ECG,Report,,,"Sinus rhythm. Non-specific ST-T wave abnormalities. No previous tracing
+available for comparison.
+
+"
+187881,25044,172095,2152-11-07,,,ECG,Report,,,"Sinus rhythm. Since the previous tracing of [**2152-11-6**] the atrial premature beats
+are no longer present but the ST-T wave abnormalities across the precordium
+persist. Clinical correlation is suggested.
+TRACING #2
+
+"
+115887,17137,174999,2156-06-29,,,ECG,Report,,,"Sinus tachycardia
+Since previous tracing of [**2149-6-10**] rate increased
+Normal ECG except for rate
+
+"
+243464,57496,,2169-06-25,,,ECG,Report,,,"Sinus tachycardia.  Borderline first degree A-V conduction delay.  Poor R wave
+progression.  Non-specific T wave abnormalities in leads III and aVF.  Compared
+to tracing #1 on [**2169-6-24**], ventricular rate is faster, the P-R interval is
+slightly longer.
+TRACING #2
+
+"
+186283,7334,147622,2153-01-24,,,ECG,Report,,,"Sinus rhythm. Q waves in leads III and aVF with T wave inversion in
+leads II, III and aVF suggest possibility of inferior myocardial infarction of
+indeterminate age. There are also lateral ST segment depressions and T wave
+inversions in leads I and V4-V6. The Q-T interval is mildly prolonged.
+TRACING #1
+
+"
+241028,89040,128808,2112-05-14,,,ECG,Report,,,"Regular atrial pacing
+Faulty V5 - omitted from analysis
+Marked left axis deviation
+Intraventricular conduction defect
+Probable old anteroseptal infarct
+Lateral T wave changes are nonspecific
+Are V3 and V5 properly placed
+Since previous tracing of [**2112-5-12**], R wave progression change noted
+
+"
+217886,28671,,2151-02-23,,,ECG,Report,,,"Sinus bradycardia. Since the previous tracing of [**2151-1-23**] the rate has decreased.
+
+
+"
+209015,16439,143493,2150-10-22,,,ECG,Report,,,"Sinus bradycardia. Since the previous tracing of [**2150-10-21**] the rate is slower.
+T waves are now somewhat deeply inverted in lead V2 as well as inverted in
+lead V3. The abnormalities are non-specific but may be due in part, to an acute
+anteroseptal process. Clinical correlation is suggested.
+TRACING #2
+
+"
+141524,12508,,2198-10-01,,,ECG,Report,,,"Sinus rhythm.  A-V conduction delay.  Prior anteroseptal myocardial infarction.
+Compared to the prior tracing of [**2198-9-26**] no diagnostic interim change.
+TRACING #1
+
+"
+71071,4608,110346,2114-02-05,,,Echo,Report,,,"PATIENT/TEST INFORMATION:
+Indication: Aortic valve disease. Mitral valve disease.
+Height: (in) 65
+Weight (lb): 160
+BSA (m2): 1.80 m2
+BP (mm Hg): 120/70
+Status: Inpatient
+Date/Time: [**2114-2-5**] at 11:58
+Test: TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: None
+Technical Quality: Adequate
+
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: The left atrium is mildly dilated.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: The right atrium is mildly dilated.
+
+LEFT VENTRICLE: Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. Overall left ventricular systolic function
+is normal (LVEF>55%).
+
+RIGHT VENTRICLE: The right ventricular wall thickness is normal. Right
+ventricular chamber size is normal. Right ventricular systolic function is
+normal.
+
+AORTA: The aortic root is normal in diameter.
+
+AORTIC VALVE: The aortic valve leaflets are severely thickened/deformed. There
+is severe aortic valve stenosis.
+
+MITRAL VALVE: The mitral valve leaflets are mildly thickened. There is
+moderate mitral annular calcification. Severe (4+) mitral regurgitation is
+seen.
+
+TRICUSPID VALVE: Mild tricuspid [1+] regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension.
+
+PERICARDIUM: There is an anterior space which most likely represents a fat
+pad, though a loculated anterior pericardial effusion cannot be excluded.
+
+Conclusions:
+The left atrium is mildly dilated. Left ventricular wall thicknesses are
+normal. The left ventricular cavity size is normal. Overall left ventricular
+systolic function is normal (LVEF>55%). Right ventricular systolic function is
+normal. The aortic valve leaflets are severely thickened/deformed. There is
+severe aortic valve stenosis. The mitral valve leaflets are mildly thickened.
+Severe (4+) mitral regurgitation is seen. There is moderate pulmonary artery
+systolic hypertension.
+
+
+"
+93654,88483,167164,2169-02-24,,,Echo,Report,,,"PATIENT/TEST INFORMATION:
+Indication: CAD, MV Regurgitation
+Height: (in) 73
+Weight (lb): 185
+BSA (m2): 2.08 m2
+Status: Inpatient
+Date/Time: [**2169-2-24**] at 13:27
+Test: TEE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: No spontaneous echo contrast or thrombus in the LA/LAA or the
+RA/RAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size and regional/global
+systolic function (LVEF >55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Focal calcifications in
+aortic root. Normal ascending aorta diameter. Normal aortic arch diameter.
+Focal calcifications in aortic arch. Normal descending aorta diameter. Focal
+calcifications in descending aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. Trace AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Eccentric MR jet.
+Moderate to severe (3+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet. No PS.
+Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Written informed consent was obtained from the patient. The
+patient was under general anesthesia throughout the procedure. No TEE related
+complications. The patient appears to be in sinus rhythm. Results were
+personally reviewed with the MD caring for the patient. See Conclusions for
+post-bypass data
+
+Conclusions:
+PRE-BYPASS:
+No spontaneous echo contrast or thrombus is seen in the body of the left
+atrium/left atrial appendage or the body of the right atrium/right atrial
+appendage.
+No atrial septal defect is seen by 2D or color Doppler. Left ventricular wall
+thickness, cavity size and regional/global systolic function are normal (LVEF
+>55%).
+Right ventricular chamber size and free wall motion are normal.
+There are focal calcifications in the aortic arch.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not
+present. Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. An eccentric, posteriorly
+directed jet of Moderate to severe (3+) mitral regurgitation is seen. There is
+no pericardial effusion.
+Dr. [**Last Name (STitle) 32**] was notified in person of the results before surgical incision..
+
+POST-BYPASS:Post bypass study was done by Dr. [**First Name (STitle) 42**] and reported directly to
+Dr. [**Last Name (STitle) 32**].
+The m itral repair is adequate with no residual gradients across the mitral
+valve. There is insignificant MR across the repaired valve.
+LVEF 55%.
+Normal RV systolic function.
+No other new valvular findings.
+Intact thoracic aorta.
+
+
+"
+146250,13123,,2185-07-29,,,ECG,Report,,,"Atrial fibrillation with relatively controlled ventricular response.
+Delayed R wave progression may be due to lead placement but may indicate prior
+anterior myocardial infarction, age undetermined.  Lateral ST segment
+changes may be due to lateral myocardial ischemia.  Clinical correlation is
+suggested.  Compared to the previous tracing of [**2185-5-27**] R waves are now visible
+in leads V1-V2 but repolarization abnormalities persist.
+
+"
+145739,81444,100960,2193-01-06,,,ECG,Report,,,"Sinus rhythm.  RSR' pattern (probable normal variant).  Anteroseptal
+ST-T wave changes consistent with possible ischemia.  Clinical correlation is
+suggested.  Compared to the previous tracing of [**2193-1-5**] the rate has
+increased.  All other findings are similar.
+
+"
+199245,30275,152118,2106-11-21,,,ECG,Report,,,"Sinus rhythm. Non-specific inferior and apical T wave changes. Compared to the
+previous tracing of [**2106-11-18**] ST segment elevation in leads V2-V3 has resolved.
+The ventricular rate is faster. T wave flattening is new.
+
+"
+177162,1198,151608,2142-05-27,,,ECG,Report,,,"Atrial fibrillation with a rapid ventricular response. Prior infero-posterior
+myocardial infarction. Diffuse ST-T wave changes. Compared to the previous
+tracing of [**2142-5-26**] atrial fibrillation is new. Clinical correlation is
+suggested.
+TRACING #2
+
+"
+202302,32793,120773,2197-12-13,,,ECG,Report,,,"Sinus bradycardia.  Since the previous tracing earlier on [**2197-12-13**]
+no significant change in previously noted abnormalities.
+TRACING #3
+
+"
+267426,20879,,2130-05-07,,,ECG,Report,,,"Atrial fibrillation
+Consider left ventricular hypertrophy by voltage
+Since previous tracing of [**2130-4-30**]: R wave progression improved -  in part
+positional
+
+"
+63089,99088,135006,2177-06-06,,,Echo,Report,,,"PATIENT/TEST INFORMATION:
+Indication: Atrial fibrillation. Pericardial effusion. Valvular heart disease.
+Height: (in) 69
+Weight (lb): 108
+BSA (m2): 1.59 m2
+BP (mm Hg): 128/93
+HR (bpm): 54
+Status: Inpatient
+Date/Time: [**2177-6-6**] at 10:04
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+
+INTERPRETATION:
+
+Findings:
+
+This study was compared to the prior study of [**2172-9-14**].
+
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size. Normal regional LV
+systolic function. Overall normal LVEF (>55%). No resting LVOT gradient. No
+VSD.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTIC VALVE: Moderately thickened aortic valve leaflets. Mild AS (area
+1.2-1.9cm2). Trace AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. Mild mitral
+annular calcification. No MS. Mild (1+) MR.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. No TS. Mild [1+]
+TR. Mild PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: No PS.
+
+PERICARDIUM: Very small pericardial effusion. No echocardiographic signs of
+tamponade.
+
+Conclusions:
+There is mild symmetric left ventricular hypertrophy. The left ventricular
+cavity size is normal. Regional left ventricular wall motion is normal.
+Overall left ventricular systolic function is normal (LVEF>55%). There is no
+ventricular septal defect. Right ventricular chamber size and free wall motion
+are normal. The aortic valve leaflets are moderately thickened. There is mild
+aortic valve stenosis (valve area 1.2-1.9cm2). Trace aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. There is no mitral valve
+prolapse. Mild (1+) mitral regurgitation is seen. The tricuspid valve leaflets
+are mildly thickened. There is mild pulmonary artery systolic hypertension.
+There is a very small pericardial effusion. There are no echocardiographic
+signs of tamponade.
+
+Compared with the prior study (images reviewed) of [**2172-9-14**], a very small
+pericardial effusion is now seen. Mild AS is now detected.
+
+
+"
+301085,86942,186876,2152-08-02,,,ECG,Report,,,"Sinus rhythm.  Borderline left axis deviation.  Poor R wave progression
+suggests prior anteroseptal myocardial infarction.  Inferolateral ST-T wave
+changes that are non-specific.  Compared to the previous tracing of [**2152-7-28**]
+there is no significant diagnostic change.
+
+
+
+"
+185985,68820,,2124-01-18,,,ECG,Report,,,"Sinus rhythm.. Left bundle-branch block. No previous tracing available for
+comparison.
+
+"
+90239,93870,103673,2145-10-22,,,Echo,Report,,,"PATIENT/TEST INFORMATION:
+Indication: Congestive heart failure. Left ventricular function. Mitral valve disease
+Height: (in) 68
+Weight (lb): 120
+BSA (m2): 1.65 m2
+BP (mm Hg): 88/45
+Status: Inpatient
+Date/Time: [**2145-10-22**] at 12:02
+Test: TTE (Complete)
+Doppler: Limited Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: Moderate LA enlargement.
+
+LEFT VENTRICLE: Depressed LVEF. No resting LVOT gradient.
+
+LV WALL MOTION: Regional LV wall motion abnormalities include: basal
+inferoseptal - hypo; mid inferoseptal - hypo; basal inferior - hypo; mid
+inferior - hypo; basal inferolateral - hypo; mid inferolateral - hypo;
+inferior apex - hypo; lateral apex - hypo;
+
+RIGHT VENTRICLE: Normal RV wall thickness. Mildly dilated RV cavity. RV
+function depressed.
+
+AORTA: Normal aortic diameter at the sinus level. Focal calcifications in
+aortic root. Normal ascending aorta diameter. Focal calcifications in
+ascending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Moderately thickened aortic valve
+leaflets.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. Mild mitral
+annular calcification. Mild thickening of mitral valve chordae. Calcified tips
+of papillary muscles. Eccentric MR jet. Moderate to severe (3+) MR.
+
+PERICARDIUM: No pericardial effusion.
+
+Conclusions:
+The left atrium is moderately dilated. LV systolic function appears depressed
+(ejection fraction 30 percent) secondary to hypokinesis/akinesis of the
+inferior septum, inferior free wall, and posterior wall. The right ventricular
+cavity is mildly dilated with depressed free wall contractility. There are
+three aortic valve leaflets. The aortic valve leaflets are moderately
+thickened. The mitral valve leaflets are mildly thickened. There is no mitral
+valve prolapse. An eccentric, posteriorly directed jet of moderate to severe
+(3+) mitral regurgitation is seen. There is no pericardial effusion.
+
+Compared with the findings of the prior study (images reviewed) of [**2142-10-20**], the findings are similar.
+
+
+"
+265586,17394,126077,2152-01-08,,,ECG,Report,,,"Sinus rhythm with probable sinus arrhythmia and atrial premature beats.
+Borderline first degree A-V delay. Probable left anterior fascicular block and
+additional intraventricular conduction delay. Consider anterior myocardial
+infarction, age indeterminate. Left ventricular hypertrophy. Diffuse ST-T wave
+abnormalities. Clinical correlation is suggested. Since the previous tracing
+of [**2152-1-8**] atrial fibrillation is now absent.
+TRACING #2
+
+"
+111671,30457,198845,2149-01-13,,,ECG,Report,,,"Sinus rhythm. QS deflections in leads II, III and aVF compatibkle with old
+inferior wall myocardial infarction. Miniature R waves and deep S waves with
+regression of R waves to QS deflections in lead V2 and return of miniature
+R waves in lead V3 suggestive of old anterior wall myocardial infarction.
+Compared to the previous tracing of [**2149-1-9**] supraventricular tachycardia has
+appeared.
+
+"
+133494,16490,151602,2149-06-20,,,ECG,Report,,,"Sinus bradycardia
+Prolonged QT interval
+Cannot rule out anterior infarct - age undetermined
+Inferior/lateral ST-T changes may be ischemia
+Since previous tracing of [**2149-6-14**], no significant change
+
+"
+52403,19213,178549,2202-04-06,,,Discharge summary,Report,,,"Admission Date:  [**2202-3-31**]       Discharge Date:  [**2202-4-6**]
+
+Date of Birth:   [**2168-10-6**]       Sex:  F
+
+Service:  [**Company 191**] MEDICINE
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 33-year-old
+female, with type 2 diabetes mellitus, poorly controlled
+diabetes, who was admitted to the Fenard Intensive Care Unit
+on [**2202-3-31**] with diabetic ketoacidosis.  The patient
+had been vomiting for several days with chronic diarrhea, and
+on admission had an initial blood pressure of 70/palp, and in
+the Emergency Department was found to have a blood glucose
+level of 1,400, an anion gap of 55, and a serum bicarbonate
+of 6.  She received 7 liters of normal saline, potassium
+repletion, 55 units of insulin, and then was put on insulin
+GTT in the ED.  The patient had coffee ground emesis, melena
+on admission.  Coffee ground emesis was cleared after a 350
+cc NG lavage.  Her course was also notable for T wave
+inversions in the inferolateral leads, and a troponin of 2.5.
+The patient also grew out Clostridium perfringens,
+lactobacillus and coag-negative staph aureus from her initial
+blood cultures.  She also was found to have acute on chronic
+prerenal failure.  The patient was initially given 1 gm of
+vancomycin for her bacteremia before speciation in the [**Hospital Unit Name 153**],
+and was later started on clindamycin.  Her lytes were
+repleted and free water was repleted for her hypernatremia on
+admission in the [**Hospital Unit Name 153**], and she was then called out to the
+floor.  Upon call-out, the patient was complaining of tender
+left upper chest pain at her central line site, but no
+fevers, chills, nausea, vomiting or abdominal pain.
+
+PAST MEDICAL HISTORY:  1) Type 1 diabetes since age 6,
+multiple admissions for DKA, 2) Hypertension, 3)
+[**Doctor First Name **]-[**Doctor Last Name **] tears, 4) Gastroparesis, 5) Nephropathy, 6)
+Asthma, 7) Hypercholesterolemia, 8) Chronic renal
+insufficiency with a baseline of 1.5.
+
+MEDICATIONS AT HOME:  1) reglan, 2) insulin, schedule of
+Lantus 32 U at night and 18 [**Location **] in the morning, and
+then Humalog sliding scale for lunch and dinner.
+
+ALLERGIES:  Pork and beef insulin, erythromycin, compazine,
+codeine, aspirin, barium contrast dye.
+
+SOCIAL HISTORY:  Married, currently homeless but expecting to
+move into a new home on the 6.  No alcohol or tobacco use.
+
+MEDICATIONS ON TRANSFER TO THE FLOOR FROM THE ICU:  1)
+clindamycin 600 mg IV q 8 h day 1 on [**2202-4-3**], 2) metoprolol
+12.5 tid, 3) Reglan 10 IV qid, 4) famotidine 20 IV qd, 5)
+Zofran 2 mg q 6 h prn, 6) albuterol/ipratropium nebs, 7)
+nystatin swish and swallow, 8) viscous lidocaine, 9) subcu
+heparin, 10) sublingual Nitroglycerin prn, 11) glargine
+insulin 20 U q hs and regular insulin sliding scale.
+
+EXAM ON TRANSFER TO FLOOR:  T-max 100.6, T-current 99.1,
+pulse 97, respirations 12, blood pressure 117/68 with a range
+of 86-175/32-104, pulse ox 98% on 2 liters.  General - the
+patient was lethargic but awake, alert and oriented.  HEENT
+shows pupils equal, reactive to light and accommodation.
+Bilateral white plaques in her posterior oropharynx, but
+mucous membranes moist.  Chest clear to auscultation
+bilaterally.  Cardiac - regular rate and rhythm, tachycardic,
+S1, S2, II/VI systolic ejection murmur in the left upper
+sternal border.  Abdomen nontender, nondistended, normoactive
+bowel sounds.  Musculoskeletal - tender left upper chest to
+palpation at second rib site.  Extremities - no clubbing,
+cyanosis or edema.  Skin - multiple excoriations and foot
+ulcer without purulent discharge.
+
+DATA UPON TRANSFER TO FLOOR:  White blood count 14,000,
+hematocrit 28, platelets 302, MCV 94, sodium 144, potassium
+4, chloride 111, bicarb 22, BUN 45, creatinine 3.5, glucose
+40, retic count 1.5.  Urinalysis - a few bacteria, 15 white
+blood cells.  AST 14, ALT 19, alkaline phosphatase 201, total
+bilirubin 0.3, calcium 8.7, magnesium 1.8, phosphorus 3.1,
+amylase 201, lipase 384.  CK 165, 207, 210 and 85 on [**4-30**] and [**4-3**], respectively.  Troponin on [**3-31**]-0.5,
+05/01-2.5, 05/02-1.4, and [**4-3**]-less than 0.3 with a peak
+troponin of 2.5 on [**4-1**].  Iron studies showed iron of 17,
+TIBC 300, B12 1110, folate 6.8, ferritin 156, UCG negative.
+Tox screen negative.  Throat culture showed 1+ budding
+yeasts, no group A strep.  Feces negative for Clostridium
+difficile x 1.  Blood cultures on [**2202-3-31**] with
+lactobacillus, Clostridium perfringens, and coag-negative
+staph.  Urine culture without growth.  Chest x-ray
+unremarkable.  On [**2202-4-1**], abdominal ultrasound normal.
+Echocardiogram [**2202-3-31**] with symmetric LVH, hyperdynamic
+heart.  EKG [**3-31**] shows normal sinus rhythm at 96 with T wave
+inversions in II, III, AVL and V3 through V6.  EKG on
+[**2202-4-3**] shows sinus tachycardia at [**Street Address(2) 108292**] changes,
+normal appearing EKG.
+
+HOSPITAL COURSE:  This is a 33-year-old female with type 1
+diabetes mellitus admitted with diabetic ketoacidosis, upper
+GI bleed with coffee ground emesis, increased troponin to
+2.5, Clostridium perfringens bacteremia.  The patient was
+initially admitted to the Fenard ICU for care of her severe
+diabetic ketoacidosis, and when this was under control she
+was transferred to the floor for further care and
+dispositioning.
+
+1) DIABETES TYPE 1:  DKA was treated in the Intensive Care
+Unit and resolved at time of call-out to the floor.  However,
+the patient's blood sugars were labile from a low of 38 to a
+high of 480 while on the floor.  Her Lantus dose had been
+decreased from her outpatient dose of 32 to her inpatient
+current dose of 20 q hs because of repeatedly low blood
+sugars in the morning, as low as 38.  The patient's blood
+sugar was controlled with Lantus 20 q hs and qid sliding
+scale.  The patient will be discharged on this dose of Lantus
+20 q hs with qid Humalog sliding scale, and she was given
+this sliding scale on a paper copy.  She will follow-up with
+the [**Last Name (un) **] Diabetes Center, Dr. [**Last Name (STitle) 3273**], in two days after
+discharge for further diabetic care, as she has not been
+followed by an endocrinologist in the past according to her.
+Because of her frequent admissions for diabetic ketoacidosis,
+it was stressed that it was very important that the patient
+make this appointment at the [**Last Name (un) **].
+
+2) BACTEREMIA:  The patient grew out Clostridium perfringens,
+lactobacillus and coag-negative staph from her initial blood
+cultures.  An ID consult was obtained.  They had thought that
+the lactobacillus and coag-negative staph were likely
+contaminants in the setting of a femoral line being placed in
+the Emergency Room and on an emergent basis.  The Clostridium
+perfringens, because of its potential virulence, was treated
+with clindamycin.  The patient remained afebrile for the
+remainder of the hospitalization and will be discharged on a
+total 10-day course of clindamycin.  A CT of the abdomen was
+performed to further evaluate for possible sources of the
+Clostridium perfringens and this was negative for any source
+for Clostridium.
+
+3) UPPER GI BLEED:  The patient had coffee ground emesis on
+admission in the setting of refractory vomiting from her
+diabetic ketoacidosis.  The patient does have a history of
+[**Doctor First Name **]-[**Doctor Last Name **] tears, and it was likely that this coffee
+ground emesis was secondary to [**Doctor First Name **]-[**Doctor Last Name **] tears versus
+stress gastritis or stress ulcer.  A GI consult was obtained
+that recommended an endoscopy prior to discharge.  The
+patient, however, refused endoscopy this admission and was
+told risks of not having the endoscopy including rebleeding.
+She was initially given 2 units of packed red blood on
+admission for a hematocrit drop to 24 with appropriate
+increase.  She was continued on [**Hospital1 **] Protonix for her upper GI
+bleed.  She will likely need an endoscopy as an outpatient.
+
+4) INCREASED PANCREATIC ENZYMES:  The patient did have
+increased lipase and amylase to the 300s on admission.  This
+was not thought to be an acute pancreatitis; the patient did
+not have any abdominal pain.  Rather, it was thought to be
+secondary to the acute stress, dehydration, electrolytes
+disturbances of DKA.  These were trending down at the time of
+discharge.
+
+5) CARDIAC - CAD:  The patient did have inferolateral T wave
+inversions on admission with a troponin up to 2.5.  A
+cardiology consult was obtained.  They believed that these
+EKG changes and troponin leak were not acute coronary
+syndrome, nor signs of an MI, but rather changes in the
+setting of the severe electrolyte disturbances and
+hypovolemia associated with her diabetic ketoacidosis.  Given
+her risk factors of hypertension and diabetes, we ordered a
+stress test for the patient.  The patient, however, refused
+stress test at this time.  She was explained the risks,
+including heart attack, of not having the stress test, and
+knowing her CAD status, and the patient was aware.  She will
+be continued on her Lopressor 12.5 [**Hospital1 **].  The patient has an
+aspirin allergy and was not continued or started on aspirin.
+
+PUMP:  The patient had no signs of CHF on admission and no
+wall motion abnormalities on her echocardiogram with an EF
+greater than 75% on initial echo.  She had no arrhythmias
+during this hospitalization.
+
+6) BLOOD PRESSURE:  The patient's blood pressure was volatile
+during this hospitalization in the [**Hospital Unit Name 153**], but was down to 80
+initially with her outpatient Lopressor dose.  The Lopressor
+was decreased to 12.5 [**Hospital1 **], and the patient's blood pressure
+remained 100-130 systolic.
+
+7) PHARYNGITIS:  The patient did initially complain of throat
+pain on admission and did have two white erythematous plaques
+bilaterally on her posterior pharynx that were symmetric.  A
+culture of these was obtained and was negative for group A
+strep.  It was positive for yeast, and she was started on
+nystatin swish and swallow qid for question of thrush.  Her
+sore throat was relieved.
+
+8) DIARRHEA:  The patient has chronic diarrhea that she says
+she has had since the early [**2188**].  She takes Imodium at home
+for this.  Her Imodium was held initially because she was on
+clindamycin, and there was a low suspicion for Clostridium
+difficile.  The patient had negative Clostridium difficile in
+her stool x 2, and was restarted on her outpatient Imodium to
+control her diarrhea.
+
+9) FOOT ULCER:  These were chronic, likely erythema
+gangrenosum.  She had also been followed by podiatry for
+these and will follow-up with her podiatrist, Dr. [**Last Name (STitle) **],
+next week.
+
+10) HEME:  The patient has a multifactorial anemia.  She has
+blood loss anemia status post her GI bleed and anemia of
+chronic disease secondary to her chronic renal insufficiency
+and diabetes.  Her initial iron studies were repeated after
+her acute illness showed an iron of 40, TIBC 239, ferritin
+148, transferrin 184, all consistent with anemia of chronic
+disease.  The patient did receive 2 units of blood
+transfusion initially.  Her hematocrit remained stable in
+27-26 range status post these blood transfusions.
+
+11) FLUIDS, ELECTROLYTES AND NUTRITION:  In the setting of
+her severe vomiting on admission and diabetic ketoacidosis,
+the patient was severely dehydrated on admission with large
+electrolyte losses of hyponatremia, hypophosphatemia,
+hypocalcemia, and was hypernatremic from her free water
+deficit.  All of these were corrected in the ICU.  She was
+started on a diabetic diet, and her electrolytes remained
+stable for the remainder of the hospitalization.
+
+DISPOSITION AND FOLLOW-UP:  1) The patient will start seeing
+an endocrinologist, Dr. [**Last Name (STitle) 3273**], at the [**Last Name (un) **], in two days
+after discharge, [**2202-4-8**] @ 3:30 pm.  2) She will follow-up
+with [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] who will be her new primary care doctor [**First Name (Titles) **]
+[**Hospital3 **], [**Hospital Ward Name 23**] Bldg, and this will be on
+Wednesday, [**4-14**] @ 3:00 pm for a posthospitalization visit,
+and a full initial visit will be scheduled at that time.  3)
+She will follow-up with her podiatrist [**2202-4-13**] @ 3:10 pm,
+Dr. [**Last Name (STitle) **].  4) The patient also has an appointment with her
+ophthalmologist in [**Month (only) 216**].
+
+In terms of her diabetic management, until her appointment
+with [**Last Name (un) **] in two days, the patient was instructed to take
+Lantus 20 units q hs tonight and given an insulin sliding
+scale, and was told to call [**Company 191**] at ([**Telephone/Fax (1) 108293**] for any
+blood sugars less than 60 or greater than 400, and then [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) **] would call her back with further instructions.  This
+will be done until her appointment at [**Last Name (un) **] in two days.
+She was instructed to drink fruit juice if her blood sugar
+was less than 60.
+
+DISCHARGE DIAGNOSES:  1) Diabetic ketoacidosis, type 1
+diabetes.  2) Upper gastrointestinal bleed.  3) Bacteremia.
+4) Blood loss anemia.  5) Asthma.  6) Diabetic foot ulcer.
+7) Chronic diarrhea.  8) Acute on chronic renal insufficiency
+from prerenal failure.
+
+DISCHARGE CONDITION:  Good.
+
+The patient will be discharged home with VNA for help with
+her medications and diabetic care as well.
+
+
+
+
+                            [**Name6 (MD) **] [**Name8 (MD) **], MD  [**MD Number(1) 34724**]
+
+Dictated By:[**Last Name (NamePattern1) 46676**]
+MEDQUIST36
+
+D:  [**2202-4-6**]  10:27
+T:  [**2202-4-9**]  10:44
+JOB#:  [**Job Number **]
+"
+126189,4113,151066,2141-04-18,,,ECG,Report,,,"Sinus rhythm. Q waves in leads VI-V2 with poor R wave progression suggesting
+anteroseptal myocardial infarction. Flattened T waves in the limb leads.
+Inverted T waves in leads V5-V6. Compared to the previous tracing of [**2141-4-17**] no
+significant change.
+TRACING #1
+
+"
+279991,79967,,2181-03-13,,,ECG,Report,,,"Sinus rhythm. Normal tracing. Compared to the previous tracing of [**2180-11-1**] the
+rate has slowed. Otherwise, there is no diagnostic interim change.
+
+"
+144489,40440,,2146-06-30,,,ECG,Report,,,"ECG interpreted by ordering physician.
+[**Name10 (NameIs) 2**] see corresponding office note for interpretation.
+
+"
+146039,17532,129682,2168-08-01,,,ECG,Report,,,"Sinus rhythm
+Normal ECG
+Since previous tracing of [**2161-9-30**], no significant change
+
+"
+135798,90672,160613,2146-08-09,,,ECG,Report,,,"Sinus tachycardia. RSR' pattern in lead V1 represents probable normal variant.
+Compared to tracing #3 normal sinus rhythm has replaced atrial fibrillation.
+TRACING #4
+
+"
+292867,63364,,2123-03-11,,,ECG,Report,,,"Normal sinus rhythm. Consider left atrial abnormality. Compared to the previous
+tracing of [**2122-10-4**] no diagnostic interval change.
+
+"
+154860,15096,,2173-02-28,,,ECG,Report,,,"Sinus tachycardia. Compared to the previous tracing of [**2173-2-28**] no diagnostic
+interim change.
+TRACING #2
+
+"
+194741,43093,193466,2200-07-30,,,ECG,Report,,,"Sinus bradycardia with occasional premature junctional beats with
+A-V conduction delay.  Delayed R wave transition.  Non-specific ST-T wave
+abnormalities.  Compared to the previous tracing of [**2198-5-21**] the A-V conduction
+is new.
+TRACING #1
+
+"
+289640,5727,191504,2153-12-27,,,ECG,Report,,,"Sinus tachycardia. Right ventricular conduction delay. Non-specific ST-T wave
+changes. Compared to the previous tracing of [**2153-11-27**] no significant diagnostic
+change.
+
+"
+140706,25989,,2145-06-06,,,ECG,Report,,,"Normal sinus rhythm.  Within normal limits.  Compared to the previous tracing
+of [**2145-5-11**] no diagnostic interval change.
+
+"
+86103,30132,154077,2101-01-22,,,Echo,Report,,,"PATIENT/TEST INFORMATION:
+Indication: Tamponade.
+Weight (lb): 225
+BP (mm Hg): 117/61
+HR (bpm): 200
+Status: Inpatient
+Date/Time: [**2101-1-22**] at 11:09
+Test: Portable TTE (Focused views)
+Doppler: Limited Doppler and no color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+
+INTERPRETATION:
+
+Findings:
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and systolic function
+(LVEF>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size.
+
+PERICARDIUM: Small pericardial effusion. No echocardiographic signs of
+tamponade.
+
+GENERAL COMMENTS: Emergency study. Echocardiographic results were reviewed by
+telephone with the houseofficer caring for the patient.
+
+Conclusions:
+Left ventricular wall thickness, cavity size, and systolic function are normal
+(LVEF>55%). Right ventricular chamber size is normal. There is a very small
+(<1cm) inferolateral pericardial effusion without echocardiographic signs of
+tamponade.
+
+
+"
+20931,15098,142407,2154-05-02,,,Discharge summary,Report,,,"Admission Date: [**2154-4-28**]        Discharge Date: [**2154-5-2**]
+
+Date of Birth:  [**2081-1-22**]        Sex:  M
+
+Service:  NME
+
+
+CHIEF COMPLAINT:  Right middle cerebral artery infarction,
+status post intravenous tissue Plasminogen Activator
+administration.
+
+HISTORY OF PRESENT ILLNESS:  This is a 73 year old right-
+handed man with a history of hypertension and paroxysmal
+atrial fibrillation who reports that he was lifting a heavy 2
+by 10 at around 3:50 PM when he felt faint and his friends
+called Emergency Medical Services.  He said he was told that
+he had a stroke.  The available chart indicates that he was
+found slumped over in the bathroom.  Emergency Medical
+Services noted that he had slurred speech and a left
+hemiparesis.  When he arrived at the [**Hospital6 33**], he
+was examined by Neurology where he had an NIH stroke scale of
+14 with a partial left hemianopsia, flaccid left arm but 5-
+out of 5 strength of the left leg along with left neglect.
+He was given intravenous tissue Plasminogen Activator started
+at 6:15 PM and transferred to [**Hospital6 2018**] for further management.
+
+REVIEW OF SYSTEMS:  On review of systems the patient did not
+have any fevers, chills, nausea, vomiting, headaches, visual
+changes, chest pain, shortness of breath, palpitations,
+abdominal pain, gastrointestinal or genitourinary complaints.
+
+PAST MEDICAL HISTORY:  Paroxysmal atrial fibrillation.
+
+Hypertension.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS AT HOME:
+1. Beta blocker.
+2. Aspirin 81 mg p.o. q.d.
+3. Glucosamine.
+
+
+SOCIAL HISTORY:  He is married and has three grown children.
+He is a former engineer.  He quit smoking in [**2117**] but before
+that smoked one pack per day for 25 years.  He quit drinking
+many years ago.  He denies any drug use.
+
+FAMILY HISTORY:  There is no evidence of hypertension,
+diabetes or stroke in the family.
+
+PHYSICAL EXAMINATION:  Upon admission he is afebrile with
+blood pressure 193/90, heart rate in the 70s, generally and
+in no acute distress.  Neck is supple with no carotid bruits.
+Cardiovascular examination revealed a regular irregular
+rhythm.  No murmurs are heard.  Lungs are clear to
+auscultation bilaterally.  Abdomen is soft, nontender,
+nondistended with normoactive bowel sounds.  There is no
+cyanosis, clubbing or edema of the lower extremities.
+
+On neurologic examination he is drowsy but arousable and able
+to do months of the year backwards.  His language and
+comprehension is intact as well as naming and repetition.  He
+has a left neglect and does not identify his own left hand or
+arm.  On cranial nerve examination visual fields show a left
+hemianopsia.  Funduscopic examination was normal.  Pupils
+react normally to light.  Extraocular eye movements are full
+but with a right gaze preference.  His facial movement shows
+a left facial weakness.  Palatal elevation is symmetric.
+Tongue protrudes midline.  On sensory examination, he had
+decrease to light touch in the left face.  On motor
+examination he has normal bulk.  His tone is slightly increased
+on the left.  His power is full on the right.  Though his left
+side is difficult to assess given the neglect, he does provide
+some resistance on the left triceps, however, his left
+deltoid, wrist extensor and finger extensors showed no
+strength.  With the left leg, he is able to lift it and bend
+it against moderate resistance.  On reflex he is diminished
+on the left side.  Plantar reflexes are upgoing on the left
+and downgoing on the right.  On sensory examination he has
+absent touch, pinprick, temperature on the left side.  He
+neglects the left side.  He does not recognize his own left
+hand.  Coordination examination, he has intact finger-to-nose
+test on the right.
+
+LABORATORY DATA:  Laboratory data upon admission revealed
+white count 3.76, hematocrit 37, platelets 180, INR 1.1, PTT
+27, sodium 145, potassium 4.5, chloride 109, bicarbonate 25,
+BUN 24, creatinine 1.1, ALT 36, AST 44.
+
+HOSPITAL COURSE:  Neurology - Right basal ganglia/ interna
+capsule cerebrovascular infarction with right frontal temporal
+bleed, status post tissue Plasminogen Activator administration.
+The patient was admitted initially to the Intensive Care Unit for
+blood pressure monitoring.  His blood pressure was kept
+between 140 and 160.  He had a transthoracic echocardiogram
+which did not show any evidence of patent foramen ovale, low
+ejection fraction or clot.  A transesophageal
+echocardiography was not pursued given that he would have to
+be anticoagulated in the future anyway given the stroke and
+history of paroxysmal atrial fibrillation.  He was ruled out for
+myocardial infarction and telemetry showed that he did indeed
+go in and out of atrial fibrillation.  A carotid ultrasound
+was obtained showing a less than 40 percent stenosis
+bilaterally.  He had a hemoglobin A1c  which was normal at
+5.8 and lipid panel which was normal showing cholesterol 180,
+triglycerides 53, HDL 73, and LDL of 96.  He was empirically
+started on a small dose of a statin for stroke prevention.
+Later on in the hospital course he did received low dose
+Lopressor for rate control for his atrial fibrillation.  It
+is recommended that the patient be started on baby aspirin on
+[**5-8**] and a repeat head computerized tomography scan be done
+several days later.  If there is no progression of the
+hemorrhage on the head computerized tomography scan, then he
+can be started on Coumadin in three weeks, from the time of
+discharge from this hospitalization.  Of note, he had two
+serial no[**Serial Number 55670**].8 by 2.9 cm.
+
+Infectious disease - Leukocytosis, the patient did have
+increased white count to 14.2.  He had chest x-ray which
+showed no evidence of pneumonia.  He had a urinalysis and
+urine cultures pending upon admission.  Blood cultures were
+obtained but nothing was grown to date.  He remained afebrile
+throughout the hospital course.
+
+Fall - The patient did fall one day prior to discharge and a
+repeat head computerized tomography scan was obtained showing
+no evidence of fracture or increased bleed.  He was then put
+on safety precaution with a posey restraint.
+
+Fluids, electrolytes and nutrition - The patient was unable
+to swallow very well, so a video swallow study was obtained.
+It was recommended he stay on a pureed nectar-thickened diet
+with crushed pills and ability to only drink from a cup until
+he improved neurologically.
+
+DISCHARGE DIAGNOSIS:  Right caudate internal capsule
+cerebrovascular infarction.
+
+Right frontotemporal hemorrhage, status post tissue
+Plasminogen Activator administration.
+
+Paroxysmal atrial fibrillation.
+
+Leukocytosis.
+
+DISCHARGE MEDICATIONS:
+1. Lipitor 10 mg p.o. q.d.
+2. Protonix 40 mg p.o. q.d.
+3. Lopressor 12.5 mg p.o. b.i.d.
+4. Aspirin 81 mg to be started on [**2154-5-8**] and then to be
+   replaced by Coumadin at the end of [**Month (only) **] if head
+   computerized tomography scan is unchanged.
+
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  To rehabilitation.
+
+FOLLOW UP:  The patient is to follow up with his primary care
+doctor one week after discharge from the hospital.
+
+The patient is to follow up with Dr. [**First Name (STitle) **] [**Name (STitle) **] on [**2154-5-23**] in his [**Hospital 4038**] Clinic.
+
+
+
+                        [**Name6 (MD) **] [**Name8 (MD) **], [**MD Number(1) 53824**]
+
+Dictated By:[**Last Name (NamePattern1) 11265**]
+MEDQUIST36
+D:  [**2154-5-1**] 19:50:02
+T:  [**2154-5-1**] 20:28:15
+Job#:  [**Job Number 55671**]
+
+
+
+"
+86442,95907,179242,2130-09-15,,,Echo,Report,,,"PATIENT/TEST INFORMATION:
+Indication: Intra-op TEE for CABG
+BP (mm Hg): 134/74
+HR (bpm): 46
+Status: Inpatient
+Date/Time: [**2130-9-15**] at 11:59
+Test: TEE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: Moderate LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Lipomatous hypertrophy of the interatrial
+septum. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Wall thickness and cavity dimensions were obtained from 2D
+images. Normal LV cavity size. Normal regional LV systolic function. Mildly
+depressed LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal ascending aorta
+diameter. Normal aortic arch diameter. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Mildly thickened aortic valve
+leaflets. No AS. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild mitral annular
+calcification. Trivial MR.
+
+TRICUSPID VALVE: Physiologic TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed above. I certify
+I was present in compliance with HCFA regulations. The patient was under
+general anesthesia throughout the procedure. No TEE related complications. The
+patient appears to be in sinus rhythm. Results were personally reviewed with
+the MD caring for the patient. See Conclusions for post-bypass data The
+post-bypass study was performed while the patient was receiving vasoactive
+infusions (see Conclusions for listing of medications).
+
+Conclusions:
+PRE-BYPASS:
+1. The left atrium is moderately dilated. No atrial septal defect is seen by
+2D or color Doppler.
+2. The left ventricular cavity size is normal. Regional left ventricular wall
+motion is normal. Overall left ventricular systolic function is mildly
+depressed (LVEF= 40-45 %).
+3. Right ventricular chamber size and free wall motion are normal.
+4. There are simple atheroma in the descending thoracic aorta.
+5. There are three aortic valve leaflets. The aortic valve leaflets are mildly
+thickened. There is no aortic valve stenosis. No aortic regurgitation is seen.
+6. The mitral valve leaflets are mildly thickened. Trivial mitral
+regurgitation is seen.
+7. There is no pericardial effusion.
+Dr. [**Last Name (STitle) 32**] was notified in person of the results.
+
+POST-BYPASS: For the post-bypass study, the patient was receiving vasoactive
+infusions including phenylephrine and is being AV paced.
+1. Biventricular function is unchanged.
+2. Aorta is intact post decannulation
+3. MR was initially worse during AV pacing improved to trivial with A pacing.
+4. Other findings are unchanged
+
+
+"
+9811,6676,178893,2146-09-13,,,Discharge summary,Report,,,"Admission Date:  [**2146-9-5**]              Discharge Date:   [**2146-9-13**]
+
+Date of Birth:  [**2077-6-16**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3266**]
+Chief Complaint:
+CC - transfer from OSH for liver failure [**2-23**] ?amiodarone
+toxicity
+
+Major Surgical or Invasive Procedure:
+Liver biopsy [**2146-9-6**]
+
+Paracentesis [**2146-9-7**]
+
+History of Present Illness:
+HPI - This is a 69 y/o male with a PMH significant for CAD,
+COPD, PAF, DM who presented to his PCP in [**Name9 (PRE) 205**] with symptoms of
+decreased appetite, fatigue, and increased abdominal girth over
+the last six months. There, he was found to have increased
+ascites, worsening liver function, and increased LE edema. He
+was sent to [**Location (un) **] for further evaluation.
+On initial admission to [**Location (un) **], had elevated LFTs with Alk P in
+500's, and AST/ALT in 200-300's range. Amiodarone was d/c'd at
+that point, and Medrol 8 mg [**Hospital1 **] was started. GI followed pt
+while in-house and CT of abd done showed hyperdense liver that
+was c/w possible amiodarone toxicity. MRI was c/w ascites and
+gallstone w/o bile duct dilitation. He had an extensive workup
+for elevated LFTs, and workup for autoimminue causes, viral
+causes, and hemachromatosis were all negative. During his
+admission, the LFTs began to trend down to 140-150 range, 200
+range for alk phos. Pt was d/c'd to rehab on high-dose steroids.
+
+However, he represented to [**Location (un) **] with abd fullness and SOB [**2-23**]
+ascites and anasarca. LFTs during the second admission were
+unchanged with alk phos in the 400 range, with acute renal
+function worsening (Cr 2.4 -> 3.3). This second admission was
+also significant for an increase in WBC from 20 to 38, pt
+remaining afebrile.
+Upon review of incomplete old records that were obtained, it
+appears that the patient was started on Amiodarone 200mg [**Hospital1 **] in
+[**12-24**] following a valve replacement surgery c/b atrial
+fibrillation. He remained on this dose of amiodarone until it
+was d/c'd at [**Location (un) **].
+
+ROS - positive for abdominal fullness, decreased appetite,
+recent diarrhea, and fatigue
+    - negative for any H/A, vision changes, cough, SOB, CP, abd
+pain, n/v, melena/hematochezia/BRBPR, tremors
+
+Past Medical History:
+PMH -
+
+1. CAD
+2. CHF
+3. PAF
+4. COPD on chronic steroids
+5. s/p bioprstetic valve placement at [**Hospital1 336**], complicated by afib,
+for which he was started on Amiodarone [**12-24**]
+6. s/p right CEA
+7. DM on insulin
+8. diverticulitis s/p partial colectomy
+9. CRI
+
+Social History:
+SH - Lives at home with his wife. Used to smoke (30 pack-year
+history), but has not smoked in 30 years. Occasional EtOH (1
+drink/2 weeks) previously, but no EtOH recently. No IVDA. One
+tatoo on right arm, done about 45 years ago.
+
+Family History:
+FH - Father died of an MI, mother passed at 80. No known family
+h/o liver diseases.
+
+Physical Exam:
+PE on admission:
+VS - T 96.3, BP 123/68, HR 78, RR 18, sats 99%/RA
+General - Fatigued-appearing, pleasant gentleman, AO x 3, NAD
+HEENT - NC/AT, PERRL, EOMI. No scleral icterus. MM dry, OP wnl
+Neck - supple, no JVD, no thyromegaly
+Chest - diffuse, high-pitched expiratory wheezes throughout
+CV - RRR s1 s2 normal, soft [**2-27**] SM at sternal border
+Abd - distended, firm but not tense, nontender to palpation;
+soft BS, alternating dullness and tympany to percussion, no
+discernable fluid wave; [**Doctor Last Name 515**] sign negative
+Ext - 2+ pitting edema b/l up to mid-thigh; pulses 2+ b/l
+Neuro - Pt AO x 3, no asterixis
+
+Pertinent Results:
+CBC
+
+[**2146-9-5**] 07:32PM BLOOD WBC-37.2*# RBC-4.95 Hgb-13.9* Hct-42.1
+MCV-85 MCH-28.1 MCHC-33.0 RDW-17.5* Plt Ct-161
+[**2146-9-6**] 07:10AM BLOOD WBC-38.6* RBC-4.86 Hgb-13.3* Hct-41.5
+MCV-85 MCH-27.4 MCHC-32.1 RDW-18.0* Plt Ct-166
+[**2146-9-7**] 07:00AM BLOOD WBC-38.9* RBC-4.72 Hgb-12.8* Hct-40.9
+MCV-87 MCH-27.2 MCHC-31.4 RDW-17.7* Plt Ct-130*
+[**2146-9-8**] 06:30AM BLOOD WBC-35.4* RBC-4.07* Hgb-11.0* Hct-35.0*
+MCV-86 MCH-27.1 MCHC-31.5 RDW-17.9* Plt Ct-83*
+[**2146-9-8**] 12:25PM BLOOD WBC-35.3* RBC-4.01* Hgb-11.0* Hct-34.0*
+MCV-85 MCH-27.4 MCHC-32.3 RDW-17.8* Plt Ct-79*
+
+DIFF
+
+[**2146-9-5**] 07:32PM BLOOD Neuts-97.3* Bands-0 Lymphs-1.7*
+Monos-0.9* Eos-0 Baso-0
+[**2146-9-8**] 06:30AM BLOOD Neuts-96.1* Bands-0 Lymphs-2.2*
+Monos-1.6* Eos-0.1 Baso-0
+
+COAGS
+
+[**2146-9-5**] 07:32PM BLOOD PT-17.2* PTT-34.1 INR(PT)-2.0
+[**2146-9-5**] 07:32PM BLOOD Plt Smr-NORMAL Plt Ct-161
+[**2146-9-6**] 07:10AM BLOOD Plt Ct-166
+[**2146-9-6**] 05:19PM BLOOD PT-15.9* PTT-33.7 INR(PT)-1.7
+[**2146-9-7**] 07:00AM BLOOD PT-16.1* PTT-35.0 INR(PT)-1.7
+[**2146-9-7**] 07:00AM BLOOD Plt Ct-130*
+[**2146-9-8**] 06:30AM BLOOD PT-17.2* PTT-38.3* INR(PT)-2.0
+[**2146-9-8**] 06:30AM BLOOD Plt Smr-LOW Plt Ct-83*
+[**2146-9-8**] 12:25PM BLOOD Plt Ct-79*
+
+CHEMISTRY
+
+[**2146-9-5**] 07:32PM BLOOD Glucose-249* UreaN-118* Creat-3.1*#
+Na-136 K-4.8 Cl-102 HCO3-19* AnGap-20
+[**2146-9-6**] 07:10AM BLOOD Glucose-158* UreaN-121* Creat-3.1* Na-136
+K-5.3* Cl-104 HCO3-20* AnGap-17
+[**2146-9-6**] 04:50PM BLOOD K-4.9
+[**2146-9-7**] 07:00AM BLOOD Glucose-235* UreaN-132* Creat-3.3* Na-136
+K-4.8 Cl-103 HCO3-19* AnGap-19
+[**2146-9-8**] 06:30AM BLOOD Glucose-142* UreaN-132* Creat-3.4* Na-137
+K-4.6 Cl-104 HCO3-18* AnGap-20
+[**2146-9-6**] 07:10AM BLOOD ALT-123* AST-84* LD(LDH)-379*
+AlkPhos-374* TotBili-1.7*
+[**2146-9-7**] 07:00AM BLOOD ALT-108* AST-75* AlkPhos-345* TotBili-1.5
+[**2146-9-8**] 06:30AM BLOOD ALT-83* AST-63* LD(LDH)-281* AlkPhos-291*
+TotBili-2.1*
+[**2146-9-5**] 07:32PM BLOOD Albumin-2.3* Calcium-8.6 Phos-5.0* Mg-2.1
+[**2146-9-6**] 07:10AM BLOOD Albumin-2.3* Calcium-8.7 Phos-5.3* Mg-2.2
+Iron-30*
+[**2146-9-7**] 07:00AM BLOOD TotProt-4.9* Albumin-2.1* Globuln-2.8
+Calcium-8.5 Phos-5.5* Mg-2.1
+[**2146-9-8**] 06:30AM BLOOD Albumin-2.7* Calcium-8.3* Phos-5.8*
+Mg-2.1
+[**2146-9-6**] 07:10AM BLOOD calTIBC-100* Ferritn-762* TRF-77*
+[**2146-9-6**] 07:10AM BLOOD Ammonia-81*
+[**2146-9-7**] 07:00AM BLOOD Osmolal-336*
+
+MISC
+
+[**2146-9-7**] 07:00AM BLOOD HCV Ab-NEGATIVE
+[**2146-9-7**] 07:00AM BLOOD PEP-NO SPECIFI
+[**2146-9-7**] 07:00AM BLOOD [**Doctor First Name **]-NEGATIVE
+[**2146-9-7**] 07:00AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE
+HBcAb-NEGATIVE HAV Ab-NEGATIVE
+[**2146-9-5**] 07:32PM BLOOD TSH-2.8
+
+URINE
+
+[**2146-9-6**] 01:12AM URINE Osmolal-500
+[**2146-9-6**] 11:40PM URINE U-PEP-PND IFE-PND
+[**2146-9-8**] 04:37PM URINE Osmolal-429
+[**2146-9-6**] 01:12AM URINE Hours-RANDOM UreaN-871 Creat-90 Na-137
+[**2146-9-8**] 04:37PM URINE Hours-RANDOM UreaN-761 Creat-43 Na-LESS
+THAN
+[**2146-9-6**] 01:12AM URINE Eos-NEGATIVE
+[**2146-9-6**] 01:12AM URINE RBC->50 WBC-[**12-11**]* Bacteri-FEW Yeast-NONE
+Epi-[**3-26**] TransE-[**3-26**]
+[**2146-9-6**] 06:44PM URINE RBC-0-2 WBC->50 Bacteri-FEW Yeast-NONE
+Epi-0
+[**2146-9-8**] 04:37PM URINE RBC-0 WBC->50 Bacteri-FEW Yeast-NONE
+Epi-0
+[**2146-9-6**] 06:44PM URINE Blood-LG Nitrite-NEG Protein-TR
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-MOD
+[**2146-9-8**] 04:37PM URINE Blood-MOD Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-MOD
+[**2146-9-6**] 01:12AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.016
+[**2146-9-6**] 06:44PM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.015
+[**2146-9-8**] 04:37PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.014
+
+PERITONEAL FLUID
+
+[**2146-9-7**] 01:58PM ASCITES TotPro-0.8 Albumin-LESS THAN
+[**2146-9-7**] 01:58PM ASCITES WBC-66* RBC-26* Polys-33* Lymphs-24*
+Monos-0 Macroph-43*
+
+Brief Hospital Course:
+This is a 69 y/o man with PMH significant for CAD, DM, COPD, a
+fib, who was on chronic amiodarone since [**12-24**] for rhythm
+control of a fib, who was transferred to [**Hospital1 18**] from OSH after an
+extensive workup for liver disease of unknown origin. Workup
+there was notable for hyperdense liver, ascites; and negative
+for any autoimmune, viral/infectious, hemachromatosis causes. Pt
+also here with ARF on CRI.
+
+1. Liver failure/renal failure - Most likely multifactorial,
+also likely that it was [**2-23**] amiodarone toxicity, based on his
+prior workup. Workup at OSH for autoimmune and infectious causes
+for liver failure were all negative. His hepatitis serologies
+were also negative during this hospital stay. Therapeutic tap on
+[**2146-8-24**] negative for SBP at the OSH with normal cytology. His
+paracentesis at this hospital was also negative for SBP. He
+underwent a transjugular liver biopsy which showed significant
+amiodarone toxicity with severe fibrosis and incomplete nodule
+formation. His venous pressure measurements revealed a Hepatic
+venous pressure gradient of 28mmHg consistent with portal
+hypertension. It is unclear as to whether the liver biopsy
+findings were entirely related to amiodarone toxicity or whether
+the amiodarone toxicty was superimposed on a background of
+cirrhosis. Risk factors for cirrhosis include diabetes and NASH.
+He was initially continued on the high-dose steroids that he was
+transferred here with, but was started to be weaned off as they
+had no clear benefit. A RUQ u/s with Dopplers showed no liver
+masses, + ascites, findings c/w cirrhosis and portal
+hypertension, hepatofugal flow in splenic and portal veins, nl
+flow in hepatic veins. Given worsening creatinine, he was
+started on octreotide/midodrine for suspected hepatorenal
+syndrome, along with albumin. In addition, he developed an
+Enterococcal UTI for which he was begun on ampicillin [**9-6**]. An
+NG tube was placed for tube feeds as the patient had poor po
+intake secondary to decreased appetite. Given his liver failure
+and probable hepato-renal syndrome, he was evaluated for
+potential liver transplant by Dr. [**Last Name (STitle) 497**]. Based on the patient's
+cardiac risk factors/cardiac history and his poor functional
+status, it was decided that the patient would not be a good
+liver transplant candidate.
+On [**2146-9-9**] he became hypotensive and was transferred to the MICU
+for further management. Following transfer to the MICU, the
+patient received 2u PRBC, 2u FFP, and Vit K with stabilization
+of his blood pressure. His renal function/coagulopathy continued
+to worsen, attributed to hepato-renal syndrome. Following a
+family meeting on [**9-10**], the decision was made not to pursue
+dialysis, as the patient is not a liver transplant candidate.
+Per this family meeting, other medical treatment (octreotide,
+midodrine, antibiotics, albumin) was decided to be continued,
+although the patient was made DNR/DNI from a full code on
+admission.
+His blood pressures stabilized while in MICU and he was
+transferred back to the floor as CMO per patient's and family's
+wishes. He eventually expired on [**2146-9-13**].
+
+Medications on Admission:
+MEDS (on transfer)
+protonix 40mg PO QAM
+flagyl 500mg PO TID (started [**9-5**])
+Medrol 8mg PO BID
+Insulin glargine 15 U qHS
+Advair 2puffs INH [**Hospital1 **]
+Combivent 2puffs INH [**Hospital1 **]
+fosamax 90mg PO qweek
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Expired
+
+Discharge Condition:
+Expired
+
+
+Completed by:[**2146-9-17**]"
+189488,15916,163228,2134-04-18,,,ECG,Report,,,"Sinus rhythm. Low voltage in the limb leads. Non-specific ST-T wave changes.
+Compared to the previous tracing no significant change.
+
+"
+303151,76174,143515,2118-05-19,,,ECG,Report,,,"ECG interpreted by ordering physician.
+[**Name10 (NameIs) 2**] see corresponding office note for interpretation.
+
+"
+254539,55260,147088,2176-02-19,,,ECG,Report,,,"Sinus rhythm. Short P-R interval. Non-diagnostic Q waves in I, II and aVL.
+Consider lateral myocardial infarction. Borderline low limb lead voltage.
+ST-T wave abnormalities. Since the previous tracing of [**2176-2-16**] inferior Q waves
+and ST-T wave abnormalities are new. Prior tracings were similar to the tracing
+of [**2176-2-16**]. Since there is only three day's difference there may be a problem
+with lead position.
+
+"
+1737,2464,155982,2121-02-15,,,Discharge summary,Report,,,"Admission Date:  [**2121-1-24**]              Discharge Date:   [**2121-2-15**]
+
+Date of Birth:  [**2051-3-9**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Protonix / Aggrenox
+
+Attending:[**First Name3 (LF) 689**]
+Chief Complaint:
+Fatigue
+
+Major Surgical or Invasive Procedure:
+Intubation
+
+
+History of Present Illness:
+Pt is a 69f with metastatic renal cell ca, cva, and a recent
+admission for GIB who presents with one week of fatigue and
+pallor and was found to anemic at 26.6 (last hct from discharge
+[**1-16**] was 30). She was recently admitted for [**Date range (1) 9892**] when her
+pcp found her to have a hct of 24. She had a negative ng lavage,
+guaiac negative, egd negative, colonoscopy negative, capsule
+endoscopy negative; her fe studies showed a ferritin > [**2115**], and
+the thought was that this was related to anemia of chronic
+disease. She felt better after her admission, with a ""rosy""
+complexion; however, over the next few days she became
+increasingly pale and fatigued. On the day of presentation, she
+was confused, going into the wrong room at home, unable to
+distinguish between dreams/reality; in the ed, she was a&o and
+said she didn't feel confused, just that her thinking was
+""slow."" She denies recent f/c, ha, focal weakness,
+lightheadeness, loc, vis changes, chest pain, sob, cough, abd
+pain, n/v/d/c, back pain, dysuria/hematuria.
+In the ED, she got 2units prbc and was seen by neurology.
+
+
+Past Medical History:
+Metastatic renal cell cancer (mets to parotids, lung, pancreas)-
+dx'ed in [**2111**], s/p R nephrectomy- [**2111**]
+h/o +PPD
+HTN
+TIA
+osteoporosis
+VRE--colonizer (rectal swab)
+
+Social History:
+works as receptionist at [**Hospital **] Medical Society
+no tobacco, quit 40 years ago
+no alcohol
+
+
+Family History:
+lung cancer- father
+
+Physical Exam:
+Vitals: T 98.6
+        BP 124/50
+        HR 95
+        R 24
+        Sat 99% RA
+*
+PE: G: Elderly female, cachectic, NAD, nondyspneic
+    [**Hospital 4459**]: Clear OP, MMM, no thrush
+    Neck: Supple, No LAD, No JVD sitting upright in chair
+    Lungs: Distant BS BL. No W/R/C
+    Cardiac: RR, NL rate. NL S1S2. No murmurs
+    Abd: Soft, NT, ND. NL BS.
+    Ext: 0-1+ edema. 2+ DP pulses BL.
+    Neuro: Flattened affect.
+
+Pertinent Results:
+Admission Labs:
+
+[**2121-1-23**] 07:40PM BLOOD WBC-11.2* RBC-3.13* Hgb-8.3* Hct-26.6*
+MCV-85 MCH-26.4* MCHC-31.0 RDW-17.3* Plt Ct-573*
+[**2121-1-23**] 07:40PM BLOOD Neuts-77* Bands-0 Lymphs-11* Monos-12*
+Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2121-1-23**] 07:40PM BLOOD Plt Ct-573*
+[**2121-1-23**] 07:40PM BLOOD PT-13.7* PTT-24.5 INR(PT)-1.3
+[**2121-1-23**] 07:40PM BLOOD Glucose-157* UreaN-16 Creat-0.9 Na-132*
+K-5.0 Cl-96 HCO3-26 AnGap-15
+[**2121-1-23**] 07:40PM BLOOD ALT-44* AST-50* AlkPhos-636* Amylase-76
+TotBili-0.9
+[**2121-1-23**] 07:40PM BLOOD Lipase-77*
+[**2121-1-23**] 07:40PM BLOOD Albumin-2.4*
+[**2121-1-24**] 08:30AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+Discharge Labs:
+
+[**2121-2-3**] 06:05AM BLOOD WBC-12.2* RBC-3.70* Hgb-9.9* Hct-30.9*
+MCV-84 MCH-26.8* MCHC-32.0 RDW-16.9* Plt Ct-280
+[**2121-1-30**] 03:42PM BLOOD Neuts-92.2* Bands-0 Lymphs-6.6*
+Monos-0.9* Eos-0.2 Baso-0.1
+[**2121-1-28**] 05:15AM BLOOD Hypochr-3+ Anisocy-1+ Poiklo-1+
+Macrocy-NORMAL Microcy-1+ Polychr-NORMAL Ovalocy-1+ Target-1+
+Schisto-1+
+[**2121-2-3**] 06:05AM BLOOD Glucose-171* UreaN-15 Creat-0.5 Na-138
+K-3.3 Cl-103 HCO3-24 AnGap-14
+[**2121-1-31**] 02:45AM BLOOD CK(CPK)-11*
+
+CXR ([**2-1**]): CHEST, SINGLE AP PORTABLE VIEW.
+
+The upper chest and thoracic inlet is excluded from the film.
+Allowing for this, the ET tube is no longer visualized. There
+are patchy interstitial and alveolar opacities centered about
+both pulmonary hila. No upper zone redistribution or effusion is
+identified. The opacities most likely represent resolving
+changes due to pulmonary edema and are slightly decreased
+compared with [**2121-1-31**]. Multiple clips noted in the abdomen.
+Density over left upper quadrant is consistent with
+calcification within the splenic artery.
+
+IMPRESSION: Apparent removal of ET tube. Slight interval
+improvement in perihilar infiltrates thought to represent
+resolving pulmonary edema. Clinical correlation requested.
+
+MRI Head ([**1-24**]): TECHNIQUE: Multiplanar T1- and T2-weighted
+brain imaging. Diffusion-weighted images were obtained.
+
+FINDINGS: Again seen are areas of T2 hyperintensity in the right
+posterior parietal and both occipital lobes. Decreased signal
+centrally in the occipital lobe foci are consistent with
+necrosis. Increased T1 signal in the rims of these areas is
+consistent with laminar necrosis. Associated susceptibility
+within these foci are consistent with prior hemorrhage.
+Diffusion sequences demonstrate thin rims of increased signal
+which may be related to susceptibility or T2 shine-through. No
+other diffusion abnormalities are identified to suggest acute
+ischemia. T2 hyperintensity in the periventricular cerebral
+white matter is consistent with chronic microvascular ischemia.
+There is no hydrocephalus, mass effect, or shift of normally
+midline structures. Surrounding osseous and soft tissue
+structures are unremarkable.
+
+TECHNIQUE: 3-D time-of-flight imaging with multiplanar
+reconstructions.
+
+FINDINGS: The major tributaries of the circle of [**Location (un) 431**] are
+patent without evidence of significant stenosis or aneurysmal
+dilatation. Within the limits of this exam, no sign of an
+arteriovenous malformation is apparent.
+
+IMPRESSION:
+1. Overall stable MRI appearance of the brain with
+redemonstration of posterior parietal and occipital lobe
+infarcts.
+2. Normal circle of [**Location (un) 431**] MRA.
+
+EEG ([**1-24**]): FINDINGS:
+ABNORMALITY #1: Throughout this recording, the background rhythm
+
+remained in the 5 to 6 Hz frequency range. They did not reach
+normal
+levels.
+ABNORMALITY #2: Superimposed bursts of mixed frequency
+generalized delta
+and theta slowing were observed periodically. No sharp features
+were
+associated with this slowing.
+BACKGROUND: As described above.
+HYPERVENTILATION: Could not be performed.
+INTERMITTENT PHOTIC STIMULATION: Produced no activation of the
+record.
+SLEEP: The patient remained drowsy throughout the entire
+recording with
+no stage II sleep observed.
+CARDIAC MONITOR: Showed a generally regular rhythm with average
+rate of
+72 bpm.
+IMPRESSION: This is an abnormal EEG due to the presence of
+diffuse
+background slowing throughout the recording. In addition,
+overlying
+bursts of generalized mixed frequency delta and theta slowing
+were seen.
+No epileptiform features were observed with this slowing. No
+electrographic seizures were recorded. This EEG is most
+consistent with
+encephalopathy. Common causes of encephalopathy include
+medications and
+metabolic disturbances.
+
+
+
+Brief Hospital Course:
+FATIGUE/CONFUSION/WEAKNESS: Neurology was consulted in the ED
+for evaluation. Among the findings was an MRI that showed no
+focal findings, and an EEG that showed a toxic-metabolic
+picture. She had a history of [**Doctor Last Name 4116**] syndrome ([**3-13**] bilateral
+occipital/parietal CVA felt to be likely in the setting of
+vertebro-basilar insufficiency), with an element of [**Doctor First Name 9893**]
+syndrome (anosgnosia of visual deficit) elicited by the
+neurologist, but otherwise had no new focal findings, and the
+encephalopathy was attributed to toxic/metabolic etiology,
+likely in the setting of hypercalcemia. She was also treated for
+a UTI with Levofloxacin for 7 days.  She was also found to be
+hyponatremic on admission; all of these factors, along with her
+malnutrition in the setting of malignancy, likely contributed to
+her presentation.  She was given IVFs aggressively, with
+resolution of the hypercalcemia and hyponatremia. She was also
+given pamidronate and calcitonin, and lasix for treatment of the
+hypercalcemia. PTH was normal, and the hypercalcemia was
+attributed to the patient's malignancy.  The calcium normalized
+with the above treatment.  The patient's mental status improved,
+although she had a persistent poor PO intake. She passed a
+speech and swallow study, but was noted to have had a poor
+appetite.  After intubation and ICU stay, her mental status
+remained stable and she had a persistently poor appetite.  She
+was started on Megace, and prior to admission noted an
+improvement in her appetite.
+
+RESPIRATORY DISTRESS: On [**1-30**], the patient was noted to have
+coughed a bit after eating, cleared the food, but then developed
+acute respiratory distress that required intubation and transfer
+to the ICU.  The CXR showed findings c/w pulmonary edema, and
+the patient was felt by the ICU team to have developed flash
+pulmonary edema.  Her last Echo [**10-14**], showed a normal EF with
+some focal wall motion abnormalities.  EKG and cardiac enzymes
+were normal.  She was treated with lasix, as well as empirically
+for aspiration PNA with levofloxacin and flagyl.  She improved
+over the next 3 days, and was extubated without event.  Given
+her wall motion abnormalities, diastolic failure in the setting
+of ischemia was a distinct possibility, and the depending on the
+prognosis of the renal cell cancer, may warrant a stress test as
+an outpatient.  Her breathing remained stable on room air, and
+she was discharged on metoprolol and levo/flagyl with plan of a
+10 day course.
+
+DEPRESSION: The patient was noted to have flattened affect, was
+seen by the social worker, and started on prozac for depression.
+
+
+ANEMIA: The patient was noted on prior hospitalization to have
+had a negative workup for anemia including EGD/colonoscopy.  The
+anemia was attributed to chronic disease.  She required a few
+transfusions, and on d/c her Hct was stable.
+
+ELEVATED LFTs: Noted to have elevation, attributed to metastatic
+disease.
+
+CODE: Patient was full code throughout.
+
+Medications on Admission:
+1.)Ranitidine 150mg [**Hospital1 **]
+2.)Metoprolol 50mg [**Hospital1 **]
+3.)MVI
+
+
+Discharge Medications:
+1. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+3. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+4. Epoetin Alfa 10,000 unit/mL Solution Sig: One (1) injection
+Injection QMOWEFR (Monday -Wednesday-Friday).
+5. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID
+(4 times a day) as needed for thrush.
+6. Paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+8. Ipratropium Bromide 18 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation Q4-6H (every 4 to 6 hours) as needed.
+9. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 6 days.
+10. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 6 days.
+11. Megestrol 40 mg/mL Suspension Sig: Four Hundred (400) mg PO
+DAILY (Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 7**] & Rehab Center - [**Hospital1 8**]
+
+Discharge Diagnosis:
+Renal cell carcinoma
+Urinary tract infection
+Aspiration pneumonia
+Anemia of chronic disease
+Depression
+Oral candidiasis
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Continue all medications as written.
+Encourage PO intake.
+
+Followup Instructions:
+Provider: [**First Name8 (NamePattern2) 251**] [**Name11 (NameIs) **], MD Phone:[**Telephone/Fax (1) 476**] Date/Time:[**2121-3-3**]
+11:00
+
+
+
+"
+137354,30093,149433,2171-08-23,,,ECG,Report,,,"Sinus rhythm.  Inferior myocardial infarction with T wave inversions in the
+inferior leads, possibly in evolution.  Early R wave progression.  Since the
+previous tracing of [**2171-8-22**] T wave inversions are more prominent.
+
+"
+42328,68752,153534,2165-07-18,,,Discharge summary,Report,,,"Admission Date:  [**2165-6-20**]              Discharge Date:   [**2165-7-18**]
+
+Date of Birth:  [**2096-4-12**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 3913**]
+Chief Complaint:
+Elevated WBC count, chest heaviness
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mr [**Known lastname 91697**] is a 69yoM with h/o t2DM, hyperlipidemia, HTN, who
+presented to PCP [**Last Name (NamePattern4) **] [**2165-6-18**] with complaint of generalized
+fatigue x1 month with sore throat and conjunctivitis, as well as
+chest pain and dyspnea when exerting. Labs found glucose 718,
+hct 28, WBC 87,000 with 13% blasts. Pt could not be reached by
+phone with results, so EMS was sent to his house and had to
+break a window to get in, where he was found resting comfortably
+on the couch. He was brought to [**Hospital6 33**] ER. Denied
+SOB, palpitations, melena, BRBPR, fevers, chills, night sweats.
+He was hydrated. In S. Shore ER, WBC 42,500, hct 24.6, mcv 98,
+plt 130, 10-15% blasts.   He was transfused pRBCs and there is
+note about planning to rule out for MI. He was transferred to
+[**Hospital1 18**] for bone marrow biopsy and further care.
+
+Past Medical History:
+- t2dm on oral meds
+- hyperlipidemia
+- HTN
+- b/l hearing loss
+
+Social History:
+ lives alone. Single never married. No children. Worked in a
+machine shop for 44 years. Has had exposure to aerosolized
+chemicals. Came from Poland at age 16 in [**2110**]. Stopped smoking 1
+month ago (40 pack year history). Enjoys coffee brandy, beer,
+says he drinks more than he should. States that last drink was 1
+month ago. He expressed his desire to be DNR/DNI.
+
+Family History:
+father with diabetes. Brother is next of [**Doctor First Name **].
+
+Physical Exam:
+Admission Physical Exam:
+VS:  T 101 P 96 BP 104/70 RR18 O2sat 97%ra
+GEN: AOx3, NAD
+HEENT:  PERRLA. MMM. no LAD. no JVD. neck supple. No cervical,
+supraclavicular, or axillary LAD
+Cards: RRR, no m/r/g, S1/S2 normal
+Pulm: No dullness to percussion, CTAB no crackles or wheezes
+Abd: BS+, soft, NT, no rebound/guarding, no HSM, no [**Doctor Last Name 515**]
+sign
+Extremities: wwp, no edema. DPs, PTs 2+.
+Skin: no rashes or bruising
+Neuro: CNs II-XII intact. 5/5 strength in U/L extremities. DTRs
+2+ BL. sensation intact to LT, cerebellar fxn intact (FTN, HTS).
+gait WNL.
+
+ICU Admission Physical Exam:
+Vitals: T: 98.1 BP: 86/50 --> 94/40 P: 109 (--> 160s, in AF) RR:
+24  SpO2: 95% RA
+General: Alert, oriented, no acute distress with sensation of
+palpitations; very hard of hearing
+HEENT: PERRL, EOMI, sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: bibasilar crackles, no wheezes or rhonchi
+CV: irregularly irregular, normal S1/S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: [**11-25**]+ LE edema (R slightly > L), warm, well perfused, 2+
+pulses, no clubbing or cyanosis.
+
+ICU Discharge Physical Exam:
+
+
+Pertinent Results:
+Admission labs
+
+[**2165-6-20**] 04:11PM URINE  MUCOUS-RARE
+[**2165-6-20**] 04:11PM URINE  GRANULAR-2*
+[**2165-6-20**] 04:11PM URINE  RBC-0 WBC-5 BACTERIA-NONE YEAST-NONE
+EPI-0
+[**2165-6-20**] 04:11PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2165-6-20**] 04:11PM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 155**]-1.010
+[**2165-6-20**] 05:00PM   IPT-DONE
+[**2165-6-20**] 05:00PM   RET AUT-1.4
+[**2165-6-20**] 05:00PM   CD34-DONE CD3-DONE CD4-DONE CD8-DONE
+[**2165-6-20**] 05:00PM   CD5-DONE CD33-DONE CD41-DONE CD56-DONE
+CD64-DONE CD71-DONE CD117-DONE CD45-DONE HLA-DR[**Last Name (STitle) 7735**] [**Name (STitle) 31151**]
+A-DONE KAPPA-DONE CD2-DONE CD7-DONE CD10-DONE CD11c-DONE
+CD13-DONE CD14-DONE CD15-DONE CD19-DONE CD20-DONE LAMBDA-DONE
+[**2165-6-20**] 05:00PM   FIBRINOGE-681*
+[**2165-6-20**] 05:00PM   PT-16.9* PTT-29.0 INR(PT)-1.5*
+[**2165-6-20**] 05:00PM   PLT SMR-NORMAL PLT COUNT-145*
+[**2165-6-20**] 05:00PM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL
+MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-NORMAL
+[**2165-6-20**] 05:00PM   I-HOS-AVAILABLE
+[**2165-6-20**] 05:00PM   NEUTS-2* BANDS-2 LYMPHS-17* MONOS-9 EOS-1
+BASOS-0 ATYPS-3* METAS-0 MYELOS-0 OTHER-66*
+[**2165-6-20**] 05:00PM   WBC-60.1* RBC-3.67* HGB-11.6* HCT-33.9*
+MCV-92 MCH-31.6 MCHC-34.2 RDW-15.6*
+[**2165-6-20**] 05:00PM   %HbA1c-11.6* eAG-286*
+[**2165-6-20**] 05:00PM   ALBUMIN-3.6 CALCIUM-7.9* PHOSPHATE-2.9
+MAGNESIUM-1.3* URIC ACID-6.2
+[**2165-6-20**] 05:00PM   ALT(SGPT)-38 AST(SGOT)-29 LD(LDH)-322* ALK
+PHOS-166* TOT BILI-0.4
+[**2165-6-20**] 05:00PM   estGFR-Using this
+[**2165-6-20**] 05:00PM   estGFR-Using this
+[**2165-6-20**] 05:00PM   GLUCOSE-222* UREA N-19 CREAT-1.0 SODIUM-141
+POTASSIUM-3.3 CHLORIDE-104 TOTAL CO2-25 ANION GAP-15
+[**2165-6-20**] 08:40PM BONE MARROW  [**Doctor Last Name **]-G-DONE IRON-DONE
+
+Pathology:
+[**6-20**]: Bone marrow immunophenotyping - PB: Immunophenotypic
+findings consistent with involvement by acute myelogenous
+leukemia with monocytic differentiation.
+[**6-20**]: Bone marrow pathology: not finalized
+[**6-21**]: Bone marrow cytogenetics: pending
+
+Microbiology:
+[**6-20**]: Blood culture pending
+[**6-20**]: Urine culture negative
+[**6-21**]: Blood culture pending
+[**6-22**]: Blood culture pending
+[**6-23**]: MRSA screen pending
+
+Imaging:
+TTE [**6-20**]: The left atrium is moderately dilated. There is mild
+symmetric left ventricular hypertrophy with normal cavity size.
+There is mild regional left ventricular systolic dysfunction
+with distal septal, anterior and apical akinesis (distal LAD
+territory). The remaining segments contract normally (LVEF =
+40-45%). No masses or thrombi are seen in the left ventricle.
+Right ventricular chamber size and free wall motion are normal.
+The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. Mild to moderate
+([**11-25**]+) mitral regurgitation is seen. There is mild pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+
+CXR [**6-20**]:  Heart size is normal. Widening of the azygos contour
+and convexity within the aorticopulmonary window are present, as
+well as apparent thickening of the posterior wall of the
+bronchus intermedius on the lateral view and symmetrical
+narrowing of the lower trachea on the frontal view. Lungs are
+clear except for minimal linear atelectasis versus scar at the
+bases. Apparent bronchial wall thickening is noted in the lower
+lungs on the lateral view, and note is also made of small
+pleural effusions on this projection. Skeletal structures
+demonstrate mild scoliosis and degenerative changes in the
+spine, as well as healed right rib fractures.
+
+CXR [**6-21**] s/p port placement: Interval placement of a right PICC
+line with the tip in the distal superior vena cava. Cardiac and
+mediastinal contours are essentially unchanged although hilar
+contours are slightly prominent and have previously raised the
+possibility of lymphadenopathy. Correlation with more remote
+chest films would be advised. In the absence of a stability or
+clinical explanation for this finding, consideration should be
+given to further evaluation with CT.  Patchy opacity at the left
+lung base may reflect an area of patchy atelectasis, although an
+early pneumonia cannot be excluded. Clinical correlation
+advised. No pleural effusions or pneumothoraces.
+
+ECHO [**2165-7-15**]:
+The left atrium is dilated. There is mild symmetric left
+ventricular hypertrophy with normal cavity size. There is mild
+regional left ventricular systolic dysfunction with distal
+septal, anterior and apical akinesis. There is no ventricular
+septal defect. Right ventricular chamber size and free wall
+motion are normal. The diameters of aorta at the sinus,
+ascending and arch levels are normal. The aortic valve leaflets
+(3) appear structurally normal with good leaflet excursion and
+no aortic stenosis or aortic regurgitation. The mitral valve
+leaflets are mildly thickened. Mild to moderate ([**11-25**]+) mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+
+IMPRESSION: Regional LV systolic dysfunction consistent with
+distal LAD ischemia/infarction. Mild to moderate mitral
+regurgitation. Mild PA hypertension.
+
+Compared with the prior study (images reviewed) of [**2165-6-24**], no
+change.
+
+[**2165-7-18**] Bone Marrow Flow Cytometry:
+FLOW CYTOMETRY REPORT
+FLOW CYTOMETRY IMMUNOPHENOTYPING
+The following tests (antibodies) were performed:  CD antigens 7,
+13, 15, 33, 34, 117.
+
+RESULTS:
+Three color gating is performed (light scatter vs. CD45) to
+optimize lymphocyte yield.
+
+Cell marker analysis demonstrates that 2-4% of cells isolated
+from this bone marrow express immature antigen, CD34, and
+myeloid associated antigens CD33 and CD117.
+
+INTERPRETATION
+Immunophenotypic findings reveal 2-4% marrow events are CD34
+positive myeloblasts.  While suggestive of regeneration,
+correlation with morphology (bone marrow) S11-[**Numeric Identifier 91698**] W is
+recommended for definitive diagnosis.
+
+Bone Marrow Biopsy [**2165-7-18**]
+SPECIMEN: BONE MARROW ASPIRATE AND CORE BIOPSY:
+
+DIAGNOSIS:
+     Hypercellular marrow for age bone marrow with
+megakaryocytosis, myeloid predominance and left shift in myeloid
+lineage
+
+Note:  The findings are consistent with recovering marrow post
+chemotherapy. By immunohistochemistry CD34 highlights
+approximately 2-5% of blasts, while CD117 highlights
+approximately 10% of blasts and promyelocytes and occasional
+mast cells.  CD33 staining abundant immature and mature myeloid
+elements (20%).  Glycophorin A stain highlights abundant
+collections of erythroid precursors
+
+MICROSCOPIC DESCRIPTION
+
+Peripheral Blood Smear:
+
+The smear is adequate for evaluation.  Erythrocytes exhibit
+aniso- and poikilocytosis.  Echinocytes and dacrocytes are seen.
+Frequent polychromatophils are noted. The white blood cell count
+appears decreased.  Numerous dysplastic (monolobulated)
+neutrophils with toxic granulations are present.  Immature
+monocytes are present.  Platelet count appears increased;
+multiple large and occasional giant forms are seen.
+Differential count shows 55% neutrophils, 1% bands,  22 %
+lymphocytes, 18% monocytes, 0% eosinophils, 0% basophils, 4%
+blasts.  Blasts exhibit open nuclear chromatin , 1 - 2 prominent
+nucleoli and scant amount of light-blue cytoplasm.
+
+Aspirate Smear:
+
+The aspirate material is adequate for evaluation.  However,
+specimen quality appears to be compromised due to poor
+preservation. The M:E ratio is 2.5:1 (normal).  Erythroid
+precursors are normal in normal in number with dyspoietic
+maturation.  Forms with asymmetric nuclear budding and irregular
+nuclear contours are noted.  Myeloid precursors appear normal in
+number and show left-shifted maturation.  Megakaryocytes are
+present in increased numbers, abnormal forms are seen including
+micromegakaryocytes, hypolobated and monolobated forms.
+
+Differential (200 cells) shows:  <1% Blasts,  5% Promyelocytes,
+15% Myelocytes, 11% Metamyelocytes, 33% Bands/Neutrophils, 0%
+Plasma cells,  10% Lymphocytes, 25% Erythroid.   Rare blasts
+(less than 1%) similar to the ones in the diagnostic marrow are
+seen on scan.
+
+Clot Section and Biopsy Slides:
+The biopsy material is adequate for evaluation and consists of a
+core biopsy specimen that measures 1.5 cm and length and
+contains periosteum trabecular bone and bone marrow elements.
+Bone marrow cellularity is approximately 70%.  The M:E ratio
+estimate is increased.  Erythroid precursors are normal in
+number and have normoblastic maturation.  Mild dysplasia seen.
+Myeloid elements are increased in number and exhibit
+left-shifted maturation. Megakaryocytes are present in markedly
+increased numbers, are focally loosely and tightly clustered.
+Several small interstitial aggregates comprised of small
+lymphocytes are present and account for less than 5% of marrow
+cellularity.  Marrow clot section is not submitted.  Numerous
+hemosiderin-laden macrophages are noted.
+
+ADDITIONAL STUDIES:
+Cytogenetics studies:  See separate report.
+Flow cytometry studies:  See separate report.
+
+[**2165-7-18**] Cytogenetics:
+Specimen Type: BONE MARROW - CYTOGENETICS
+Lab #: [**Numeric Identifier 91699**]
+
+Date and Time Taken: [**2165-7-18**] 12:30 PM Date Processed: [**2165-7-18**]
+Requesting Physician: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **]. Location: OUTPATIENT
+
+
+KARYOTYPE: 46,XY[20]
+
+INTERPRETATION:
+No cytogenetic aberrations were identified in 20
+metaphases analyzed from this unstimulated specimen.
+This normal result does not exclude a neoplastic
+proliferation.
+
+Mosaicism and small chromosome anomalies may not be
+detectable using the standard methods employed.
+-------------------INTERPHASE FISH ANALYSIS, 100-300
+CELLS-------------------
+nuc ish(D5S23,D5S721,EGR1)x2,(D7Z1,D7S522)x2,
+(D20S108x2)[100]
+
+FISH evaluation for a 5q deletion was performed with the
+Vysis LSI EGR1/D5S23, D5S721 Dual Color Probe ([**Doctor Last Name 7594**]
+Molecular) for EGR1 at 5q31 and D5S721/D5S23 at 5p15.2 and
+is interpreted as NORMAL. Two EGR1 hybridization signals
+were observed in 97/100 nuclei examined, which is within
+the normal range established for this probe in the
+Cytogenetics Laboratory at [**Hospital1 18**]. Up to 3% of cells in
+normal samples can show apparent 5q deletion using this
+probe set. A normal EGR1 FISH finding can result from
+absence of a 5q deletion, from a 5q deletion that does not
+involve the region to which this probe hybridizes, or from
+an insufficient number of neoplastic cells in the specimen.
+
+FISH evaluation for a 7q deletion was performed with the
+Vysis D7S522/CEP7 Dual Color Probe ([**Doctor Last Name 7594**] Molecular) for
+D7S522 at 7q31 and CEP7 (D7Z1) (chromosome 7 alpha
+satellite DNA) at 7p11.1-q11.1 and is interpreted as
+NORMAL. Two D7S522 hybridization signals were observed in
+99/100 nuclei, which is within the normal range
+established for this probe in the Cytogenetics Laboratory
+at [**Hospital1 18**]. Up to 3% of cells in normal samples can show
+apparent 7q deletion using this probe set. A normal
+D7S522 FISH finding can result from the absence of a 7q
+deletion, from a 7q deletion that does not involve the
+region to which this probe hybridizes, or from an
+insufficient number of neoplastic cells in the specimen.
+
+FISH evaluation for a 20q deletion was performed with the
+Vysis LSI D20S108 Probe ([**Doctor Last Name 7594**] Molecular) at 20q12 and is
+interpreted as NORMAL. Two hybridization signals were
+observed in 95/100 nuclei examined, which is within the
+normal range established for this probe in the Cytogenetics
+Laboratory at [**Hospital1 18**]. Up to 8% of cells in normal samples
+can show apparent 20q deletion using this probe set. A
+normal 20q FISH finding can result from absence of a 20q
+deletion, from a 20q deletion that does not involve the
+region to which this probe hybridizes, or from an
+insufficient number of neoplastic cells in the specimen.
+
+This test was developed and its performance
+determined by the [**Hospital1 18**] Cytogenetics Laboratory
+as required by the CLIA '[**41**] regulations. It has not
+been cleared or approved by the U.S. Food and Drug
+Administration. This test is used for clinical
+purposes.
+
+The D5S23/D5S721 probe
+
+The EGR1 probe
+
+The D7S522 probe
+
+The D7Z1 probe
+
+The D20S108 probe
+
+Discharge labs:
+[**2165-7-18**] 06:15
+COMPLETE BLOOD COUNT
+White Blood Cells 3.9* 4.0 - 11.0 K/uL
+Red Blood Cells 3.24* 4.6 - 6.2 m/uL
+Hemoglobin 9.5* 14.0 - 18.0 g/dL
+Hematocrit 27.1* 40 - 52 %
+MCV 84 82 - 98 fL
+MCH 29.3 27 - 32 pg
+MCHC 35.0 31 - 35 %
+RDW 15.2 10.5 - 15.5 %
+DIFFERENTIAL
+Neutrophils 44* 50 - 70 %
+Bands 2 0 - 5 %
+Lymphocytes 24 18 - 42 %
+Monocytes 23* 2 - 11 %
+Eosinophils 0 0 - 4 %
+Basophils 0 0 - 2 %
+Atypical Lymphocytes 0 0 - 0 %
+Metamyelocytes 2* 0 - 0 %
+Myelocytes 4* 0 - 0 %
+Blasts 1* 0 - 0 %
+RED CELL MORPHOLOGY
+Hypochromia 1+
+Anisocytosis OCCASIONAL
+Poikilocytosis OCCASIONAL
+Macrocytes NORMAL
+Microcytes 1+
+Polychromasia NORMAL
+BASIC COAGULATION (PT, PTT, PLT, INR)
+Platelet Smear VERY HIGH
+Platelet Count 687* 150 - 440 K/uL
+MISCELLANEOUS HEMATOLOGY
+Granulocyte Count [**2181**]* 2200 - 8250 #/uL
+[**2165-7-18**] 06:15
+RENAL & GLUCOSE
+Glucose 84 70 - 100 mg/dL
+  IF FASTING, 70-100 NORMAL, >125 PROVISIONAL DIABETES
+Urea Nitrogen 9 6 - 20 mg/dL
+Creatinine 0.5 0.5 - 1.2 mg/dL
+Sodium 143 133 - 145 mEq/L
+Potassium 4.2 3.3 - 5.1 mEq/L
+Chloride 106 96 - 108 mEq/L
+Bicarbonate 29 22 - 32 mEq/L
+Anion Gap 12 8 - 20 mEq/L
+ENZYMES & BILIRUBIN
+Alanine Aminotransferase (ALT) 28 0 - 40 IU/L
+Asparate Aminotransferase (AST) 17 0 - 40 IU/L
+Lactate Dehydrogenase (LD) 175 94 - 250 IU/L
+Alkaline Phosphatase 239* 40 - 130 IU/L
+Bilirubin, Total 0.2 0 - 1.5 mg/dL
+CHEMISTRY
+Calcium, Total 8.9 8.4 - 10.3 mg/dL
+Phosphate 3.2 2.7 - 4.5 mg/dL
+Magnesium 1.8 1.6 - 2.6 mg/dL
+
+Brief Hospital Course:
+Mr [**Known lastname 91697**] is a 69yoM with h/o t2DM, hyperlipidemia, HTN, who
+presented to PCP [**Last Name (NamePattern4) **] [**2165-6-18**] with complaint of generalized
+fatigue x1 month with sore throat and conjunctivitis, as well as
+chest pain and dyspnea when exerting, diagnosed with new-onset
+AML.  Admission c/b ICU transfer for afib with RVR in setting of
+idarubicin treatment and hypotension s/p beta blocker.
+
+# Newly diagnosed AML: blast count was as high as 80k at
+presentation. Was started on hydroxurea, allopurinol, and
+bicarb-[**Doctor First Name **] IVF, with a subsequent drop in WBC. Blast count was
+as high as 60%. Although there was concern that starting
+induction therapy may be risky for his heart, given low EF (see
+below), cardiology was consulted and it was felt that the risk
+of not treating AML was greater than the potentially cardiac
+toxicity. He was started on 7+3 induction therapy
+(cytarabine/idarubicin) on [**6-22**].  This was held on [**6-23**] due to
+possible cardiac toxicity (see below), but then restarted on [**6-24**]
+and completed without further event. Repeat bone marrow biopsy
+was performed on [**2165-7-15**] (report attached).  Repeat echo on
+[**2165-7-15**] showed unchanged LVEF.
+
+#Febrile Neutropenia: spiked to 102.1 on admission ([**6-20**]).
+Source is unknown. He did have sore throat and conjunctivitis as
+that time which was thought could be viral. More likely is
+related to his AML. No source of infection was identified, but
+because of persistent febrile neutropenia, he was started on
+cefepime, vancomycin, and micafungin.  Patient's fever came
+down, but on the morning of HD6, he became febrile again to
+100.6.  He had been noted to have expanding erythema at a site
+where his IV had infiltrated, and there was suspicion of
+cellulitis/phlebitis at that site.  Otherwise, patient received
+blood cultures and urine cultures that were all negative.  As
+the patient was already broadly covered, his antibiotics were
+not changed.  The fever trended down by itself over the next
+day.  Following chemotherapy, as his counts approached nadir, he
+developed low grade fevers less than 100 F, but CT chest showed
+only resolving cryptogenic organising pneumonia.  His fevers
+resolved and he remained covered with broad spectrum antibiotics
+until the end of his hospitalization.
+
+#Atrial Fibrillation:  On [**6-23**], the patient was transferred to
+the ICU for afib with RVR, possibly secondary to volume overload
+vs. anthracycline toxicity vs. electrolyte abnormalities, as
+well as hypotension, which resulted from attempted rate control
+with beta blocker.  In the [**Hospital Unit Name 153**], the patient spontaneously
+converted back into NSR and was started on oral metoprolol
+tartrate 25mg PO bid.  He was closely monitored for hemodyamic
+stability through 4 days of idarubicin administration without
+cardiac events. He remained in sinus rhythm for the rest of his
+hospitalization.
+
+# CHF - TTE on [**6-20**] showed EF 40-45% with anterior wall motion
+dyskinesis. Given risk of anthracyclin cardiac toxicity,
+cardiology was consulted and felt that chemo was still necessary
+at this time, although with increased heart risk. They also felt
+that he probably had an MI about 1 month ago. Pt developed chest
+pain on [**6-21**], with unchanged EKG and troponin that stayed flat
+at 0.05. He was fairly aggressively given bicarb [**Doctor First Name **] IVF in
+preparation for chemo, and did 3rd space some fluid into his
+lungs but as of [**6-22**] was saturating in high 90's on room air. He
+was transfused pRBCs to keep hct >28.  Serial TTEs were
+performed to monitor for deterioration of cardiac function while
+on idarubicin.  TTE on [**6-24**] was unchanged from [**6-20**].  Patient
+reported throughout admission that he has SOB when lying flat
+and that his legs were swollen.  On exam, he had decreased lung
+sounds in lower lobes bilaterally.  He was frequently diuresed
+throughout the day with IV Lasix 20mg and kept at a fluid
+balance of -500cc. Following transfer to the floor from the ICU,
+he had no further problems with dyspnea.  Repeat TTE on [**2165-7-15**]
+showed an unchanged LVEF and no new abnormalities since
+pre-chemo.
+
+#Anemia: Hct was 24 on admission. Patient??????s Hct kept trending
+down with no obvious source of blood loss and no evidence of
+hemolysis.  There is an expected pancyotpenia [**12-26**] chemo, however
+twice he had had an abrupt drop that may be in excess of that
+expected.  Patient denied GI bleeding, but later mentioned that
+he had had several episodes of black-colored diarrhea that he
+did not mention to medical staff.  His hemolysis labs were
+negative.  He was transfused 2U of blood of [**6-25**] and 2U of blood
+on [**6-27**].  During the [**6-25**] transfusion, patient complained of
+dyspnea after the first unit of pRBCs and was found to have
+congestion CXR, consistent with either pulmonary edema or TRALI.
+ Blood bank was contact[**Name (NI) **] 2 days later about suspicion of TRALI,
+however his symptoms resolved.  He received further transfusions
+of blood and platelets as required without further event.
+
+# Diabetes: Blood sugar at outside hospital <700, HgbA1c 11.6%.
+[**Last Name (un) **] Endocrine was consulted, and started on RISS and standing
+lantus, with improvement in blood sugars. His lantus was
+downtitrated throughout admission and his ISS was changed to
+humalog.  He was transitioned to po glimeperide for discharge.
+
+Medications on Admission:
+- lisinopril 20mg PO daily
+- pravastatin 20mg PO daily (pt does not take this)
+- erythromycin eye ointment since [**6-18**] for conjunctivitis
+
+Discharge Medications:
+1. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+2. glimepiride 2 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+3. fluconazole 200 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+4. acyclovir 400 mg Tablet Sig: One (1) Tablet PO three times a
+day.
+Disp:*90 Tablet(s)* Refills:*2*
+5. Bactrim 400-80 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Acute Myeloid Leukemia
+Atrial Fibrillation
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mr [**Known lastname 91697**],
+
+It was a pleasure taking care of you at [**Hospital1 18**].
+
+You were admitted to the hospital because you were found to have
+leukemia. You were started on chemotherapy to treat this
+leukemia.  When chemotherapy was started, you developed an
+abnormal heart rhythm.  We started you on treatment for this,
+but your blood pressure dropped and you were transferred to the
+ICU.  However, your blood pressure and heart rhythm normalized
+spontaneously without additional treatment and we transferred
+you back to the [**Hospital1 **] to complete your chemotherapy.  You
+completed your chemotherapy without any additional problems.
+
+During your hospitalization you also had fevers.  We treated you
+with antibiotics and your fevers resolved.
+
+Please take the following medications following discharge:
+-METOPROLOL.  Please take 25mg twice daily.
+-GLIMEPIRIDE.  Please take 2mg twice daily.
+-FLUCONAZOLE.  Please take 200mg once daily.
+-ACYCLOVIR.  Please take one 400mg tablet every 8 hours.
+-BACTRIM.  Please take one single strength tablet daily.
+
+Please followup with Dr. [**Last Name (STitle) **] for further treatment for your
+leukemia, see below.
+
+Followup Instructions:
+When: Monday [**2165-7-22**] am.
+DIABETES
+With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3640**], [**MD Number(3) 22775**]: [**Hospital **] Clinic
+One [**Last Name (un) **] Place
+[**Location (un) 86**], [**Numeric Identifier 718**]
+Phone: [**Telephone/Fax (1) 3402**]
+
+Department: HEMATOLOGY/BMT
+When: THURSDAY [**2165-7-25**] at 12:00 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 7779**], MD [**Telephone/Fax (1) 3241**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: HEMATOLOGY/BMT
+When: THURSDAY [**2165-7-25**] at 12:00 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 9574**], NP [**Telephone/Fax (1) 3241**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+
+
+Completed by:[**2165-7-30**]"
+264545,18737,110846,2135-06-29,,,ECG,Report,,,"Normal sinus rhythm.  Borderline A-V conduction delay.  Low voltage in the
+precordial leads.  Q waves in leads III and aVF consistent with prior inferior
+myocardial infarction.  Compared to the previous tracing of [**2135-6-25**] no
+diagnostic interval change.
+
+"
+99864,14828,144708,2156-08-21,,,Echo,Report,,,"PATIENT/TEST INFORMATION:
+Indication: Endocarditis. Left ventricular function.
+Height: (in) 67
+Weight (lb): 140
+BSA (m2): 1.74 m2
+BP (mm Hg): 102/52
+HR (bpm): 68
+Status: Inpatient
+Date/Time: [**2156-8-21**] at 12:37
+Test: TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+
+INTERPRETATION:
+
+Findings:
+
+A pleural effusion is present.
+LEFT ATRIUM: Normal LA size.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. Normal interatrial septum.
+No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thicknesses and cavity size. Mildly depressed
+LVEF. No LV mass/thrombus.
+
+RIGHT VENTRICLE: Normal RV chamber size. Borderline normal RV systolic
+function.
+
+AORTA: Normal aortic root diameter.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No masses or vegetations on
+aortic valve. No AS. Trace AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No mass or vegetation on
+mitral valve. Mild mitral annular calcification. Moderate to severe (3+) MR.
+Eccentric MR jet.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. No mass or vegetation on
+tricuspid valve. Mild to moderate [[**12-15**]+] TR. Mild PA systolic hypertension.
+
+PERICARDIUM: Small pericardial effusion. No echocardiographic signs of
+tamponade.
+
+Conclusions:
+The left atrium is normal in size. No atrial septal defect is seen by 2D or
+color Doppler. Left ventricular wall thicknesses and cavity size are normal.
+Overall left ventricular systolic function is mildly depressed with mild
+global hypokinesis and near akinesis of the basal to mid inferior wall (?CAD).
+No masses or thrombi are seen in the left ventricle. Right ventricular chamber
+size is normal. Right ventricular systolic function is borderline normal. The
+aortic valve leaflets (3) appear structurally normal with good leaflet
+excursion. No masses or vegetations are seen on the aortic valve. There is no
+aortic valve stenosis. Trace aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. No mass or vegetation is seen on the mitral
+valve. Moderate to severe (3+) mitral regurgitation is seen. The mitral
+regurgitation jet is eccentric (posteriorly directed). There is mild pulmonary
+artery systolic hypertension. There is a very small, echodense pericardial
+effusion. There are no echocardiographic signs of tamponade.
+
+
+"
+218530,32417,,2151-05-14,,,ECG,Report,,,"Sinus rhythm. Compared to the previous tracing of [**2150-10-31**] no change.
+
+"
+67678,1679,103213,2132-01-07,,,Echo,Report,,,"PATIENT/TEST INFORMATION:
+Indication: Left ventricular function.
+Height: (in) 63
+Weight (lb): 180
+BSA (m2): 1.85 m2
+BP (mm Hg): 124/76
+HR (bpm): 108
+Status: Inpatient
+Date/Time: [**2132-1-7**] at 12:04
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: Mild LA enlargement. Elongated LA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size.
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size. Hyperdynamic LVEF.
+TVI E/e' >15, suggesting PCWP>18mmHg. TVI e'<0.08m/s c/w elevated LV filling
+pressures.
+
+RIGHT VENTRICLE: Normal RV wall thickness. Normal RV chamber size. Normal RV
+systolic function.
+
+AORTA: Normal aortic root diameter. Normal ascending aorta diameter.
+
+AORTIC VALVE: Mild AS. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild mitral annular
+calcification. Mild MS. Trivial MR.
+
+TRICUSPID VALVE: Mild [1+] TR. Moderate PA systolic hypertension.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality.
+
+Conclusions:
+1. The left atrium is mildly dilated. The left atrium is elongated.
+2.There is mild symmetric left ventricular hypertrophy. The left ventricular
+cavity size is normal. Left ventricular systolic function is hyperdynamic
+(EF>75%). Tissue velocity imaging E/e' is elevated (>15) suggesting increased
+left ventricular filling pressure (PCWP>18mmHg). Tissue velocity imaging
+demonstrates an e' of <0.08m/s c/w an elevated left ventricular filling
+pressure (>12mmHg). Right ventricular chamber size is normal.
+3.Right ventricular systolic function is normal.
+4.There is mild aortic valve stenosis. No aortic regurgitation is seen.
+5.The mitral valve leaflets are mildly thickened. There is moderate mitral
+annular calcification. There is mild mitral stenosis visually. However, the
+gradient across the mitral valve is significant. This can be explained by a
+high cardiac output.Trivial mitral regurgitation is seen.
+6.There is moderate pulmonary artery systolic hypertension.
+7.There is no pericardial effusion.
+
+Compared with the findings of the prior report (images unavailable for review)
+of [**2131-12-28**], no significant change. If clinically necessary, would recommend a
+repeat transthoracic echo with focused views on the mitral valve to obtain
+pressure half times of the mitral valve and obtain a more accurate assessment
+of the degree of stenosis of the mitral valve.
+
+
+"
+190136,57321,,2133-11-18,,,ECG,Report,,,"ECG interpreted by ordering physician.
+[**Name10 (NameIs) 2**] see corresponding office note for interpretation.
+
+"
+207075,4449,134197,2120-12-03,,,ECG,Report,,,"Sinus rhythm with atrial premature beats including an atrial triplet.
+ST-T wave abnormalities. Clinical correlation is suggested. No previous tracing
+available for comparison.
+TRACING #1
+
+"
+237870,86199,101299,2147-12-08,,,ECG,Report,,,"Sinus rhythm. Normal tracing. Compared to the previous tracing of [**2147-11-27**] the
+rhythm is sinus. There is no evidence of a bypass tract on the current
+tracing.
+
+"
+263311,17589,101936,2113-12-31,,,ECG,Report,,,"Sinus tachycardia. Biatrial abnormality. Compared to the previous tracing
+of [**2113-12-28**] multiple abnormalities persist without major change.
+TRACING #1
+
+"
+219364,30050,161985,2181-12-30,,,ECG,Report,,,"Sinus rhythm.  Inferior myocardial infarction, age indeterminate.  Non-specific
+T wave changes.  Clinical correlation is suggested. No previous tracing
+available for comparison.
+
+"
+294711,17075,135495,2196-04-20,,,ECG,Report,,,"Sinus rhythm
+Borderline prolonged Q-Tc interval - clinical correlation is suggested for
+possible metabolic/drug effect - ? low calcium
+Late precordial QRS transition
+Consider chronic pulmonary disease
+Since previous tracing of [**2196-4-6**]: Q-Tc interval appears more prolonged
+
+"
+86410,99790,183369,2190-11-12,,,Echo,Report,,,"PATIENT/TEST INFORMATION:
+Indication: Assess for left atrial appendage thrombus prior to A Flutter ablation
+Height: (in) 72
+Weight (lb): 215
+BSA (m2): 2.20 m2
+BP (mm Hg): 145/110
+HR (bpm): 150
+Status: Inpatient
+Date/Time: [**2190-11-12**] at 15:30
+Test: Portable TEE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: Mild LA enlargement. Mild spontaneous echo contrast in the body
+of the LA. Good (>20 cm/s) LAA ejection velocity. No thrombus in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD by 2D or color
+Doppler.
+
+LEFT VENTRICLE: Overall normal LVEF (>55%).
+
+AORTA: No atheroma in aortic arch. No atheroma in descending aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AR.
+
+MITRAL VALVE: Normal mitral valve leaflets. Mild (1+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed above. I certify
+I was present in compliance with HCFA regulations. The patient was monitored
+by a nurse [**First Name (Titles) 1**] [**Last Name (Titles) 2**] throughout the procedure. Local anesthesia was
+provided by benzocaine topical spray. The posterior pharynx was anesthetized
+with 2% viscous lidocaine. No TEE related complications. The rhythm appears to
+be atrial flutter.
+
+Conclusions:
+The left atrium is mildly dilated. Mild spontaneous echo contrast is seen in
+the body of the left atrium. No thrombus is seen in the left atrial appendage.
+No atrial septal defect is seen by 2D or color Doppler. Overall left
+ventricular systolic function is normal (LVEF>55%). The aortic valve leaflets
+(3) are mildly thickened. No aortic regurgitation is seen. The mitral valve
+leaflets are structurally normal. Mild (1+) mitral regurgitation is seen.
+There is no pericardial effusion.
+
+Impression: Mild spontaneous echo contrast in the left atrial appendage. No
+thrombus in the left atrial appendage. Normal left ventricular function. Mild
+mitral regurgitation.
+
+
+"
+295809,11897,167722,2121-04-10,,,ECG,Report,,,"Sinus rhythm
+Rightward axis
+Right bundle branch block
+Inferior infarct, age indeterminate - possible acute/recent/in evolution
+Anterior (and ? lateral) myocardial infarction, age indeterminate
+Low QRS voltage
+Clinical correlation is suggested
+Since previous tracing of [**2121-4-9**], inferolateral ST-T wave changes more
+prominent
+
+"
+299027,68457,,2130-01-01,,,ECG,Report,,,"Sinus tachycardia. T wave inversions in leads I, aVL and V3-V4. Consider
+myocardial ischemia. Clinical correlation and repeat tracing are suggested.
+Compared to the previous tracing of [**2129-12-29**] QRS complex is narrower. Thus,
+right bundle-branch block criteria are no longer met.
+
+"
+242764,61991,,2160-02-03,,,ECG,Report,,,"Sinus rhythm with diffuse ST-T wave abnormalities in the lateral and anterior
+leads.  These may be secondary to myocardial ischemia.  Q-T interval
+prolongation.  Compared to the previous tracing of [**2159-7-31**] the ST-T wave
+changes are new and the Q-T interval is shorter.  Clinical correlation is
+suggested.
+
+"
+219897,50362,,2182-01-31,,,ECG,Report,,,"Sinus rhythm with increase in rate as compared to the previous tracing
+of [**2182-1-30**]. The previously mentioned multiple abnormalities recorded on [**2182-1-30**]
+persist without diagnostic interim change. Clinical correlation is suggested.
+TRACING #4
+
+"
+66231,3914,162645,2200-01-22,,,Echo,Report,,,"PATIENT/TEST INFORMATION:
+Indication: Bioprothetic aortic valve [**2197**]. MRSA bactermia assess for endocarditis.
+Height: (in) 69
+Weight (lb): 155
+BSA (m2): 1.86 m2
+BP (mm Hg): 138/61
+HR (bpm): 70
+Status: Inpatient
+Date/Time: [**2200-1-22**] at 11:14
+Test: TEE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: Dilated LA. No mass/thrombus in the [**Name Prefix (Prefixes) 4**] [**Last Name (Prefixes) 5**] LAA. Good (>20 cm/s)
+LAA ejection velocity.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No mass or thrombus in the RA or RAA.
+
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size and systolic
+function (LVEF>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Simple atheroma in aortic arch. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Bioprosthetic aortic valve prosthesis (AVR). Thickened AVR
+leaflets. Paravalvular leak. No aortic valve abscess. Trace AR.
+
+MITRAL VALVE: Normal mitral valve leaflets. No mass or vegetation on mitral
+valve. Moderate (2+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. No mass or vegetation on
+tricuspid valve. Mild to moderate [[**1-7**]+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets. No
+vegetation/mass on pulmonic valve.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed above. I certify
+I was present in compliance with HCFA regulations. The patient was monitored
+by a nurse [**First Name (Titles) 1**] [**Last Name (Titles) 2**] throughout the procedure. The posterior pharynx was
+anesthetized with 2% viscous lidocaine. No TEE related complications. 0.1 mg
+of IV glycopyrrolate was given as an antisialogogue prior to TEE probe
+insertion. Echocardiographic results were reviewed by telephone with the MD
+caring for the patient.
+
+Conclusions:
+The left atrium is dilated. No mass/thrombus is seen in the left or right
+atrium/atrial appendage. There is mild symmetric left ventricular hypertrophy
+with normal cavity size and systolic function (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. There are simple atheroma in the
+aortic arch and descending thoracic aorta. A bioprosthetic aortic valve
+prosthesis is present. The right coronary cusp of the prosthetic aortic valve
+appears thickened without a definite vegetation. A small paravalvular aortic
+valve leak is present near the junction of the right and left coronary cusps.
+No aortic valve abscess is seen. Trace (physiologic) aortic regurgitation is
+seen. The mitral valve leaflets are structurally normal. Moderate (2+) mitral
+regurgitation is seen. No vegetation/mass is seen on the mitral, tricuspid or
+pulmonic valves. There is no pericardial effusion.
+
+IMPRESSION: Thickened right coronary cusp of the bioprosthetic aortic valve
+without evidence of endocarditis or aortic root abscess. If clinically
+indicated, repeat TEE in the case of treatment failure may increase the
+sensitivity of the study.
+
+
+"
+112627,46252,161548,2201-03-05,,,ECG,Report,,,"Sinus rhythm with periods of demand atrial pacing. Non-specific
+intraventricular conduction delay. Voltage criteria for left ventricular
+hypertrophy. Non-specific ST-T wave abnormalities. Compared to the previous
+tracing of this day there is no change except for occasional atrial pacing.
+
+"
