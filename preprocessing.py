@@ -6,6 +6,7 @@ df_notes = pd.read_csv("Dataset/notes.csv")
 df_notes = df_notes.sort_values(by=['SUBJECT_ID', 'HADM_ID', 'CHARTDATE'])
 
 df_icd9 = pd.read_csv('Dataset/icd9.csv')
+df_icd9['ICD9_CODE'] = df_icd9['ICD9_CODE'].fillna('Unknown')
 
 # Create HAS_CAD Label (has coronary artery disease)
 cad_codes = ['410', '411', '412', '413', '414']
