@@ -63,9 +63,18 @@ df_notes['Label'] = df_notes['Label'].astype(int)
 # Split train, val, and test files by patients
 subject_ids = df_notes['ID'].unique()
 
+# Split train, val, and test files by patients
+subject_ids = df_notes['ID'].unique()
+
 train_ids = np.random.choice(subject_ids, size=2000, replace=False)
-val_ids = np.random.choice([id for id in subject_ids if id not in train_ids], size=1000, replace=False)
-test_ids = np.random.choice([id for id in subject_ids if id not in train_ids and id not in val_ids], size=1000, replace=False)
+remaining_ids = [id for id in subject_ids if id not in train_ids]
+val_ids = np.random.choice(remaining_ids, size=1000, replace=False)
+remaining_ids = [id for id in remaining_ids if id not in val_ids]
+test_ids = np.random.choice(remaining_ids, size=min(1000, len(remaining_ids)), replace=False)
+
+df_train = df_notes[df_notes['ID'].isin(train_ids)]
+df_val = df_notes[df_notes['ID'].isin(val_ids)]
+df_test = df_notes[df_notes['ID'].isin(test_ids)]
 
 df_train = df_notes[df_notes['ID'].isin(train_ids)]
 df_val = df_notes[df_notes['ID'].isin(val_ids)]
