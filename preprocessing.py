@@ -44,13 +44,13 @@ def preprocessing(df_notes):
             rows.append({
                 'TEXT': ' '.join(x[j * 318:(j + 1) * 318]),
                 'Label': df_notes.HAS_CAD.iloc[i],
-                'ID': df_notes.HADM_ID.iloc[i]
+                'ID': df_notes.SUBJECT_ID.iloc[i]
             })
         if len(x) % 318 > 10:
             rows.append({
                 'TEXT': ' '.join(x[-(len(x) % 318):]),
                 'Label': df_notes.HAS_CAD.iloc[i],
-                'ID': df_notes.HADM_ID.iloc[i]
+                'ID': df_notes.SUBJECT_ID.iloc[i]
             })
 
     want = pd.DataFrame(rows)
@@ -58,4 +58,18 @@ def preprocessing(df_notes):
 
 df_notes = preprocessing(df_notes)
 df_notes['Label'] = df_notes['Label'].astype(int)
-# df_notes.to_csv("processed_notes.csv", index=False)
+
+# Split train, val, and test files by patients
+subject_ids = df_notes['ID'].unique()
+
+train_ids = np.random.choice(subject_ids, size=2000, replace=False)
+val_ids = np.random.choice([id for id in subject_ids if id not in train_ids], size=1000, replace=False)
+test_ids = np.random.choice([id for id in subject_ids if id not in train_ids and id not in val_ids], size=1000, replace=False)
+
+df_train = df_notes[df_notes['ID'].isin(train_ids)]
+df_val = df_notes[df_notes['ID'].isin(val_ids)]
+df_test = df_notes[df_notes['ID'].isin(test_ids)]
+
+df_train.to_csv("train_processed.csv", index=False)
+df_val.to_csv("val_processed.csv", index=False)
+df_test.to_csv("test_processed.csv", index=False)
