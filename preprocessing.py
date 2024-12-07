@@ -76,10 +76,6 @@ df_train = df_notes[df_notes['ID'].isin(train_ids)]
 df_val = df_notes[df_notes['ID'].isin(val_ids)]
 df_test = df_notes[df_notes['ID'].isin(test_ids)]
 
-df_train = df_notes[df_notes['ID'].isin(train_ids)]
-df_val = df_notes[df_notes['ID'].isin(val_ids)]
-df_test = df_notes[df_notes['ID'].isin(test_ids)]
-
 df_train.to_csv("train_processed.csv", index=False)
 df_val.to_csv("val_processed.csv", index=False)
 df_test.to_csv("test_processed.csv", index=False)
