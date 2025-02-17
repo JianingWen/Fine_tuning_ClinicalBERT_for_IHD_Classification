@@ -1,1 +1,1 @@
-# CSCI_5980-8980_Final_Project
+# IHD heart disease classification
